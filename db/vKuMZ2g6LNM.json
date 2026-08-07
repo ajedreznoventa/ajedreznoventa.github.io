@@ -1,0 +1,54 @@
+{
+  "_id": "vKuMZ2g6LNM",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "publishedAt": "2021-09-15T11:30:09Z",
+    "title": "Espeluznante Ataque Indio de Rey | Sergey Karjakin vs Sam Shankland | Copa del Mundo FIDE 2021",
+    "description": "¡Buenas! En este video analizamos una intensa partida entre Sergey Karjakin y Sam Shankland en la Copa del Mundo de julio. Karjakin, obligado a ganar con blancas, optó por el ataque indio de rey ante la defensa francesa sorpresa de Shankland. Exploramos cómo ambos jugadores desarrollaron sus planes estratégicos en flancos opuestos, hasta llegar a un brillante sacrificio de torre que selló el destino de la partida. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karjakin #ataqueindioderey\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"World Cup\"]\n[Site \"Krasnaya Polyana (Sochi) RUS\"]\n[Date \"2021.07.29\"]\n[EventDate \"2021.07.12\"]\n[Round \"6.2\"]\n[Result \"1-0\"]\n[White \"Sergey Karjakin\"]\n[Black \"Samuel Shankland\"]\n[ECO \"C00\"]\n[WhiteElo \"2757\"]\n[BlackElo \"2709\"]\n[PlyCount \"72\"]\n\n1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 a5 6. Bg2 a4 7. a3 c5 8. O-O\nNc6 9. Re1 O-O 10. e5 Nd7 11. Nf1 b5 12. h4 Bb7 13. h5 h6 14. Bf4 Qb6 15.\nQd2 Rfc8 16. g4 Qd8 17. N1h2 Ra6 18. Kh1 b4 19. Rg1 Nf8 20. axb4 cxb4 21.\nd4 Na5 22. g5 Nc4 23. Qc1 hxg5 24. Bxg5 b3 25. Bxe7 Qxe7 26. Bf1 a3 27. Rxg7+\nKxg7 28. Ng4 f5 29. exf6+ Qxf6 30. Nxf6 axb2 31. Qg5+ Kf7 32. h6 Ng6 33. Nh4\nbxa1=Q 34. Qxg6+ Ke7 35. Qg7+ Kd6 36. Qd7# 1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vKuMZ2g6LNM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vKuMZ2g6LNM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vKuMZ2g6LNM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vKuMZ2g6LNM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "videoId": "vKuMZ2g6LNM"
+  },
+  "videoContentDetails": {
+    "duration": "PT12M16S"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 a5 6. Bg2 a4 7. a3 c5 8. O-O *",
+      "fen": "rnbqk2r/1p2bppp/4pn2/2pp4/p3P3/P2P1NP1/1PPN1PBP/R1BQ1RK1 b kq - 0 1",
+      "playerWhite": "Sergey Karjakin",
+      "playerBlack": "Sam Shankland",
+      "date": "2021-07-29"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T19:11:18.318Z",
+    "playerWhite": "Sergey Karjakin",
+    "playerBlack": "Samuel Shankland",
+    "href": "https://www.chess.com/games/view/16086370",
+    "result": "1-0",
+    "movesCount": 36,
+    "year": 2021
+  }
+}

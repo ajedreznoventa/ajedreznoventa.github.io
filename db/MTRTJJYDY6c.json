@@ -1,0 +1,59 @@
+{
+  "_id": "MTRTJJYDY6c",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "publishedAt": "2021-10-18T18:57:50Z",
+    "title": "Ganando CON Peones Colgantes | Korchnoi vs Karpov | Campeonato Mundial Merano 1981 | Ronda 1",
+    "description": "¡Buenas! En esta primera partida del match por el título mundial 1981 en Merano, Karpov demostró su maestría estratégica frente a Viktor Korchnoi. Con las piezas negras, Karpov supo neutralizar los planes de las blancas y aprovechar la estructura de peones colgantes para obtener ventaja. La ruptura temática d4 permitió activar sus piezas y crear amenazas decisivas, dejando a Korchnoi sin contrajuego. Una victoria que ilustra cómo la precisión posicional puede imponerse en partidas de alto nivel.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #korchnoi #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Korchnoi World Championship Match\"]\n[Site \"Merano ITA\"]\n[Date \"1981.10.01\"]\n[EventDate \"?\"]\n[Round \"1\"]\n[Result \"0-1\"]\n[White \"Viktor Korchnoi\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"D58\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"86\"]\n\n1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O\n7. e3 b6 8. Rc1 Bb7 9. Be2 Nbd7 10. cxd5 exd5 11. O-O c5\n12. dxc5 bxc5 13. Qc2 Rc8 14. Rfd1 Qb6 15. Qb1 Rfd8 16. Rc2\nQe6 17. Bg3 Nh5 18. Rcd2 Nxg3 19. hxg3 Nf6 20. Qc2 g6 21. Qa4\na6 22. Bd3 Kg7 23. Bb1 Qb6 24. a3 d4 25. Ne2 dxe3 26. fxe3 c4\n27. Ned4 Qc7 28. Nh4 Qe5 29. Kh1 Kg8 30. Ndf3 Qxg3 31. Rxd8+\nBxd8 32. Qb4 Be4 33. Bxe4 Nxe4 34. Rd4 Nf2+ 35. Kg1 Nd3\n36. Qb7 Rb8 37. Qd7 Bc7 38. Kh1 Rxb2 39. Rxd3 cxd3 40. Qxd3\nQd6 41. Qe4 Qd1+ 42. Ng1 Qd6 43. Nhf3 Rb5 0-1",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/MTRTJJYDY6c/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/MTRTJJYDY6c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/MTRTJJYDY6c/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/MTRTJJYDY6c/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/MTRTJJYDY6c/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "MTRTJJYDY6c"
+  },
+  "videoContentDetails": {
+    "duration": "PT13M56S"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O *",
+      "fen": "rnbq1rk1/ppp1bpp1/4pn1p/3p4/2PP3B/2N2N2/PP2PPPP/R2QKB1R w KQ - 0 1",
+      "playerWhite": "Viktor Korchnoi",
+      "playerBlack": "Anatoly Karpov",
+      "date": "1981-10-01"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T19:10:33.305Z",
+    "playerWhite": "Viktor Korchnoi",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/316326",
+    "result": "0-1",
+    "movesCount": 43,
+    "year": 1981
+  }
+}

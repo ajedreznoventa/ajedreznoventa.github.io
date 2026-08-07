@@ -1,0 +1,59 @@
+{
+  "_id": "Fjl1hzmyM0s",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "publishedAt": "2021-10-13T11:30:05Z",
+    "title": "ATAQUE KERES A QUEMARROPA  | Anatoly Karpov vs Boris Spassky | Tilburg 1980",
+    "description": "¡Buenas! En esta partida de Tilburg 1980, Anatoly Karpov demostró su maestría estratégica contra Boris Spassky en la Siciliana abierta. Karpov supo neutralizar el ataque por el flanco de las blancas y materializar su ventaja paso a paso, aprovechando las debilidades creadas en la estructura de peones de Spassky. Un sacrificio de alfil clave permitió abrir columnas decisivas y crear amenazas implacables. La victoria final de Karpov es un ejemplo de cómo la precisión posicional puede imponerse sobre el juego dinámico de un campeón.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Tilburg Interpolis\"]\n[Site \"Tilburg NED\"]\n[Date \"1980.09.29\"]\n[EventDate \"1980.09.19\"]\n[Round \"9\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Boris Spassky\"]\n[ECO \"B81\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"69\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6\n7. h4 Nc6 8. Rg1 d5 9. Bb5 Bd7 10. exd5 Nxd5 11. Nxd5 exd5\n12. Be3 Be7 13. Qd2 Bxh4 14. O-O-O Bf6 15. Nf5 Bxf5 16. gxf5\na6 17. Bxc6+ bxc6 18. Bc5 Rb8 19. b4 Rb5 20. Rge1+ Kd7 21. c4\nRxc5 22. bxc5 Bg5 23. f4 Qf6 24. cxd5 Qa1+ 25. Kc2 Qxa2+\n26. Kd3 Qxd2+ 27. Rxd2 Bxf4 28. Ra2 cxd5 29. Rxa6 h5 30. Kd4\nh4 31. Kxd5 Rb8 32. f6 gxf6 33. Rxf6 Bg3 34. Rxf7+ Kd8\n35. Rf8+ 1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Fjl1hzmyM0s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Fjl1hzmyM0s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Fjl1hzmyM0s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Fjl1hzmyM0s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Fjl1hzmyM0s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "Fjl1hzmyM0s"
+  },
+  "videoContentDetails": {
+    "duration": "PT12M25S"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 *",
+      "fen": "rnbqkb1r/pp3pp1/3ppn1p/8/3NP1P1/2N5/PPP2P1P/R1BQKB1R w KQkq - 0 1",
+      "playerWhite": "Anatoly Karpov",
+      "playerBlack": "Boris Spassky",
+      "date": "1980-09-29"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T19:10:48.279Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Boris V Spassky",
+    "href": "https://www.chess.com/games/view/306893",
+    "result": "1-0",
+    "movesCount": 35,
+    "year": 1980
+  }
+}

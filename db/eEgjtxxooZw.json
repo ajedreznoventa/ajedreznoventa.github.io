@@ -1,0 +1,39 @@
+{
+  "_id": "eEgjtxxooZw",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T21:15:23.500Z",
+    "publishedAt": "2021-07-24T16:28:21Z",
+    "title": "Módulos de Ajedrez Machine Learning | Explicación de como AlphaZero ganó a Stockfish",
+    "description": "¡Buenas! En este video explico que diferencias de diseño había entre los códigos de ajedrez AlphaZero y Stockfish. Espero que les guste! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Introducción\n2:25 Función de Evaluación\n5:45 Aprendizaje por Refuerzo\n8:09 Método de Búsqueda\n12:32 Resumen\n\nDejo a continuación los links que he usado así como otros de interés:\n🔗 Artículo en el que se basa el video (explicación de AlphaZero) https://science.sciencemag.org/content/362/6419/1140\n🔗 Artículo donde mejorar AlphaZero, ya que el módulo aprende sin saber previamente las normals del juego (MuZero) https://www.nature.com/articles/s41586-020-03051-4\n🔗 Wikipedia de Stockfish https://www.chessprogramming.org/Evaluation\n🔗 Código abierto de Stockfish https://github.com/official-stockfish/Stockfish \n🔗 Código Lela Zero https://lczero.org/\n🔗 Artículo sobre el plegamiento de proteínas (AlphaFold) https://www.nature.com/articles/s41586-019-1923-7\n\n#AlphaZero #DeepMind #MachineLearning #MonteCarlo #Aprendizajeporrefuerzo #RedNeuronal",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/eEgjtxxooZw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/eEgjtxxooZw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/eEgjtxxooZw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/eEgjtxxooZw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/eEgjtxxooZw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "eEgjtxxooZw"
+  },
+  "videoGame": []
+}

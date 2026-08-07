@@ -1,0 +1,59 @@
+{
+  "_id": "GmsG8ik-3Ac",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "publishedAt": "2021-05-13T11:09:24Z",
+    "title": "CLASE MAGISTRAL | Fabiano Caruana vs Anish Giri | Candidatos 2021 | Defensa Siciliana",
+    "description": "¡Buenas! En el Torneo de Candidatos 2024, Fabiano Caruana y Anish Giri se enfrentaron en una lucha decisiva dentro de la siempre compleja Siciliana Scheveningen. Ambos estaban obligados a ganar, lo que dio lugar a una partida muy tensa y llena de ideas estratégicas. Giri, con negras, mostró una defensa impecable y terminó imponiéndose al número dos del mundo con gran precisión. Una partida moderna y muy instructiva sobre cómo manejar esta variante.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #anishgiri #caruana #candidates #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Tata Steel Masters\"]\n[Site \"Wijk aan Zee NED\"]\n[Date \"2021.01.26\"]\n[EventDate \"2021.01.16\"]\n[Round \"9\"]\n[Result \"0-1\"]\n[White \"Radoslaw Wojtaszek\"]\n[Black \"Fabiano Caruana\"]\n[ECO \"E94\"]\n[WhiteElo \"2705\"]\n[BlackElo \"2823\"]\n[PlyCount \"78\"]\n\n1. c4 Nf6 2. Nf3 d6 3. d4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 e5\n7. O-O Bg4 8. Be3 Bxf3 9. Bxf3 exd4 10. Bxd4 Nc6 11. Be3 Re8\n12. Qd2 Nd7 13. Rad1 Bxc3 14. Qxc3 Qf6 15. Qc1 Nc5 16. Qb1 Qe6\n17. Rfe1 Qxc4 18. b3 Qc3 19. Bd2 Qf6 20. Bc1 h5 21. Bb2 Ne5\n22. Be2 h4 23. Qc1 g5 24. Bb5 Re7 25. Re3 Qg6 26. Be2 Rae8\n27. Qc2 Ne6 28. f3 Nf4 29. Bf1 c6 30. Qf2 Re6 31. Rc3 d5\n32. g3 hxg3 33. hxg3 dxe4 34. gxf4 gxf4+ 35. Qg2 exf3\n36. Qxg6+ Rxg6+ 37. Kh1 f2 38. Bh3 Nc4 39. Rxc4 Re1+ 0-1",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/GmsG8ik-3Ac/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/GmsG8ik-3Ac/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/GmsG8ik-3Ac/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/GmsG8ik-3Ac/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/GmsG8ik-3Ac/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "GmsG8ik-3Ac"
+  },
+  "videoContentDetails": {
+    "duration": "PT13M29S"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. c4 Nf6 2. Nf3 d6 3. d4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 e5 *",
+      "fen": "rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 1",
+      "playerWhite": "Radosław Wojtaszek",
+      "playerBlack": "Fabiano Caruana",
+      "date": "2021-01-26"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T19:12:33.309Z",
+    "playerWhite": "Radoslaw Wojtaszek",
+    "playerBlack": "Fabiano Caruana",
+    "href": "https://www.chess.com/games/view/15790851",
+    "result": "0-1",
+    "movesCount": 39,
+    "year": 2021
+  }
+}

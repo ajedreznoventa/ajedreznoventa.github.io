@@ -1,0 +1,64 @@
+{
+  "_id": "JhaKYCm0cXs",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T21:18:20.509Z",
+    "publishedAt": "2021-06-23T11:30:11Z",
+    "title": "INMUNE A LA MAGIA | Anatoly Karpov vs Mikhail Tal | Bugojno 1980",
+    "description": "¡Buenas! En esta partida, Anatoly Karpov se enfrenta nada menos que a Mikhail Tal, el legendario “Mago de Riga”. Aunque ambos fueron aliados y trabajaron juntos, aquí tuvieron que luchar sobre el tablero, en una defensa semieslava muy interesante. Karpov demuestra cómo castigar a un rey que no llega a enrocarse, usando jugadas precisas como el típico alfil a a3. Una lección magistral sobre cómo coordinar piezas menores y torres para construir una red de mate.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #tal #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Bugojno\"]\n[Site \"Bugojno YUG\"]\n[Date \"1980.05.??\"]\n[EventDate \"?\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Mikhail Tal\"]\n[ECO \"D48\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"67\"]\n\n1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4\n7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. d5 c4 11. dxe6 cxd3\n12. exd7+ Qxd7 13. O-O Bb7 14. Re1 Bb4 15. Ne5 Qe6 16. Nxd3\nBxc3 17. Nf4 Qd7 18. bxc3 Nxe4 19. Qxd7+ Kxd7 20. Ba3 Rhe8\n21. Red1+ Kc7 22. f3 Nf6 23. Bd6+ Kb6 24. c4 Rac8 25. cxb5\naxb5 26. a4 Rcd8 27. axb5 Rd7 28. Rd4 Red8 29. Rad1 Rc8\n30. Be5 Re7 31. Rd6+ Kxb5 32. Rb1+ Kc4 33. Rd4+ Kc5 34. Nd3+\n1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JhaKYCm0cXs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JhaKYCm0cXs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JhaKYCm0cXs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/JhaKYCm0cXs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/JhaKYCm0cXs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "JhaKYCm0cXs"
+  },
+  "videoContentDetails": {
+    "duration": "PT11M6S"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 *",
+      "fen": "r1bqkb1r/pp1n1ppp/2p1pn2/8/2pP4/2NBPN2/PP3PPP/R1BQK2R w KQkq - 0 1",
+      "playerWhite": "Anatoly Karpov",
+      "playerBlack": "Mikhail Tal",
+      "date": "1980-05-??"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T21:18:20.891Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Mikhail Tal",
+    "href": "https://www.chess.com/games/view/4082134",
+    "result": "1-0",
+    "movesCount": 34,
+    "year": 1980
+  },
+  "lichessGameId": [
+    {
+      "id": "8RToRuq7"
+    }
+  ]
+}
