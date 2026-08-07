@@ -1,0 +1,47 @@
+{
+  "_id": "ZmlU_Z11XfQ",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2022-09-09T15:12:02Z",
+    "title": "OCTOPUS | Anatoly Karpov vs Garry Kasparov | Campeonato Mundial Ajedrez 1985 |  Ronda 16",
+    "description": "Buenas! Hoy les traigo una de las partidas -y victorias- más famosas de Garry Kasparov contra Anatoly Karpov. En esta partida Kasparov logró colocar y mantener un caballo en la casilla d3, desde donde paralizó por completo la actividad de todas las piezas de Karpov. A partir de este encuentro, los caballos que logran irrumpir en la tercera fila enemiga se les apoda como un 'octopus', en referencia a los ocho tentáculos de un pulpo. ¡Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nKarpov Kasparov 1984 Partida 7: https://youtu.be/NSx3YgfYiLk\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Intro \n0:40 Análisis \n17:51 Outro \n\n#Ajedrez #Kasparov #Karpov #anatolykarpov #garrykasparov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Kasparov World Championship Match\"]\n[Site \"Moscow URS\"]\n[Date \"1985.10.15\"]\n[EventDate \"?\"]\n[Round \"16\"]\n[Result \"0-1\"]\n[White \"Anatoly Karpov\"]\n[Black \"Garry Kasparov\"]\n[ECO \"B44\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"80\"]\n\n1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3\na6 8.Na3 d5 9.cxd5 exd5 10.exd5 Nb4 11.Be2 Bc5 12.O-O O-O\n13.Bf3 Bf5 14.Bg5 Re8 15.Qd2 b5 16.Rad1 Nd3 17.Nab1 h6 18.Bh4\nb4 19.Na4 Bd6 20.Bg3 Rc8 21.b3 g5 22.Bxd6 Qxd6 23.g3 Nd7\n24.Bg2 Qf6 25.a3 a5 26.axb4 axb4 27.Qa2 Bg6 28.d6 g4 29.Qd2\nKg7 30.f3 Qxd6 31.fxg4 Qd4+ 32.Kh1 Nf6 33.Rf4 Ne4 34.Qxd3 Nf2+\n35.Rxf2 Bxd3 36.Rfd2 Qe3 37.Rxd3 Rc1 38.Nb2 Qf2 39.Nd2 Rxd1+\n40.Nxd1 Re1+ 0-1",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZmlU_Z11XfQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZmlU_Z11XfQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZmlU_Z11XfQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ZmlU_Z11XfQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ZmlU_Z11XfQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "ZmlU_Z11XfQ"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 d5 9. cxd5 exd5 10. exd5 Nb4 11. Be2 Bc5 12. O-O O-O 13. Bf3 Bf5 14. Bg5 Re8 15. Qd2 b5 16. Rad1 Nd3 17. Nab1 h6 18. Bh4 b4 19. Na4 Bd6 20. Bg3 Rc8 21. b3 g5 22. Bxd6 Qxd6 23. g3 Nd7 24. Bg2 Qf6 25. a3 a5 26. axb4 axb4 27. Qa2 Bg6 28. d6 g4 29. Qd2 Kg7 30. f3 Qxd6 31. fxg4 Qd4+ 32. Kh1 Nf6 33. Rf4 Ne4 34. Qxd3 Nf2+ 35. Rxf2 Bxd3 36. Rfd2 Qe3 37. Rxd3 Rc1 38. Nb2 Qf2 39. Nd2 Rxd1+ 40. Nxd1 Re1+ 0-1",
+      "fen": "8/5pk1/7p/8/1p4P1/1P1R2P1/3N1qBP/3Nr2K w - - 0 1",
+      "playerWhite": "Anatoly Karpov",
+      "playerBlack": "Garry Kasparov",
+      "date": "1985-10-15"
+    }
+  ]
+}

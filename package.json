@@ -41,7 +41,7 @@
     "@vue/tsconfig": "^0.4.0",
     "axios": "^1.6.2",
     "cheerio": "^1.0.0-rc.12",
-    "googleapis": "^129.0.0",
+    "googleapis": "^174.0.0",
     "kokopu": "^4.8.0",
     "levenshtein-edit-distance": "^3.0.1",
     "lodash": "^4.17.21",
@@ -54,5 +54,10 @@
     "typescript": "~5.3.2",
     "vite": "^5.0.13",
     "vue-tsc": "^1.8.24"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true,
+    "vue-demi@0.14.6": true,
+    "esbuild@0.21.5": true
   }
 }

@@ -1,0 +1,47 @@
+{
+  "_id": "0LWaaI_GE-k",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2023-01-06T17:00:00Z",
+    "title": "¿CABALLO o ALFIL? | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial Ajedrez 1986 | Ronda 22",
+    "description": "Buenas! Hoy veremos la última partida del tercer match por el título mundial de ajedrez entre Kasparov y Karpov. Creo que este encuentro es un magnífico ejemplo para aprender cuando un caballo es superior a un alfil. Kasparov jugó con virtuosismo el medio juego, creando problemas serios en el flanco de rey de Karpov. ¡Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nKarpov vs Taimanov 1972: https://youtu.be/kZrwoTiCdCs\nKorchnoi vs Karpov 1981: https://youtu.be/T-Ctz3QsJeA\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Intro \n0:34 Análisis \n21:45 Outro \n\n#Ajedrez #Karpov #Kasparov #anatolykarpov #garrykasparov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Rematch\"]\n[Site \"London ENG / Leningrad URS\"]\n[Date \"1986.10.03\"]\n[EventDate \"?\"]\n[Round \"22\"]\n[Result \"1-0\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"D55\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"91\"]\n\n1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bxf6 Bxf6 7.e3\nO-O 8.Rc1 c6 9.Bd3 Nd7 10.O-O dxc4 11.Bxc4 e5 12.h3 exd4\n13.exd4 Nb6 14.Bb3 Bf5 15.Re1 a5 16.a3 Re8 17.Rxe8+ Qxe8\n18.Qd2 Nd7 19.Qf4 Bg6 20.h4 Qd8 21.Na4 h5 22.Re1 b5 23.Nc3 Qb8\n24.Qe3 b4 25.Ne4 bxa3 26.Nxf6+ Nxf6 27.bxa3 Nd5 28.Bxd5 cxd5\n29.Ne5 Qd8 30.Qf3 Ra6 31.Rc1 Kh7 32.Qh3 Rb6 33.Rc8 Qd6 34.Qg3\na4 35.Ra8 Qe6 36.Rxa4 Qf5 37.Ra7 Rb1+ 38.Kh2 Rc1 39.Rb7 Rc2\n40.f3 Rd2 41.Nd7 Rxd4 42.Nf8+ Kh6 43.Rb4 Rc4 44.Rxc4 dxc4\n45.Qd6 c3 46.Qd4 1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0LWaaI_GE-k/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0LWaaI_GE-k/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0LWaaI_GE-k/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0LWaaI_GE-k/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/0LWaaI_GE-k/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "0LWaaI_GE-k"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1 c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. h3 exd4 13. exd4 Nb6 14. Bb3 Bf5 15. Re1 a5 16. a3 Re8 17. Rxe8+ Qxe8 18. Qd2 Nd7 19. Qf4 Bg6 20. h4 Qd8 21. Na4 h5 22. Re1 b5 23. Nc3 Qb8 24. Qe3 b4 25. Ne4 bxa3 26. Nxf6+ Nxf6 27. bxa3 Nd5 28. Bxd5 cxd5 29. Ne5 Qd8 30. Qf3 Ra6 31. Rc1 Kh7 32. Qh3 Rb6 33. Rc8 Qd6 34. Qg3 a4 35. Ra8 Qe6 36. Rxa4 Qf5 37. Ra7 Rb1+ 38. Kh2 Rc1 39. Rb7 Rc2 40. f3 Rd2 41. Nd7 Rxd4 42. Nf8+ Kh6 43. Rb4 Rc4 44. Rxc4 dxc4 45. Qd6 c3 46. Qd4 1-0",
+      "fen": "5N2/5pp1/6bk/5q1p/3Q3P/P1p2P2/6PK/8 b - - 0 1",
+      "playerWhite": "Garry Kasparov",
+      "playerBlack": "Anatoly Karpov",
+      "date": "1986-10-03"
+    }
+  ]
+}

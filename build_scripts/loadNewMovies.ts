@@ -2,17 +2,21 @@ import {google} from "googleapis";
 import {database, NAMESPACE_VIDEO_CONTENT_DETAILS, NAMESPACE_VIDEO_SNIPPET} from "./db.js";
 
 async function downloadContentDetails(youtube: any, ids: string[]) {
-    const videoData = await youtube.videos.list({
-        id: ids,
-        part: ['contentDetails']
-    })
-    videoData.data?.items?.forEach((item: any) => {
-        if (item.id) {
-            database.save(NAMESPACE_VIDEO_CONTENT_DETAILS, item.id, {
-                duration: item.contentDetails?.duration
-            })
-        }
-    })
+    const BATCH_SIZE = 50
+    for (let i = 0; i < ids.length; i += BATCH_SIZE) {
+        const batch = ids.slice(i, i + BATCH_SIZE)
+        const videoData = await youtube.videos.list({
+            id: batch,
+            part: ['contentDetails']
+        })
+        videoData.data?.items?.forEach((item: any) => {
+            if (item.id) {
+                database.save(NAMESPACE_VIDEO_CONTENT_DETAILS, item.id, {
+                    duration: item.contentDetails?.duration
+                })
+            }
+        })
+    }
 }
 
 export async function loadNewMovies(): Promise<string[]> {
@@ -26,8 +30,8 @@ export async function loadNewMovies(): Promise<string[]> {
     console.log("Downloading channel contentDetails")
 
     const channelContentDetails = await youtube.channels.list({
-        forUsername: 'agadmator',
-        part: ['contentDetails']
+           id: ['UC-CFLy8KSKEVFhwj3R4wOwA'],        
+           part: ['contentDetails']
     });
 
     console.log("Downloaded channel contentDetails")

@@ -1,0 +1,47 @@
+{
+  "_id": "GO0y94Bukxg",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "publishedAt": "2024-01-19T17:00:19Z",
+    "title": "DRAGON BLANCO | Anatoly Karpov vs Johann Hjartarson | Torneo Candidates 1989  | Apertura Inglesa",
+    "description": "Esta partida contiene un magnífico sacrificio posicional, en un medio juego temático de la apertura Inglesa. De hecho, se trata de una posición extremadamente parecida a una Siciliana Dragón, pero con los colores cambiados . Si quieren ver como el alfil de Karpov se convierte en un verdadero dragón, echen un vistazo a este vídeo. Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:41 Análisis\n22:46 Conclusión\n\n#ajedrez #karpov #anatolykarpov #hjartarson\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Candidates Quarterfinal\"]\n[Site \"Seattle, WA USA\"]\n[Date \"1989.01.30\"]\n[EventDate \"1989.01.28\"]\n[Round \"2\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Johann Hjartarson\"]\n[ECO \"A20\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"89\"]\n\n1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3\nNc6 7. O-O Be7 8. a3 Be6 9. b4 O-O 10. Rb1 f6 11. d3 Qd7\n12. Ne4 Nd5 13. Qc2 b6 14. Bb2 Rac8 15. Rbc1 Nd4 16. Bxd4 exd4\n17. Qc6 Qxc6 18. Rxc6 Bd7 19. Nxd4 Bxc6 20. Nxc6 Rce8 21. Rc1\nf5 22. Nd2 Nf6 23. Nxa7 Bd6 24. e3 c5 25. Nc4 Bb8 26. Nc6 b5\n27. N4a5 cxb4 28. axb4 Nd7 29. d4 g5 30. Nxb8 Rxb8 31. Rc7 Nf6\n32. Nc6 Rb6 33. Ne7+ Kh8 34. Nxf5 Ra6 35. Rc1 Ra2 36. h3 Rb2\n37. e4 Rxb4 38. g4 h5 39. e5 hxg4 40. exf6 gxh3 41. Bxh3 Rxf6\n42. Rc8+ Kh7 43. Rc7+ Kg6 44. Rg7+ Kh5 45. f3 1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/GO0y94Bukxg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/GO0y94Bukxg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/GO0y94Bukxg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/GO0y94Bukxg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/GO0y94Bukxg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "GO0y94Bukxg"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8. a3 Be6 9. b4 O-O 10. Rb1 f6 11. d3 Qd7 12. Ne4 Nd5 13. Qc2 b6 14. Bb2 Rac8 15. Rbc1 Nd4 16. Bxd4 exd4 17. Qc6 Qxc6 18. Rxc6 Bd7 19. Nxd4 Bxc6 20. Nxc6 Rce8 21. Rc1 f5 22. Nd2 Nf6 23. Nxa7 Bd6 24. e3 c5 25. Nc4 Bb8 26. Nc6 b5 27. N4a5 cxb4 28. axb4 Nd7 29. d4 g5 30. Nxb8 Rxb8 31. Rc7 Nf6 32. Nc6 Rb6 33. Ne7+ Kh8 34. Nxf5 Ra6 35. Rc1 Ra2 36. h3 Rb2 37. e4 Rxb4 38. g4 h5 39. e5 hxg4 40. exf6 gxh3 41. Bxh3 Rxf6 42. Rc8+ Kh7 43. Rc7+ Kg6 44. Rg7+ Kh5 45. f3 1-0",
+      "fen": "8/6R1/5r2/1p3Npk/1r1P4/5P1B/8/6K1 b - - 0 1",
+      "playerWhite": "Anatoly Karpov",
+      "playerBlack": "Johann Hjartarson",
+      "date": "1989-01-30"
+    }
+  ]
+}

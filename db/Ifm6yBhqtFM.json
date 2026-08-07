@@ -1,0 +1,47 @@
+{
+  "_id": "Ifm6yBhqtFM",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "publishedAt": "2024-08-30T16:00:14Z",
+    "title": "PISTOLA de ALEKHINE | Alexander Alekhine vs Aron Nimzowitsch | San Remo 1930 | Defensa Francesa",
+    "description": "Buenas! Hoy les comparto un clásico del ajedrez de manos del cuarto campeón mundial: Alexander Alekhine. Esta partida es un ejemplo de libro para aprender a usar las piezas pesadas, creando lo que hoy en día se llama, la pistola de Alekhine. En futuros vídeos ire trayendo al menos una partida de todos los campeones mundiales de ajedrez. Espero que os guste el vídeo! :)\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:55 Análisis\n14:53 Conclusión\n\n#ajedrez #alekhine #nimzowitsch\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"San Remo\"]\n[Site \"San Remo ITA\"]\n[Date \"1930.01.18\"]\n[EventDate \"1930.01.16\"]\n[Round \"3\"]\n[Result \"1-0\"]\n[White \"Alexander Alekhine\"]\n[Black \"Aron Nimzowitsch\"]\n[ECO \"C17\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"59\"]\n\n1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+\n7. Qxd2 O-O 8. c3 b6 9. f4 Ba6 10. Nf3 Qd7 11. a4 Nbc6 12. b4\ncxb4 13. cxb4 Bb7 14. Nd6 f5 15. a5 Nc8 16. Nxb7 Qxb7 17. a6\nQf7 18. Bb5 N8e7 19. O-O h6 20. Rfc1 Rfc8 21. Rc2 Qe8 22. Rac1\nRab8 23. Qe3 Rc7 24. Rc3 Qd7 25. R1c2 Kf8 26. Qc1 Rbc8 27. Ba4\nb5 28. Bxb5 Ke8 29. Ba4 Kd8 30. h4 1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Ifm6yBhqtFM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Ifm6yBhqtFM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Ifm6yBhqtFM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Ifm6yBhqtFM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Ifm6yBhqtFM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "Ifm6yBhqtFM"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. c3 b6 9. f4 Ba6 10. Nf3 Qd7 11. a4 Nbc6 12. b4 cxb4 13. cxb4 Bb7 14. Nd6 f5 15. a5 Nc8 16. Nxb7 Qxb7 17. a6 Qf7 18. Bb5 N8e7 19. O-O h6 20. Rfc1 Rfc8 21. Rc2 Qe8 22. Rac1 Rab8 23. Qe3 Rc7 24. Rc3 Qd7 25. R1c2 Kf8 26. Qc1 Rbc8 27. Ba4 b5 28. Bxb5 Ke8 29. Ba4 Kd8 30. h4 1-0",
+      "fen": "2rk4/p1rqn1p1/P1n1p2p/3pPp2/BP1P1P1P/2R2N2/2R3P1/2Q3K1 b - - 0 1",
+      "playerWhite": "Alexander Alekhine",
+      "playerBlack": "Aron Nimzowitsch",
+      "date": "1930-01-18"
+    }
+  ]
+}

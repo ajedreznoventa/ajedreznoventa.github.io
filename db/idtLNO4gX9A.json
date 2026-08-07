@@ -1,0 +1,42 @@
+{
+  "_id": "idtLNO4gX9A",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2023-03-17T17:00:25Z",
+    "title": "MURO de PIEDRA | Viswanathan Anand vs Magnus Carlsen | Grenke Chess 2015 | Muro de Piedra",
+    "description": "En esta partida Carlsen sorprendió a su rival, Viswanathan Anand, con la defensa Holandesa - variante Muro de Piedra. En anteriores encuentros (incluido el campeonato mundial) Carlsen había empleado la defensa del gambito de dama. Creo que esta partida es un ejemplo modélico de como jugar el Muro de Piedra con las piezas negras. Espero que lo disfruten! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:20 Análisis\n19:46 Conclusión\n\n#ajedrez #carlsen #anand #magnuscarlsen #vishyanand\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"GRENKE Chess Classic\"]\n[Site \"Baden-Baden GER\"]\n[Date \"2015.02.06\"]\n[EventDate \"2015.02.02\"]\n[Round \"4\"]\n[Result \"0-1\"]\n[White \"Viswanathan Anand\"]\n[Black \"Magnus Carlsen\"]\n[ECO \"A90\"]\n[WhiteElo \"2797\"]\n[BlackElo \"2865\"]\n[PlyCount \"72\"]\n\n1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 c6 5. Nf3 d5 6. O-O Bd6\n7. b3 Qe7 8. Ne5 O-O 9. Nd2 a5 10. Bb2 Nbd7 11. Qc2 a4\n12. Ndf3 Ne4 13. e3 a3 14. Bc3 Nxe5 15. Nxe5 Bd7 16. Nxd7 Qxd7\n17. c5 Bc7 18. b4 h5 19. Be1 e5 20. dxe5 Bxe5 21. Rd1 Qe6\n22. f3 Nf6 23. Bh3 g6 24. e4 dxe4 25. fxe4 Bb2 26. exf5 Qxa2\n27. Bf2 g5 28. Rfe1 Qf7 29. Re6 Ng4 30. Bxg4 hxg4 31. Rg6+ Kh7\n32. Rd7 Qxd7 33. f6 Qd1+ 34. Qxd1 Kxg6 35. Qd3+ Kh6 36. h4\ngxh3 0-1",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/idtLNO4gX9A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/idtLNO4gX9A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/idtLNO4gX9A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/idtLNO4gX9A/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "videoId": "idtLNO4gX9A"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 c6 5. Nf3 d5 6. O-O Bd6 7. b3 Qe7 8. Ne5 O-O 9. Nd2 a5 10. Bb2 Nbd7 11. Qc2 a4 12. Ndf3 Ne4 13. e3 a3 14. Bc3 Nxe5 15. Nxe5 Bd7 16. Nxd7 Qxd7 17. c5 Bc7 18. b4 h5 19. Be1 e5 20. dxe5 Bxe5 21. Rd1 Qe6 22. f3 Nf6 23. Bh3 g6 24. e4 dxe4 25. fxe4 Bb2 26. exf5 Qxa2 27. Bf2 g5 28. Rfe1 Qf7 29. Re6 Ng4 30. Bxg4 hxg4 31. Rg6+ Kh7 32. Rd7 Qxd7 33. f6 Qd1+ 34. Qxd1 Kxg6 35. Qd3+ Kh6 36. h4 gxh3 0-1",
+      "fen": "r4r2/1p6/2p2P1k/2P3p1/1P6/p2Q2Pp/1b3B2/6K1 w - - 0 1",
+      "playerWhite": "Viswanathan Anand",
+      "playerBlack": "Magnus Carlsen",
+      "date": "2015-02-06"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "fmL6hVNJarU",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "publishedAt": "2025-02-07T21:00:28Z",
+    "title": "#ajedrez",
+    "description": "",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fmL6hVNJarU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fmL6hVNJarU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fmL6hVNJarU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/fmL6hVNJarU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "videoId": "fmL6hVNJarU"
+  },
+  "videoGame": []
+}

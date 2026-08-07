@@ -1,0 +1,29 @@
+{
+  "_id": "y0JkrTD4hdA",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2022-09-30T18:00:20Z",
+    "title": "DOMINANDO AL DRAGÓN #shorts",
+    "description": "#ajedrez #karpov #timman\n(Photo credits: R. Croes / ANEFO, via http://nationaalarchief.nl.)",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/y0JkrTD4hdA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/y0JkrTD4hdA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/y0JkrTD4hdA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "videoId": "y0JkrTD4hdA"
+  },
+  "videoGame": []
+}

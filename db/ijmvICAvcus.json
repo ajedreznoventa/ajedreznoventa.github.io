@@ -1,0 +1,34 @@
+{
+  "_id": "ijmvICAvcus",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "publishedAt": "2025-01-24T17:00:55Z",
+    "title": "#shorts #ajedrez",
+    "description": "",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ijmvICAvcus/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ijmvICAvcus/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ijmvICAvcus/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ijmvICAvcus/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "videoId": "ijmvICAvcus"
+  },
+  "videoGame": []
+}

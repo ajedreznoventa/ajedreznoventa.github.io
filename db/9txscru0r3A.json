@@ -1,0 +1,39 @@
+{
+  "_id": "9txscru0r3A",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2022-09-16T18:00:06Z",
+    "title": "Ataque MODELICO #shorts",
+    "description": "#ajedrez #ataque #fischer",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9txscru0r3A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9txscru0r3A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9txscru0r3A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/9txscru0r3A/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/9txscru0r3A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "9txscru0r3A"
+  },
+  "videoGame": []
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "ctky8eIt-l8",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "publishedAt": "2024-09-27T16:00:45Z",
+    "title": "PEONES DOBLADOS | Viktor Korchnoi vs Anatoly Karpov | Tillburg 1991 | Apertura Inglesa",
+    "description": "Buenas! En este vídeo les traigo un nuevo duelo entre Anatoly Karpov y Viktor Korchnoi, quién se vieron las caras una infinidad de veces sobre el tablero. El duelo orbitó alrededor de un medio juego temático de la Apertura Inglesa. Karpov supo negociar bien las complicaciones de dicha fase del juego, e hizo un uso de los peones doblados digno de estudio. Espero que les guste! :)\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:44 Análisis\n14:41 Conclusión\n\n#ajedrez #karpov #anatolykarpov #korchnoi\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Interpolis 15th\"]\n[Site \"Tilburg NED\"]\n[Date \"1991.10.30\"]\n[EventDate \"?\"]\n[Round \"11\"]\n[Result \"0-1\"]\n[White \"Viktor Korchnoi\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A29\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"78\"]\n\n1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 Bc5 6. Bg2 O-O\n7. d3 h6 8. a3 a5 9. Bd2 d6 10. b4 axb4 11. axb4 Rxa1 12. Qxa1\nNxd5 13. bxc5 Ndb4 14. Bxb4 Nxb4 15. O-O e4 16. dxe4 dxc5\n17. Rd1 Qe7 18. Qe5 Be6 19. Nh4 Nc6 20. Qb2 Rd8 21. Rc1 b6\n22. Nf5 Bxf5 23. exf5 Nd4 24. e4 Nc6 25. f4 Qd7 26. f6 Qd4+\n27. Qxd4 Nxd4 28. Ra1 gxf6 29. Ra7 c6 30. Rc7 b5 31. cxb5 c4\n32. b6 c3 33. b7 c2 34. Rc8 c1=Q+ 35. Bf1 Qe3+ 36. Kg2 Qxe4+\n37. Kg1 Qe8 38. Ba6 Qe3+ 39. Kg2 Qf3+ 0-1",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ctky8eIt-l8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ctky8eIt-l8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ctky8eIt-l8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ctky8eIt-l8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ctky8eIt-l8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "ctky8eIt-l8"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 Bc5 6. Bg2 O-O 7. d3 h6 8. a3 a5 9. Bd2 d6 10. b4 axb4 11. axb4 Rxa1 12. Qxa1 Nxd5 13. bxc5 Ndb4 14. Bxb4 Nxb4 15. O-O e4 16. dxe4 dxc5 17. Rd1 Qe7 18. Qe5 Be6 19. Nh4 Nc6 20. Qb2 Rd8 21. Rc1 b6 22. Nf5 Bxf5 23. exf5 Nd4 24. e4 Nc6 25. f4 Qd7 26. f6 Qd4+ 27. Qxd4 Nxd4 28. Ra1 gxf6 29. Ra7 c6 30. Rc7 b5 31. cxb5 c4 32. b6 c3 33. b7 c2 34. Rc8 c1=Q+ 35. Bf1 Qe3+ 36. Kg2 Qxe4+ 37. Kg1 Qe8 38. Ba6 Qe3+ 39. Kg2 Qf3+ 0-1",
+      "fen": "2Rr2k1/1P3p2/B1p2p1p/8/3n1P2/5qP1/6KP/8 w - - 0 1",
+      "playerWhite": "Viktor Korchnoi",
+      "playerBlack": "Anatoly Karpov",
+      "date": "1991-10-30"
+    }
+  ]
+}

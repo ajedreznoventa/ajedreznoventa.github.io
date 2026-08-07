@@ -1,0 +1,34 @@
+{
+  "_id": "A8ETMxseSAg",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "publishedAt": "2025-03-07T21:00:07Z",
+    "title": "La Partida Inmortal Explicada en 36 Segundos #ajedrez #tutorial",
+    "description": "",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/A8ETMxseSAg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/A8ETMxseSAg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/A8ETMxseSAg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/A8ETMxseSAg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "videoId": "A8ETMxseSAg"
+  },
+  "videoGame": []
+}

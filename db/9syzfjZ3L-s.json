@@ -1,0 +1,42 @@
+{
+  "_id": "9syzfjZ3L-s",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2022-07-01T20:00:01Z",
+    "title": "Partida HISTORICA | Anatoly Karpov vs Garry Kasparov | Campeonato Mundial de Ajedrez 1984 Partida 9",
+    "description": "Esta partida es una de las victorias más famosas de Anatoly Karpov frente Garry Kasparov. Después de esta derrota, Kasparov abandonó prácticamente la defensa Tarrasch. Además, la partida contiene un final de caballo bueno vs alfil malo, y el movimiento brillante Cg2!! de Karpov. Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\nPartidas mencionadas en el vídeo:\nKarpov vs Kasparov 1984: https://youtu.be/NSx3YgfYiLk\nKarpov vs Korchnoi 1981: https://youtu.be/MM66cDmOXtA\n\n0:00 Intro \n0:18 Análisis \n26:14 Outro \n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n\n➡️ Twitter: https://twitter.com/Ajedrez_90\n➡️ Newsletter: https://ajedrez90.substack.com\n\n#Ajedrez #Kasparov #Karpov #Tarrasch\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Kasparov World Championship Match 1984/85\"]\n[Site \"Moscow URS\"]\n[Date \"1984.10.05\"]\n[EventDate \"?\"]\n[Round \"9\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Garry Kasparov\"]\n[ECO \"D34\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"139\"]\n\n1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.g3 Nf6 6.Bg2 Be7 7.O-O\nO-O 8.Nc3 Nc6 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.Qb3 Na5\n13.Qc2 Bg4 14.Nf5 Rc8 15.Bd4 Bc5 16.Bxc5 Rxc5 17.Ne3 Be6\n18.Rad1 Qc8 19.Qa4 Rd8 20.Rd3 a6 21.Rfd1 Nc4 22.Nxc4 Rxc4\n23.Qa5 Rc5 24.Qb6 Rd7 25.Rd4 Qc7 26.Qxc7 Rdxc7 27.h3 h5 28.a3\ng6 29.e3 Kg7 30.Kh2 Rc4 31.Bf3 b5 32.Kg2 R7c5 33.Rxc4 Rxc4\n34.Rd4 Kf8 35.Be2 Rxd4 36.exd4 Ke7 37.Na2 Bc8 38.Nb4 Kd6 39.f3\nNg8 40.h4 Nh6 41.Kf2 Nf5 42.Nc2 f6 43.Bd3 g5 44.Bxf5 Bxf5\n45.Ne3 Bb1 46.b4 gxh4 47.Ng2 hxg3 48.Kxg3 Ke6 49.Nf4+ Kf5\n50.Nxh5 Ke6 51.Nf4+ Kd6 52.Kg4 Bc2 53.Kh5 Bd1 54.Kg6 Ke7\n55.Nxd5+ Ke6 56.Nc7+ Kd7 57.Nxa6 Bxf3 58.Kxf6 Kd6 59.Kf5 Kd5\n60.Kf4 Bh1 61.Ke3 Kc4 62.Nc5 Bc6 63.Nd3 Bg2 64.Ne5+ Kc3 65.Ng6\nKc4 66.Ne7 Bb7 67.Nf5 Bg2 68.Nd6+ Kb3 69.Nxb5 Ka4 70.Nd6 1-0",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9syzfjZ3L-s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9syzfjZ3L-s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9syzfjZ3L-s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/9syzfjZ3L-s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "videoId": "9syzfjZ3L-s"
+  },
+  "videoGame": [
+    {
+      "pgn": "1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Bg4 14. Nf5 Rc8 15. Bd4 Bc5 16. Bxc5 Rxc5 17. Ne3 Be6 18. Rad1 Qc8 19. Qa4 Rd8 20. Rd3 a6 21. Rfd1 Nc4 22. Nxc4 Rxc4 23. Qa5 Rc5 24. Qb6 Rd7 25. Rd4 Qc7 26. Qxc7 Rdxc7 27. h3 h5 28. a3 g6 29. e3 Kg7 30. Kh2 Rc4 31. Bf3 b5 32. Kg2 R7c5 33. Rxc4 Rxc4 34. Rd4 Kf8 35. Be2 Rxd4 36. exd4 Ke7 37. Na2 Bc8 38. Nb4 Kd6 39. f3 Ng8 40. h4 Nh6 41. Kf2 Nf5 42. Nc2 f6 43. Bd3 g5 44. Bxf5 Bxf5 45. Ne3 Bb1 46. b4 gxh4 47. Ng2 hxg3+ 48. Kxg3 Ke6 49. Nf4+ Kf5 50. Nxh5 Ke6 51. Nf4+ Kd6 52. Kg4 Bc2 53. Kh5 Bd1 54. Kg6 Ke7 55. Nxd5+ Ke6 56. Nc7+ Kd7 57. Nxa6 Bxf3 58. Kxf6 Kd6 59. Kf5 Kd5 60. Kf4 Bh1 61. Ke3 Kc4 62. Nc5 Bc6 63. Nd3 Bg2 64. Ne5+ Kc3 65. Ng6 Kc4 66. Ne7 Bb7 67. Nf5 Bg2 68. Nd6+ Kb3 69. Nxb5 Ka4 70. Nd6 1-0",
+      "fen": "8/8/3N4/8/kP1P4/P3K3/6b1/8 b - - 0 1",
+      "playerWhite": "Anatoly Karpov",
+      "playerBlack": "Garry Kasparov",
+      "date": "1984-10-05"
+    }
+  ]
+}

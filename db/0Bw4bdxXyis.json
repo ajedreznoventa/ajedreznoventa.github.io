@@ -1,0 +1,44 @@
+{
+  "_id": "0Bw4bdxXyis",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "publishedAt": "2023-09-29T16:00:01Z",
+    "title": "DEFENSA IMPERIAL | Jan Timman vs Anatoly Karpov | Tillburg 1988 | Defensa India de Dama",
+    "description": "Buenas! Hoy veremos una partida entre Jan Timman y Anatoly Karpov en el torneo de Tillburg el año 1988. Este encuentro demostró el magnífico desempeño de Karpov en la defensa India de dama, consolidando su reputación de especialista en esta apertura. El duodécimo campeón mundial restringió las piezas menores de su rival, llegando así a una posición ganadora. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:41 Análisis\n20:32 Conclusión\n\n#ajedrez #karpov #anatolykarpov #timman #defensaindiadedama\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Tilburg\"]\n[Site \"Tilburg\"]\n[Date \"1988.??.??\"]\n[Round \"?\"]\n[White \"Timman, Jan H\"]\n[Black \"Karpov, Anatoly\"]\n[Result \"0-1\"]\n[WhiteElo \"2660\"]\n[BlackElo \"2725\"]\n[ECO \"E12\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3 8.  bxc3 Be7 9. e3 Qc8 10. Bb2 c5 11. Bb5+ Bc6 12. Bd3 c4 13. Be2 Nd7 14. a4 a6 15.  O-O O-O 16. e4 b5 17. Ba3 Bxa3 18. Rxa3 Qb7 19. Nd2 Nb6 20. a5 Nd7 21. f3 e5  22. d5 Qa7+ 23. Kh1 Bb7 24. Raa1 f5 25. Rad1 f4 26. g4 Rf6 27. Qb2 Re8 28. Rg1  Bc8 29. Rg2 Nf8 30. h4 Rh6 31. Rh2 Qe7 32. h5 g6 33. Qb4 Kg7 34. Rg1 Nd7 35.  Qxe7+ Rxe7 36. hxg6 Rxh2+ 37. Kxh2 Kxg6 38. Kh3 Nc5 39. Kh4 Rc7 40. Rb1 Nb7 41.  Ra1 Nd6 42. Nb1 Rg7 43. Na3 Kf6 44. Rg1 Nf7 45. Kh3 h5 0-1",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0Bw4bdxXyis/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0Bw4bdxXyis/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0Bw4bdxXyis/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0Bw4bdxXyis/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/0Bw4bdxXyis/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "0Bw4bdxXyis"
+  },
+  "videoGame": [
+    {
+      "playerWhite": "Jan H Timman",
+      "playerBlack": "Anatoly Karpov"
+    }
+  ]
+}

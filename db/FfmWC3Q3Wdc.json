@@ -1,0 +1,39 @@
+{
+  "_id": "FfmWC3Q3Wdc",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "publishedAt": "2022-08-19T18:42:13Z",
+    "title": "Masaje POSICIONAL de KARPOV a Kasparov #shorts",
+    "description": "#ajedrez #karpov #kasparov",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/FfmWC3Q3Wdc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/FfmWC3Q3Wdc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/FfmWC3Q3Wdc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/FfmWC3Q3Wdc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/FfmWC3Q3Wdc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "videoId": "FfmWC3Q3Wdc"
+  },
+  "videoGame": []
+}
