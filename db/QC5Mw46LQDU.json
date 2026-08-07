@@ -2,7 +2,7 @@
   "_id": "QC5Mw46LQDU",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2024-12-20T17:00:24Z",
     "title": "MAYORIAS de PEONES | Levente Lengyel vs Anatoly Karpov | Torneo de Moscu 1971 | Apertura Catalana",
     "description": "Buenas! Hoy les traigo un nuevo video de Anatoly Karpov sobre su partida con Levente Lengyel en el torneo de Moscú el año 1971. Esta partida muestra el juego ambicioso que el joven Karpov empleó para hacerse con la iniciativa en la apertura catalana.  Es especialmente instructivo apreciar el papel que las dos mayorías de peones tuvieron en el resultado final de la partida. Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:30 Análisis\n18:21 Conclusión\n\n#ajedrez #karpov #anatolykarpov #aperturacatalana\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Moscow\"]\n[Site \"Moscow URS\"]\n[Date \"1971.11.26\"]\n[EventDate \"1971.11.24\"]\n[Round \"3\"]\n[Result \"0-1\"]\n[White \"Levente Lengyel\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"E04\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"81\"]\n\n1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 b5 6. Ne5 Nd5\n7. O-O Bb7 8. e4 Nf6 9. Re1 Nbd7 10. Qe2 a6 11. Nc3 Nxe5\n12. dxe5 Nd7 13. Rd1 Qc8 14. f4 Bc5+ 15. Be3 O-O 16. Rd2 Bxe3+\n17. Qxe3 c5 18. Rad1 Bc6 19. Rd6 Re8 20. R1d2 Qc7 21. Nd1 b4\n22. Bf1 Bb5 23. Bxc4 Nb6 24. Bxb5 axb5 25. b3 Nc8 26. Rd7 Qb6\n27. Rc2 c4 28. Rd4 Ra3 29. Nf2 Ne7 30. Qd2 c3 31. Qd3 Nc6\n32. Rd6 Raa8 33. Kg2 Red8 34. a3 Rxd6 35. exd6 Nd4 36. axb4\nNxc2 37. Qxc2 Qd4 38. Kf3 e5 39. Nd3 exf4 40. gxf4 f6 41. e5\n0-1",
@@ -35,6 +35,9 @@
     },
     "videoId": "QC5Mw46LQDU"
   },
+  "videoContentDetails": {
+    "duration": "PT19M2S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 b5 6. Ne5 Nd5 7. O-O Bb7 8. e4 Nf6 9. Re1 Nbd7 10. Qe2 a6 11. Nc3 Nxe5 12. dxe5 Nd7 13. Rd1 Qc8 14. f4 Bc5+ 15. Be3 O-O 16. Rd2 Bxe3+ 17. Qxe3 c5 18. Rad1 Bc6 19. Rd6 Re8 20. R1d2 Qc7 21. Nd1 b4 22. Bf1 Bb5 23. Bxc4 Nb6 24. Bxb5 axb5 25. b3 Nc8 26. Rd7 Qb6 27. Rc2 c4 28. Rd4 Ra3 29. Nf2 Ne7 30. Qd2 c3 31. Qd3 Nc6 32. Rd6 Raa8 33. Kg2 Red8 34. a3 Rxd6 35. exd6 Nd4 36. axb4 Nxc2 37. Qxc2 Qd4 38. Kf3 e5 39. Nd3 exf4 40. gxf4 f6 41. e5 0-1",
@@ -42,6 +45,24 @@
       "playerWhite": "Levente Lengyel",
       "playerBlack": "Anatoly Karpov",
       "date": "1971-11-26"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:34:49.981Z",
+    "playerWhite": "Levente Lengyel",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/15750327",
+    "result": "0-1",
+    "movesCount": 41,
+    "year": 1971
+  },
+  "chess365": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2026-08-07T18:34:50.716Z"
+  },
+  "lichessGameId": [
+    {
+      "id": "Zj3rfzxw"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "_id": "eAT5oy9O6y8",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-10-28T18:00:14Z",
     "title": "Ajedrez POSICIONAL #shorts",
     "description": "#ajedrez #karpov #alfiles",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "eAT5oy9O6y8"
+  },
+  "videoContentDetails": {
+    "duration": "PT57S"
   },
   "videoGame": []
 }

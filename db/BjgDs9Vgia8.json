@@ -2,7 +2,7 @@
   "_id": "BjgDs9Vgia8",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2023-06-09T16:00:08Z",
     "title": "CUERNOS POSICIONALES | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial 1987 Sevilla | Ronda 8",
     "description": "Buenas! Hoy les traigo una de las victorias más instructivas de Garry Kasparov frente Anatoly Karpov en el match celebrado en Sevilla el año 1987. Kasparov llevaba las piezas blancas, y planteó un medio juego donde luchó por el control de las casillas blancas. El trigésimo campeón mundial consiguió colocar sus caballos en las poderosas casillas d5 y e4, que combinado con el alfil de casillas blancas en g2, le otorgo una ventaja decisiva. Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:19 Análisis\n21:34 Material videográfico\n22:04 Conclusión\n\n#ajedrez #karpov #anatolykarpov #kasparov #garrykasparov #sevilla \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Match\"]\n[Site \"Seville ESP\"]\n[Date \"1987.11.02\"]\n[EventDate \"?\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A21\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"99\"]\n\n1.c4 e5 2.Nc3 d6 3.g3 c5 4.Bg2 Nc6 5.a3 g6 6.b4 Bg7 7.Rb1 Nge7\n8.e3 O-O 9.d3 Rb8 10.Nge2 Be6 11.b5 Na5 12.Bd2 b6 13.O-O Nb7\n14.e4 Kh8 15.Qc1 f5 16.Bg5 Qe8 17.Bxe7 Qxe7 18.exf5 Bxf5\n19.Nd5 Qd7 20.Qd2 Na5 21.Nec3 Rbe8 22.Ne4 Nb7 23.a4 Na5 24.h4\nNb7 25.Kh2 Rb8 26.Ra1 Na5 27.Ra3 Rf7 28.Qc3 Rd8 29.Ra2 Bh6\n30.Ng5 Rff8 31.Re2 Bg7 32.Qc2 Rde8 33.Ne3 Bh6 34.Bd5 Bg7\n35.Qd1 h6 36.Ne4 Qd8 37.Ra2 Bc8 38.Nc3 h5 39.Be4 Re6 40.Ncd5\nBh6 41.Ng2 Kg7 42.f4 exf4 43.Ngxf4 Re5 44.Nxg6 Rxf1 45.Qxf1\nRxe4 46.dxe4 Kxg6 47.Rf2 Qe8 48.e5 dxe5 49.Rf6+ Kg7 50.Rd6 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "BjgDs9Vgia8"
   },
+  "videoContentDetails": {
+    "duration": "PT22M41S"
+  },
   "videoGame": [
     {
       "pgn": "1. c4 e5 2. Nc3 d6 3. g3 c5 4. Bg2 Nc6 5. a3 g6 6. b4 Bg7 7. Rb1 Nge7 8. e3 O-O 9. d3 Rb8 10. Nge2 Be6 11. b5 Na5 12. Bd2 b6 13. O-O Nb7 14. e4 Kh8 15. Qc1 f5 16. Bg5 Qe8 17. Bxe7 Qxe7 18. exf5 Bxf5 19. Nd5 Qd7 20. Qd2 Na5 21. Nec3 Rbe8 22. Ne4 Nb7 23. a4 Na5 24. h4 Nb7 25. Kh2 Rb8 26. Ra1 Na5 27. Ra3 Rf7 28. Qc3 Rd8 29. Ra2 Bh6 30. Ng5 Rff8 31. Re2 Bg7 32. Qc2 Rde8 33. Ne3 Bh6 34. Bd5 Bg7 35. Qd1 h6 36. Ne4 Qd8 37. Ra2 Bc8 38. Nc3 h5 39. Be4 Re6 40. Ncd5 Bh6 41. Ng2 Kg7 42. f4 exf4 43. Ngxf4 Re5 44. Nxg6 Rxf1 45. Qxf1 Rxe4 46. dxe4 Kxg6 47. Rf2 Qe8 48. e5 dxe5 49. Rf6+ Kg7 50. Rd6 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Garry Kasparov",
       "playerBlack": "Anatoly Karpov",
       "date": "1987-11-02"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:42:49.915Z",
+    "playerWhite": "Garry Kasparov",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/407081",
+    "result": "1-0",
+    "movesCount": 50,
+    "year": 1987
+  },
+  "lichessGameId": [
+    {
+      "id": "z4QNtt5J"
     }
   ]
 }

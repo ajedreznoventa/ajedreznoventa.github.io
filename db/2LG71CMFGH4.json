@@ -2,7 +2,7 @@
   "_id": "2LG71CMFGH4",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:46.888Z",
+    "retrievedAt": "2026-08-07T18:24:32.706Z",
     "publishedAt": "2026-06-05T16:00:00Z",
     "title": "ESTRATEGIA MILITAR | Anatoly Karpov vs Gyula Sax | Budapest 1973 | Defensa Benoni Antigua",
     "description": "¡Buenas! Hoy exploramos una joya estratégica entre el joven Anatoly Karpov y Gyula Sax disputada en Budapest en 1973. La partida nace de una Defensa India de Rey que pronto deriva hacia una estructura tipo Benoni cerrada, terreno ideal para el juego profiláctico de Karpov. Sax comete el error crítico al lanzar la ruptura ...f5, debilitando casillas clave y cediendo el control estratégico de e4. A partir de ahí, Karpov establece un poderoso bloqueador, explota debilidades estructurales y neutraliza todo contrajuego rival. Con admirable técnica, transforma su ventaja posicional en ataque decisivo.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\nQuiero aprovechar para agradecer de corazón a los miembros actuales por apoyar el contenido del canal:\n✨ @Lucia-co9ke\n✨ @obeduwu3465\n✨ @elproveedor5149\n✨ @sebastianconvers1857\n✨ @LouArrosgueti\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n01:13 Inicio del análisis\n06:03 Momento crítico 1\n15:59 Conclusión\n\n#ajedrez #facelessyoutube #karpov #anatolykarpov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Budapest Tungsram\"]\n[Site \"Budapest HUN\"]\n[Date \"1973.02.21\"]\n[EventDate \"1973.02.13\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Gyula Sax\"]\n[ECO \"E64\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"83\"]\n\n1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. g3 Bg7 5. Bg2 O-O\n6. Nf3 c5 7. d5 e5 8. O-O Na6 9. e4 Nc7 10. a4 b6\n11. Ne1 Nh5 12. Nd3 f5 13. exf5 Bxf5 14. Ne4 Qd7 15. f3 Nf6\n16. Ndf2 Bxe4 17. fxe4 a6 18. Be3 Rfb8 19. Bh3 Qe7 20. Qd2 b5\n21. b4 cxb4 22. axb5 axb5 23. c5 Ra4 24. Rac1 Nce8 25. c6 Nc7\n26. Ra1 Na6 27. Qd3 Nc7 28. Rab1 Na6 29. Ra1 Nc7 30. Qb3 Rba8\n31. Rxa4 Rxa4 32. Bd2 Na6 33. Qd3 Ra5 34. Qe2 Qa7 35. Be3 Nc5\n36. Rc1 Ne8 37. Qg4 b3 38. Kg2 b2 39. Rb1 Ra3 40. Bxc5 dxc5\n41. Rxb2 Qb8 42. Qe6+ 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "2LG71CMFGH4"
   },
+  "videoContentDetails": {
+    "duration": "PT17M13S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 c5 7. d5 e5 8. O-O Na6 9. e4 Nc7 10. a4 b6 11. Ne1 Nh5 12. Nd3 f5 13. exf5 Bxf5 14. Ne4 Qd7 15. f3 Nf6 16. Ndf2 Bxe4 17. fxe4 a6 18. Be3 Rfb8 19. Bh3 Qe7 20. Qd2 b5 21. b4 cxb4 22. axb5 axb5 23. c5 Ra4 24. Rac1 Nce8 25. c6 Nc7 26. Ra1 Na6 27. Qd3 Nc7 28. Rab1 Na6 29. Ra1 Nc7 30. Qb3 Rba8 31. Rxa4 Rxa4 32. Bd2 Na6 33. Qd3 Ra5 34. Qe2 Qa7 35. Be3 Nc5 36. Rc1 Ne8 37. Qg4 b3 38. Kg2 b2 39. Rb1 Ra3 40. Bxc5 dxc5 41. Rxb2 Qb8 42. Qe6+ 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Gyula Sax",
       "date": "1973-02-21"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:25:34.823Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Gyula Sax",
+    "href": "https://www.chess.com/games/view/209237",
+    "result": "1-0",
+    "movesCount": 42,
+    "year": 1973
+  },
+  "lichessGameId": [
+    {
+      "id": "RAv2utlV"
     }
   ]
 }

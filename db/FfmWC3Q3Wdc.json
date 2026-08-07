@@ -2,7 +2,7 @@
   "_id": "FfmWC3Q3Wdc",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-08-19T18:42:13Z",
     "title": "Masaje POSICIONAL de KARPOV a Kasparov #shorts",
     "description": "#ajedrez #karpov #kasparov",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "FfmWC3Q3Wdc"
+  },
+  "videoContentDetails": {
+    "duration": "PT1M"
   },
   "videoGame": []
 }

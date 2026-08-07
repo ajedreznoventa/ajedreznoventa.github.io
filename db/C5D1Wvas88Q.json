@@ -2,7 +2,7 @@
   "_id": "C5D1Wvas88Q",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-10-10T16:00:31Z",
     "title": "MARINERO POSICIONAL | Aleksander Sznapik vs Anatoly Karpov | Olimpiada 1972 | Ataque Indio de Rey",
     "description": "¡Buenas! Hoy os traigo un análisis detallado de una instructiva partida entre Aleksander Sznapik y el joven Anatoly Karpov durante la Olimpiada de Ajedrez de 1972. Un duelo clásico del ataque indio de rey, con juego por flancos opuestos y una lucha estratégica por el control del centro. Karpov, con negras, busca activamente la iniciativa, mientras Sznapik intenta castigar sus debilidades estructurales. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867\n✨ @obeduwu3465\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:33 Inicio del análisis\n06:27 Momento crítico \n15:07 Conclusión\n\n#ajedrez #karpov #anatolykarpov #ataque\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Final-A\"]\n[Site \"Skopje YUG\"]\n[Date \"1972.10.02\"]\n[EventDate \"?\"]\n[Round \"6\"]\n[Result \"0-1\"]\n[White \"Aleksander Sznapik\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A07\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"70\"]\n\n1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7\n7. O-O O-O 8. Re1 Bc7 9. c3 b6 10. e5 a5 11. Nf1 Ba6 12. h4 d4\n13. c4 Qd7 14. N1h2 f5 15. exf6 gxf6 16. Ng4 e5 17. Bh3 Qe8\n18. Bh6 Rf7 19. Bd2 Kh8 20. Kh2 Bc8 21. Qe2 Bd7 22. Ng1 f5\n23. Nh6 Rg7 24. Bg5 Qg6 25. Bg2 Ng8 26. Nxg8 Raxg8 27. Qd2 f4\n28. Be4 Qd6 29. Qe2 Be8 30. Bd5 Rf8 31. gxf4 h6 32. fxe5 Qxe5+\n33. Qxe5 Nxe5 34. f4 Ng4+ 35. Kg3 Ne3 0-1",
@@ -35,6 +35,9 @@
     },
     "videoId": "C5D1Wvas88Q"
   },
+  "videoContentDetails": {
+    "duration": "PT15M49S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1 Bc7 9. c3 b6 10. e5 a5 11. Nf1 Ba6 12. h4 d4 13. c4 Qd7 14. N1h2 f5 15. exf6 gxf6 16. Ng4 e5 17. Bh3 Qe8 18. Bh6 Rf7 19. Bd2 Kh8 20. Kh2 Bc8 21. Qe2 Bd7 22. Ng1 f5 23. Nh6 Rg7 24. Bg5 Qg6 25. Bg2 Ng8 26. Nxg8 Raxg8 27. Qd2 f4 28. Be4 Qd6 29. Qe2 Be8 30. Bd5 Rf8 31. gxf4 h6 32. fxe5 Qxe5+ 33. Qxe5 Nxe5 34. f4 Ng4+ 35. Kg3 Ne3 0-1",
@@ -42,6 +45,20 @@
       "playerWhite": "Aleksander Sznapik",
       "playerBlack": "Anatoly Karpov",
       "date": "1972-10-02"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:29:49.862Z",
+    "playerWhite": "Aleksander Sznapik",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/203525",
+    "result": "0-1",
+    "movesCount": 35,
+    "year": 1972
+  },
+  "lichessGameId": [
+    {
+      "id": "i15VZAuF"
     }
   ]
 }

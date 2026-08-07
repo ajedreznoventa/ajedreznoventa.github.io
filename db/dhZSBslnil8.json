@@ -2,7 +2,7 @@
   "_id": "dhZSBslnil8",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-07-15T15:00:23Z",
     "title": "COCCION a Fuego Lento | Anatoly Karpov vs Garry Kasparov | Campeonato Mundial de Ajedrez 1984 27",
     "description": "Listas de Reproducción:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\nTWITTER: https://twitter.com/Ajedrez_90\n\n0:00 Intro \n0:16 Análisis \n16:43 Outro \n\n#Ajedrez #Kasparov #Karpov",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "dhZSBslnil8"
+  },
+  "videoContentDetails": {
+    "duration": "PT18M21S"
   },
   "videoGame": []
 }

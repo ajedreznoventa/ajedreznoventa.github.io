@@ -2,7 +2,7 @@
   "_id": "2Xgv4S5sC7U",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-09-23T16:00:03Z",
     "title": "Peones ESPARTANOS | Anatoly Karpov vs Garry Kasparov | Campeonato Mundial Ajedrez 1985 |  Ronda 22",
     "description": "Buenas! En este vídeo veremos la última victoria de Karpov en el match contra Kasparov celebrado en el año 1985. La partida es un muy buen ejemplo de como jugar la estructura de peones tipo Carlsbad. Karpov logró avanzar su mayoría de peones del flanco de rey,  creando así serios problemas al monarca de Kasparov. ¡Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nStockFish vs AlphaZero: https://youtu.be/fMulw_HJV4k\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Intro \n0:36 Análisis \n16:53 Outro \n\n#Ajedrez #Kasparov #Karpov #garrykasparov #anatolykarpov \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Kasparov World Championship Match\"]\n[Site \"Moscow URS\"]\n[Date \"1985.11.05\"]\n[EventDate \"?\"]\n[Round \"22\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Garry Kasparov\"]\n[ECO \"D31\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"83\"]\n\n1.d4 d5 2.c4 e6 3.Nc3 Be7 4.cxd5 exd5 5.Bf4 Nf6 6.e3 O-O 7.Nf3\nBf5 8.h3 c6 9.g4 Bg6 10.Ne5 Nfd7 11.Nxg6 fxg6 12.Bg2 Nb6\n13.O-O Kh8 14.Ne2 g5 15.Bg3 Bd6 16.Qd3 Na6 17.b3 Qe7 18.Bxd6\nQxd6 19.f4 gxf4 20.exf4 Rae8 21.f5 Nc7 22.Rf2 Nd7 23.g5 Qe7\n24.h4 Qe3 25.Rd1 Nb5 26.Qxe3 Rxe3 27.Kh2 Nb6 28.Ng3 Nc8 29.Nf1\nRe7 30.Rd3 Ncd6 31.Ng3 Ne4 32.Bxe4 dxe4 33.Re3 Nxd4 34.Kh3 Re5\n35.Kg4 h5 36.Kxh5 Nxf5 37.Rxf5 Rfxf5 38.Nxf5 Rxf5 39.Rxe4 Kh7\n40.Re7 b5 41.Rxa7 b4 42.Kg4 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "2Xgv4S5sC7U"
   },
+  "videoContentDetails": {
+    "duration": "PT17M51S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 O-O 7. Nf3 Bf5 8. h3 c6 9. g4 Bg6 10. Ne5 Nfd7 11. Nxg6 fxg6 12. Bg2 Nb6 13. O-O Kh8 14. Ne2 g5 15. Bg3 Bd6 16. Qd3 Na6 17. b3 Qe7 18. Bxd6 Qxd6 19. f4 gxf4 20. exf4 Rae8 21. f5 Nc7 22. Rf2 Nd7 23. g5 Qe7 24. h4 Qe3 25. Rd1 Nb5 26. Qxe3 Rxe3 27. Kh2 Nb6 28. Ng3 Nc8 29. Nf1 Re7 30. Rd3 Ncd6 31. Ng3 Ne4 32. Bxe4 dxe4 33. Re3 Nxd4 34. Kh3 Re5 35. Kg4 h5+ 36. Kxh5 Nxf5 37. Rxf5 Rfxf5 38. Nxf5 Rxf5 39. Rxe4 Kh7 40. Re7 b5 41. Rxa7 b4 42. Kg4 1-0",
@@ -43,5 +46,14 @@
       "playerBlack": "Garry Kasparov",
       "date": "1985-11-05"
     }
-  ]
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:46:49.877Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Garry Kasparov",
+    "href": "https://www.chess.com/games/view/369179",
+    "result": "1-0",
+    "movesCount": 42,
+    "year": 1985
+  }
 }

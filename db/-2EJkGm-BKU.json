@@ -2,7 +2,7 @@
   "_id": "-2EJkGm-BKU",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2024-01-05T17:00:00Z",
     "title": "JOYA POSICIONAL | Anatoly Karpov vs Lubomir Ljubojevic | Linares 1989 | Gambito de Dama | Carlsbad",
     "description": "Buenas! Para empezar el año 2024 con fuerza, les traigo una partida ejemplar de Anatoly Karpov, donde analizaremos como se juega el famoso ataque de minorías en una estructura de peones tipo Carlsbad. Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:31 Análisis\n24:25 Conclusión\n\n#ajedrez #karpov #anatolykarpov #ljubojevic\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Linares\"]\n[Site \"Linares ESP\"]\n[Date \"1989.02.25\"]\n[EventDate \"1989.02.19\"]\n[Round \"6\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Ljubomir Ljubojevic\"]\n[ECO \"D35\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"89\"]\n\n1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Nbd7\n7. Bd3 Be7 8. Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Rab1 Ne4\n12. Bxe7 Qxe7 13. b4 a6 14. a4 Bf5 15. Ne5 Rad8 16. Rfc1 Ng6\n17. Bxe4 Bxe4 18. Nxe4 dxe4 19. Nxg6 hxg6 20. b5 cxb5 21. axb5\nRd6 22. bxa6 bxa6 23. Qa4 Qd7 24. Qxd7 Rxd7 25. Rc5 Ra7\n26. Ra5 Kf8 27. Rb6 Rea8 28. h4 Ke7 29. Kh2 Kd7 30. Kg3 Kc7\n31. Rb2 Rb7 32. Rc5+ Kb8 33. Ra2 Re7 34. Kf4 Kb7 35. Rb2+ Ka7\n36. Rc6 Rh8 37. Ra2 a5 38. Rxa5+ Kb7 39. Rca6 Rxh4+ 40. Kg3\nRh5 41. Ra7+ Kc6 42. R5a6+ Kb5 43. Rxe7 Rg5+ 44. Kh2 Kxa6\n45. Rxf7 1-0",
@@ -30,6 +30,9 @@
     },
     "videoId": "-2EJkGm-BKU"
   },
+  "videoContentDetails": {
+    "duration": "PT25M23S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Nbd7 7. Bd3 Be7 8. Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Rab1 Ne4 12. Bxe7 Qxe7 13. b4 a6 14. a4 Bf5 15. Ne5 Rad8 16. Rfc1 Ng6 17. Bxe4 Bxe4 18. Nxe4 dxe4 19. Nxg6 hxg6 20. b5 cxb5 21. axb5 Rd6 22. bxa6 bxa6 23. Qa4 Qd7 24. Qxd7 Rxd7 25. Rc5 Ra7 26. Ra5 Kf8 27. Rb6 Rea8 28. h4 Ke7 29. Kh2 Kd7 30. Kg3 Kc7 31. Rb2 Rb7 32. Rc5+ Kb8 33. Ra2 Re7 34. Kf4 Kb7 35. Rb2+ Ka7 36. Rc6 Rh8 37. Ra2 a5 38. Rxa5+ Kb7 39. Rca6 Rxh4+ 40. Kg3 Rh5 41. Ra7+ Kc6 42. R5a6+ Kb5 43. Rxe7 Rg5+ 44. Kh2 Kxa6 45. Rxf7 1-0",
@@ -37,6 +40,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Ljubomir Ljubojevic",
       "date": "1989-02-25"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:40:34.996Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Ljubomir Ljubojevic",
+    "href": "https://www.chess.com/games/view/455701",
+    "result": "1-0",
+    "movesCount": 45,
+    "year": 1989
+  },
+  "lichessGameId": [
+    {
+      "id": "gKWegb6k"
     }
   ]
 }

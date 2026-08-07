@@ -2,7 +2,7 @@
   "_id": "KfwSGssR1ck",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-07-11T20:00:11Z",
     "title": "#shorts #ajedrez",
     "description": "",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "KfwSGssR1ck"
+  },
+  "videoContentDetails": {
+    "duration": "PT53S"
   },
   "videoGame": []
 }

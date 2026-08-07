@@ -2,7 +2,7 @@
   "_id": "NSx3YgfYiLk",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-06-24T15:30:10Z",
     "title": "Asediando la Defensa Tarrasch | Anatoly Karpov vs Garry Kasparov | Campeonato Mundial 1984 Partida 7",
     "description": "En este vídeo veremos la primera victoria de Karpov contra la defensa Tarrasch del -por aquel entonces- aspirante, Garry Kasparov. Creo que esta partida demuestra muy bien como se debe jugar contra el peón aislado, y que temás tácticos y estratégicos cabe esperar. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n0:00 Intro \n0:23 Análisis \n14:03 Outro \n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n\n➡️ Twitter: https://twitter.com/Ajedrez_90\n➡️ Newsletter: https://ajedrez90.substack.com\n\n#Ajedrez #Kasparov #Karpov #Tarrasch\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Kasparov World Championship Match 1984/85\"]\n[Site \"Moscow URS\"]\n[Date \"1984.09.28\"]\n[EventDate \"?\"]\n[Round \"7\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Garry Kasparov\"]\n[ECO \"D34\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"87\"]\n\n1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.g3 Nf6 6.Bg2 Be7 7.O-O\nO-O 8.Nc3 Nc6 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.Qb3 Na5\n13.Qc2 Bg4 14.Nf5 Rc8 15.Nxe7+ Rxe7 16.Rad1 Qe8 17.h3 Bh5\n18.Bxd5 Bg6 19.Qc1 Nxd5 20.Rxd5 Nc4 21.Bd4 Rec7 22.b3 Nb6\n23.Re5 Qd7 24.Qe3 f6 25.Rc5 Rxc5 26.Bxc5 Qxh3 27.Rd1 h5 28.Rd4\nNd7 29.Bd6 Bf7 30.Nd5 Bxd5 31.Rxd5 a6 32.Bf4 Nf8 33.Qd3 Qg4\n34.f3 Qg6 35.Kf2 Rc2 36.Qe3 Rc8 37.Qe7 b5 38.Rd8 Rxd8 39.Qxd8\nQf7 40.Bd6 g5 41.Qa8 Kg7 42.Qxa6 Qd7 43.Bxf8+ Kxf8 44.Qxf6+\n1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "NSx3YgfYiLk"
   },
+  "videoContentDetails": {
+    "duration": "PT14M23S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Bg4 14. Nf5 Rc8 15. Nxe7+ Rxe7 16. Rad1 Qe8 17. h3 Bh5 18. Bxd5 Bg6 19. Qc1 Nxd5 20. Rxd5 Nc4 21. Bd4 Rec7 22. b3 Nb6 23. Re5 Qd7 24. Qe3 f6 25. Rc5 Rxc5 26. Bxc5 Qxh3 27. Rd1 h5 28. Rd4 Nd7 29. Bd6 Bf7 30. Nd5 Bxd5 31. Rxd5 a6 32. Bf4 Nf8 33. Qd3 Qg4 34. f3 Qg6 35. Kf2 Rc2 36. Qe3 Rc8 37. Qe7 b5 38. Rd8 Rxd8 39. Qxd8 Qf7 40. Bd6 g5 41. Qa8 Kg7 42. Qxa6 Qd7 43. Bxf8+ Kxf8 44. Qxf6+ 1-0",
@@ -43,5 +46,17 @@
       "playerBlack": "Garry Kasparov",
       "date": "1984-09-28"
     }
-  ]
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:48:19.985Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Garry Kasparov",
+    "href": "https://www.chess.com/games/view/15783091",
+    "result": "1-0",
+    "movesCount": 44
+  },
+  "chess365": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2026-08-07T18:48:20.731Z"
+  }
 }

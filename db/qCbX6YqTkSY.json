@@ -2,7 +2,7 @@
   "_id": "qCbX6YqTkSY",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2025-01-03T17:01:01Z",
     "title": "NACE UNA ESTRELLA | Anatoly Karpov vs Vlastimil Hort | Torneo de Moscu 1971 | Defensa Scheveningen",
     "description": "Buenas! Hoy les traigo una de las mejores partidas de Anatoly Karpov en el fuerte torneo celebrado en Moscú el año 1971. El joven Anatoly usó el ataque Keres con éxito, dificultando el desarrollo de las piezas rivales, y obteniendo de forma temprana la pareja de alfiles. Más adelante, Karpov empleó una bonita e instructiva maniobra con la torre por cuarta fila. Espero que les guste el vídeo! :)\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\nQuiero aprovechar para agradecer de corazón a los miembros actuales por apoyar el contenido del canal:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:44 Análisis\n18:40 Conclusión\n\n#ajedrez #karpov #anatolykarpov #ataquekeres\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Moscow\"]\n[Site \"Moscow URS\"]\n[Date \"1971.12.08\"]\n[EventDate \"1971.11.24\"]\n[Round \"11\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Vlastimil Hort\"]\n[ECO \"B81\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"65\"]\n\n1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g4 Nc6 7.g5\nNd7 8.f4 a6 9.Be3 Be7 10.Rg1 Nxd4 11.Qxd4 e5 12.Qd2 exf4\n13.Bxf4 Ne5 14.Be2 Be6 15.Nd5 Bxd5 16.exd5 Ng6 17.Be3 h6\n18.gxh6 Bh4+ 19.Kd1 gxh6 20.Bxh6 Bf6 21.c3 Be5 22.Rg4 Qf6\n23.h4 Qf5 24.Rb4 Bf6 25.h5 Ne7 26.Rf4 Qe5 27.Rf3 Nxd5 28.Rd3\nRxh6 29.Rxd5 Qe4 30.Rd3 Qh1+ 31.Kc2 Qxa1 32.Qxh6 Be5 33.Qg5\n1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "qCbX6YqTkSY"
   },
+  "videoContentDetails": {
+    "duration": "PT19M24S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 Nc6 7. g5 Nd7 8. f4 a6 9. Be3 Be7 10. Rg1 Nxd4 11. Qxd4 e5 12. Qd2 exf4 13. Bxf4 Ne5 14. Be2 Be6 15. Nd5 Bxd5 16. exd5 Ng6 17. Be3 h6 18. gxh6 Bh4+ 19. Kd1 gxh6 20. Bxh6 Bf6 21. c3 Be5 22. Rg4 Qf6 23. h4 Qf5 24. Rb4 Bf6 25. h5 Ne7 26. Rf4 Qe5 27. Rf3 Nxd5 28. Rd3 Rxh6 29. Rxd5 Qe4 30. Rd3 Qh1+ 31. Kc2 Qxa1 32. Qxh6 Be5 33. Qg5 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Vlastimil Hort",
       "date": "1971-12-08"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:34:34.836Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Vlastimil Hort",
+    "href": "https://www.chess.com/games/view/189446",
+    "result": "1-0",
+    "movesCount": 33,
+    "year": 1971
+  },
+  "lichessGameId": [
+    {
+      "id": "A8wxJsmP"
     }
   ]
 }

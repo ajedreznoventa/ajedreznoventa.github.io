@@ -2,7 +2,7 @@
   "_id": "y0JkrTD4hdA",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-09-30T18:00:20Z",
     "title": "DOMINANDO AL DRAGÓN #shorts",
     "description": "#ajedrez #karpov #timman\n(Photo credits: R. Croes / ANEFO, via http://nationaalarchief.nl.)",
@@ -24,6 +24,9 @@
       }
     },
     "videoId": "y0JkrTD4hdA"
+  },
+  "videoContentDetails": {
+    "duration": "PT57S"
   },
   "videoGame": []
 }

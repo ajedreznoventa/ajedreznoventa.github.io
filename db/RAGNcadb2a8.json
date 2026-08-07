@@ -2,7 +2,7 @@
   "_id": "RAGNcadb2a8",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2026-02-27T17:00:49Z",
     "title": "GOLPE MÁGICO | Anatoly Karpov vs Walter Browne | Torneo San Antonio | Apertura Inglesa",
     "description": "¡Buenas! En este vídeo analizamos una excelente muestra de técnica de Anatoly Karpov frente a Walter Browne, disputada en el torneo internacional de Texas en 1972. En una apertura poco habitual, el joven Tolia cede la pareja de alfiles con Axf6 para hacerse con el control permanente de la casilla d5, eje estratégico de toda la partida. A partir de ahí, Karpov coordina sus piezas con precisión, frena el contrajuego en el flanco de dama y prepara la ruptura central d4 en el momento justo. Una lección magistral de cómo convertir una ventaja mínima en victoria mediante paciencia, método y técnica impecable. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\nQuiero aprovechar para agradecer de corazón a los miembros actuales por apoyar el contenido del canal:\n✨ @Lucia-co9ke\n✨ @obeduwu3465\n✨ @elproveedor5149\n✨ @sebastianconvers1857\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:42 Inicio del análisis\n04:00 Momento crítico 1\n11:39 Momento crítico 2\n18:58 Conclusión\n\n#ajedrez #facelessyoutube #karpov #anatolykarpov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"San Antonio\"]\n[Site \"San Antonio, TX USA\"]\n[Date \"1972.11.20\"]\n[EventDate \"1972.11.19\"]\n[Round \"2\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Walter Shawn Browne\"]\n[ECO \"A30\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"117\"]\n\n1.c4 c5 2.b3 Nf6 3.Bb2 g6 4.Bxf6 exf6 5.Nc3 Bg7 6.g3 Nc6 7.Bg2\nf5 8.e3 O-O 9.Nge2 a6 10.Rc1 b5 11.d3 Bb7 12.O-O d6 13.Qd2 Qa5\n14.Rfd1 Rab8 15.Nd5 Qxd2 16.Rxd2 b4 17.d4 Rfd8 18.Rcd1 cxd4\n19.exd4 Kf8 20.c5 Na7 21.Ne3 Bxg2 22.Kxg2 dxc5 23.dxc5 Rxd2\n24.Rxd2 Rc8 25.Nd5 Rxc5 26.Nxb4 a5 27.Nd5 Rc6 28.Ne3 Rc5\n29.Nf4 Bh6 30.Rd5 Rxd5 31.Nfxd5 Bxe3 32.Nxe3 Ke7 33.Kf3 Nc6\n34.Nc4 Ke6 35.Ke3 Kd5 36.a3 Ke6 37.Kd3 Kd5 38.f3 h6 39.Kc3 h5\n40.Kd3 f6 41.f4 g5 42.Ne3+ Ke6 43.h4 gxh4 44.gxh4 Ne7 45.Kc4\nNg6 46.Ng2 Kd6 47.Kb5 Kd5 48.Kxa5 Ke4 49.b4 Kf3 50.b5 Kxg2\n51.b6 Nf8 52.Kb5 Nd7 53.a4 Nxb6 54.Kxb6 Kf3 55.a5 Kxf4 56.a6\nKe3 57.a7 f4 58.a8=Q f3 59.Qe8+ 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "RAGNcadb2a8"
   },
+  "videoContentDetails": {
+    "duration": "PT19M55S"
+  },
   "videoGame": [
     {
       "pgn": "1. c4 c5 2. b3 Nf6 3. Bb2 g6 4. Bxf6 exf6 5. Nc3 Bg7 6. g3 Nc6 7. Bg2 f5 8. e3 O-O 9. Nge2 a6 10. Rc1 b5 11. d3 Bb7 12. O-O d6 13. Qd2 Qa5 14. Rfd1 Rab8 15. Nd5 Qxd2 16. Rxd2 b4 17. d4 Rfd8 18. Rcd1 cxd4 19. exd4 Kf8 20. c5 Na7 21. Ne3 Bxg2 22. Kxg2 dxc5 23. dxc5 Rxd2 24. Rxd2 Rc8 25. Nd5 Rxc5 26. Nxb4 a5 27. Nd5 Rc6 28. Ne3 Rc5 29. Nf4 Bh6 30. Rd5 Rxd5 31. Nfxd5 Bxe3 32. Nxe3 Ke7 33. Kf3 Nc6 34. Nc4 Ke6 35. Ke3 Kd5 36. a3 Ke6 37. Kd3 Kd5 38. f3 h6 39. Kc3 h5 40. Kd3 f6 41. f4 g5 42. Ne3+ Ke6 43. h4 gxh4 44. gxh4 Ne7 45. Kc4 Ng6 46. Ng2 Kd6 47. Kb5 Kd5 48. Kxa5 Ke4 49. b4 Kf3 50. b5 Kxg2 51. b6 Nf8 52. Kb5 Nd7 53. a4 Nxb6 54. Kxb6 Kf3 55. a5 Kxf4 56. a6 Ke3 57. a7 f4 58. a8=Q f3 59. Qe8+ 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Walter Shawn Browne",
       "date": "1972-11-20"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:27:19.801Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Walter S Browne",
+    "href": "https://www.chess.com/games/view/200798",
+    "result": "1-0",
+    "movesCount": 59,
+    "year": 1972
+  },
+  "lichessGameId": [
+    {
+      "id": "5qZBG7Cg"
     }
   ]
 }

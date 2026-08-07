@@ -2,7 +2,7 @@
   "_id": "IHbWj0kyU7M",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-02-21T21:00:26Z",
     "title": "#ajedrez",
     "description": "Aprende los secretos del ajedrez y mejora tus habilidades con este video. Descubre estrategias y tácticas para ganar partidas y convertirte en un jugador experto. El ajedrez es un juego de estrategia que requiere habilidad y práctica, pero con la guía adecuada, puedes dominarlo. En este video, exploraremos conceptos básicos y avanzados del ajedrez, desde los movimientos de las piezas hasta las aperturas y finales. ¡Así que si estás listo para mejorar tu juego y convertirte en un maestro del ajedrez, no te pierdas este video!",
@@ -29,6 +29,9 @@
       }
     },
     "videoId": "IHbWj0kyU7M"
+  },
+  "videoContentDetails": {
+    "duration": "PT41S"
   },
   "videoGame": []
 }

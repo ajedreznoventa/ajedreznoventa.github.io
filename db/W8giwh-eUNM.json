@@ -2,7 +2,7 @@
   "_id": "W8giwh-eUNM",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2023-07-07T16:00:27Z",
     "title": "BOMBERO ESTRATEGICO | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial 1987 Sevilla | Ronda 16",
     "description": "Buenas! En este vídeo les comparto la tercera victoria de Anatoly Karpov frente Garry Kasparov en el campeonato mundial de ajedrez celebrado el año 1987. Karpov con las piezas negras supo apagar el fuego ofensivo de Kasparov. La partida es un magnífico ejemplo para familiarizarse con las estructuras de peones tipo Nimzoindia, con los peones doblados en la columna c. Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:15 Análisis\n18:52 Conclusión\n\n#ajedrez #karpov #anatolykarpov #kasparov #garrykasparov #sevilla \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Match\"]\n[Site \"Seville ESP\"]\n[Date \"1987.11.23\"]\n[EventDate \"?\"]\n[Round \"16\"]\n[Result \"0-1\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A29\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"81\"]\n\n1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O Re8 7.d3\nBxc3 8.bxc3 e4 9.Nd4 h6 10.dxe4 Nxe4 11.Qc2 d5 12.cxd5 Qxd5\n13.e3 Na5 14.f3 Nd6 15.e4 Qc5 16.Be3 Ndc4 17.Bf2 Qe7 18.Rad1\nBd7 19.f4 Rad8 20.e5 Bg4 21.Nf5 Qe6 22.Rxd8 Rxd8 23.Nd4 Qc8\n24.f5 c5 25.Qe4 cxd4 26.Qxg4 Nxe5 27.Qe2 Nec6 28.cxd4 Nxd4\n29.Bxd4 Rxd4 30.f6 Qe6 31.Qb2 Qe3+ 32.Kh1 b6 33.fxg7 Nc4\n34.Qc2 Kxg7 35.Bd5 Nd6 36.Qb2 Qe5 37.Bb3 a5 38.Qf2 f5 39.Qb2\nb5 40.a3 Kg6 41.Qf2 0-1",
@@ -35,6 +35,9 @@
     },
     "videoId": "W8giwh-eUNM"
   },
+  "videoContentDetails": {
+    "duration": "PT19M35S"
+  },
   "videoGame": [
     {
       "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O Re8 7. d3 Bxc3 8. bxc3 e4 9. Nd4 h6 10. dxe4 Nxe4 11. Qc2 d5 12. cxd5 Qxd5 13. e3 Na5 14. f3 Nd6 15. e4 Qc5 16. Be3 Ndc4 17. Bf2 Qe7 18. Rad1 Bd7 19. f4 Rad8 20. e5 Bg4 21. Nf5 Qe6 22. Rxd8 Rxd8 23. Nd4 Qc8 24. f5 c5 25. Qe4 cxd4 26. Qxg4 Nxe5 27. Qe2 Nec6 28. cxd4 Nxd4 29. Bxd4 Rxd4 30. f6 Qe6 31. Qb2 Qe3+ 32. Kh1 b6 33. fxg7 Nc4 34. Qc2 Kxg7 35. Bd5 Nd6 36. Qb2 Qe5 37. Bb3 a5 38. Qf2 f5 39. Qb2 b5 40. a3 Kg6 41. Qf2 0-1",
@@ -42,6 +45,20 @@
       "playerWhite": "Garry Kasparov",
       "playerBlack": "Anatoly Karpov",
       "date": "1987-11-23"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:42:20.553Z",
+    "playerWhite": "Garry Kasparov",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/407085",
+    "result": "0-1",
+    "movesCount": 41,
+    "year": 1987
+  },
+  "lichessGameId": [
+    {
+      "id": "cvJLT3mT"
     }
   ]
 }

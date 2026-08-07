@@ -2,7 +2,7 @@
   "_id": "JyrFLumK_jI",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-08-29T16:00:39Z",
     "title": "ALFIl PRISMATICO | Franklin Alvarez vs Anatoly Karpov | Olimpiada 1972 | Defensa Siciliana",
     "description": "¡Buenas! En este vídeo analizamos una partida entre Karpov y Franklin Álvarez jugada en la Olimpiada de 1972. Karpov, con negras, plantea una defensa Siciliana variante Kan. La partida destaca por su enfoque estratégico y el buen manejo de piezas menores. Un ejemplo instructivo para entender ideas típicas en esta apertura. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:44 Inicio del análisis\n06:39 Momento crítico 1\n11:29 Momento crítico 2\n14:11 Conclusión\n\n#ajedrez #karpov #anatolykarpov #siciliana #kann\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Qualifying Group 1\"]\n[Site \"Skopje YUG\"]\n[Date \"1972.09.24\"]\n[EventDate \"1972.09.19\"]\n[Round \"6\"]\n[Result \"0-1\"]\n[White \"Franklin Alvarez\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"B43\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"60\"]\n\n1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Bb4\n7. Bd2 Nf6 8. Bd3 d6 9. O-O Bc5 10. Nb3 Ba7 11. Kh1 O-O\n12. Bg5 Nbd7 13. f4 b5 14. a3 Bb7 15. Qe2 Rfe8 16. Rad1 e5\n17. Qf3 h6 18. Bh4 exf4 19. Qxf4 Re5 20. Qf3 Rae8 21. Bg3 R5e6\n22. Nd5 Bxd5 23. exd5 Re3 24. Qf4 Ne5 25. Qf5 Rxg3 26. hxg3\nNeg4 27. Rde1 Rxe1 28. Rxe1 Nf2+ 29. Kh2 N6g4+ 30. Kg1 Ne4+\n0-1",
@@ -35,6 +35,9 @@
     },
     "videoId": "JyrFLumK_jI"
   },
+  "videoContentDetails": {
+    "duration": "PT14M54S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Bb4 7. Bd2 Nf6 8. Bd3 d6 9. O-O Bc5 10. Nb3 Ba7 11. Kh1 O-O 12. Bg5 Nbd7 13. f4 b5 14. a3 Bb7 15. Qe2 Rfe8 16. Rad1 e5 17. Qf3 h6 18. Bh4 exf4 19. Qxf4 Re5 20. Qf3 Rae8 21. Bg3 R5e6 22. Nd5 Bxd5 23. exd5 Re3 24. Qf4 Ne5 25. Qf5 Rxg3 26. hxg3 Neg4 27. Rde1 Rxe1 28. Rxe1 Nf2+ 29. Kh2 N6g4+ 30. Kg1 Ne4+ 0-1",
@@ -42,6 +45,20 @@
       "playerWhite": "Franklin Alvarez",
       "playerBlack": "Anatoly Karpov",
       "date": "1972-09-24"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:30:34.849Z",
+    "playerWhite": "Alvarez Franklin",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/201272",
+    "result": "0-1",
+    "movesCount": 30,
+    "year": 1972
+  },
+  "lichessGameId": [
+    {
+      "id": "1h3stoSZ"
     }
   ]
 }

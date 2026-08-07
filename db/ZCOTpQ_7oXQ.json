@@ -2,7 +2,7 @@
   "_id": "ZCOTpQ_7oXQ",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-11-25T17:00:21Z",
     "title": "JAQUE MATE ARTÍSTICO #shorts #ajedrez",
     "description": "#puzles #artistico",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "ZCOTpQ_7oXQ"
+  },
+  "videoContentDetails": {
+    "duration": "PT51S"
   },
   "videoGame": []
 }

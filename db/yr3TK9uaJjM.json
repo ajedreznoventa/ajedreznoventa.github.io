@@ -2,7 +2,7 @@
   "_id": "yr3TK9uaJjM",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-04-25T16:01:37Z",
     "title": "ERIZO EJEMPLAR | Raymond Keene vs Anatoly Karpov | Hastings 1971-1972 | Defensa Siciliana Taimanov",
     "description": "Buenas! En este video veremos una partida inusual de Karpov, empleando la defensa Siciliana con las piezas negras. Creo que esta partida es un ejemplo modélico para aprender a jugar las posiciones tipo Maroczy, ya que el joven Tolia empleó de forma magistral las rupturas temáticas de esta estructura de peones. Espero que os guste! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:38 Análisis\n22:20 Conclusión\n\n#ajedrez #karpov #anatolykarpov #hastings\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Hastings 1971/72\"]\n[Site \"Hastings ENG\"]\n[Date \"1972.01.06\"]\n[EventDate \"1971.12.29\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Michael J Franklin\"]\n[ECO \"B28\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"73\"]\n\n1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 e6 6. Be3 cxd4\n7. cxd4 Nf6 8. Nc3 Qa5 9. Bd3 Nc6 10. a3 Be7 11. O-O O-O\n12. Qc2 Bd7 13. b4 Qh5 14. Ne2 Nd5 15. Bd2 Bd6 16. Ng3 Bxg3\n17. fxg3 Rac8 18. Qb2 f6 19. h3 g5 20. g4 Qh6 21. a4 b5\n22. axb5 axb5 23. Rfc1 Rb8 24. Rc5 Nd8 25. h4 Qg7 26. hxg5\nfxg5 27. Nxg5 Nb7 28. Rcc1 Nf4 29. Bxf4 Rxf4 30. Nf3 Qxg4\n31. Be2 Nd8 32. Rc5 Nf7 33. Ra3 Qg7 34. Ra7 Be8 35. Rg5 Qxg5\n36. Nxg5 Nxg5 37. d5 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "yr3TK9uaJjM"
   },
+  "videoContentDetails": {
+    "duration": "PT23M1S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 e6 6. Be3 cxd4 7. cxd4 Nf6 8. Nc3 Qa5 9. Bd3 Nc6 10. a3 Be7 11. O-O O-O 12. Qc2 Bd7 13. b4 Qh5 14. Ne2 Nd5 15. Bd2 Bd6 16. Ng3 Bxg3 17. fxg3 Rac8 18. Qb2 f6 19. h3 g5 20. g4 Qh6 21. a4 b5 22. axb5 axb5 23. Rfc1 Rb8 24. Rc5 Nd8 25. h4 Qg7 26. hxg5 fxg5 27. Nxg5 Nb7 28. Rcc1 Nf4 29. Bxf4 Rxf4 30. Nf3 Qxg4 31. Be2 Nd8 32. Rc5 Nf7 33. Ra3 Qg7 34. Ra7 Be8 35. Rg5 Qxg5 36. Nxg5 Nxg5 37. d5 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Michael J Franklin",
       "date": "1972-01-06"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:32:49.847Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Michael J Franklin",
+    "href": "https://www.chess.com/games/view/188114",
+    "result": "1-0",
+    "movesCount": 37,
+    "year": 1971
+  },
+  "lichessGameId": [
+    {
+      "id": "LYL1wwR7"
     }
   ]
 }

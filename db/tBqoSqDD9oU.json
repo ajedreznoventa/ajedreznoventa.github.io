@@ -2,7 +2,7 @@
   "_id": "tBqoSqDD9oU",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-12-09T17:00:35Z",
     "title": "UN FINAL CLASICO #shorts #ajedrez",
     "description": "#puzles #artistico",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "tBqoSqDD9oU"
+  },
+  "videoContentDetails": {
+    "duration": "PT1M"
   },
   "videoGame": []
 }

@@ -2,7 +2,7 @@
   "_id": "b7JandqA7MY",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2026-03-13T17:00:58Z",
     "title": "AS BAJO LA MANGA | Anatoly Karpov vs Mario Campos Lopez | Torneo San Antonio 1972 | Defensa Alekhine",
     "description": "¡Buenas! En este vídeo analizamos cómo Anatoly Karpov desmonta la Defensa Alekhine con un juego posicional preciso frente a Mario Campos López, en el torneo de San Antonio, Texas, 1972. Tras permitir el avance central blanco, las negras no ejecutan el plan correcto y el joven Tolia consolida su ventaja con desarrollo armonioso y control del centro. El error crítico Cb4 permite a Karpov jugar el temático c5, seguido de Ce4, atrapando la dama negra y ganando material de forma forzada. Una partida instructiva que muestra cómo castigar con exactitud las imprecisiones en aperturas hipermodernas. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\nQuiero aprovechar para agradecer de corazón a los miembros actuales por apoyar el contenido del canal:\n✨ @Lucia-co9ke\n✨ @obeduwu3465\n✨ @elproveedor5149\n✨ @sebastianconvers1857\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:44 Inicio del análisis\n06:38 Momento crítico \n12:17 Conclusión\n\n#ajedrez #facelessyoutube #karpov #anatolykarpov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"San Antonio\"]\n[Site \"San Antonio, TX USA\"]\n[Date \"1972.11.23\"]\n[EventDate \"1972.11.19\"]\n[Round \"4\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Mario Campos Lopez\"]\n[ECO \"B04\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"45\"]\n\n1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 c6 6. O-O Bg7\n7. exd6 Qxd6 8. h3 O-O 9. Bb3 Bf5 10. Re1 Re8 11. Nbd2 b5\n12. a4 Nd7 13. c4 Nb4 14. c5 Qf6 15. Ne4 Bxe4 16. Rxe4 e5\n17. axb5 Rad8 18. Bg5 Qf5 19. Bxd8 Rxd8 20. Qe2 cxb5 21. Rxa7\nNc6 22. Rc7 Na5 23. Bd5 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "b7JandqA7MY"
   },
+  "videoContentDetails": {
+    "duration": "PT13M14S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 c6 6. O-O Bg7 7. exd6 Qxd6 8. h3 O-O 9. Bb3 Bf5 10. Re1 Re8 11. Nbd2 b5 12. a4 Nd7 13. c4 Nb4 14. c5 Qf6 15. Ne4 Bxe4 16. Rxe4 e5 17. axb5 Rad8 18. Bg5 Qf5 19. Bxd8 Rxd8 20. Qe2 cxb5 21. Rxa7 Nc6 22. Rc7 Na5 23. Bd5 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Mario Campos Lopez",
       "date": "1972-11-23"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:27:04.824Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Campos Lopez Mario",
+    "href": "https://www.chess.com/games/view/200800",
+    "result": "1-0",
+    "movesCount": 23,
+    "year": 1972
+  },
+  "lichessGameId": [
+    {
+      "id": "xkvaPsXB"
     }
   ]
 }

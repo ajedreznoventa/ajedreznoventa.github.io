@@ -2,7 +2,7 @@
   "_id": "iME7Yu4Ao_Q",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-11-21T17:01:27Z",
     "title": "KARPOV BONAPARTE | Anatoly Karpov vs Jens Enevoldsen | Olimpiada 1972 | Defensa Francesa",
     "description": "¡Buenas! En este video os traigo un análisis de una partida entre Anatoly Karpov y Jens Enevoldsen en la Olimpiada de Ajedrez de 1972, celebrada en Skopje. El maestro danés sorprendió con el arriesgado avance …f5 en la Defensa Francesa, variante Tarrasch, debilitando su propio rey. Karpov, con blancas, aprovechó esa grieta posicional para lanzar un ataque demoledor en el flanco de rey, coronado con un sacrificio brillante y una coordinación perfecta de sus piezas. ¡Una lección temprana del instinto implacable del futuro campeón mundial!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438\n✨ @obeduwu3465\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:38 Inicio del análisis\n05:44 Momento crítico\n11:32 Conclusión\n\n#ajedrez #karpov #anatolykarpov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Final-A\"]\n[Site \"Skopje YUG\"]\n[Date \"1972.10.07\"]\n[EventDate \"?\"]\n[Round \"10\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Jens Enevoldsen\"]\n[ECO \"C03\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"55\"]\n\n1. e4 e6 2. d4 d5 3. Nd2 f5 4. exf5 exf5 5. Ndf3 Nf6 6. Bg5\nBe7 7. Bd3 Ne4 8. Bxe7 Qxe7 9. Ne2 Qb4+ 10. c3 Qxb2 11. O-O\nO-O 12. c4 dxc4 13. Bxc4+ Kh8 14. Rb1 Qa3 15. Ne5 g6 16. Rb3\nQe7 17. Nf4 Kg7 18. Rh3 Nc6 19. Nfxg6 hxg6 20. Nxg6 Qf6\n21. Nxf8 Kxf8 22. Rh7 Ne7 23. Re1 Qg6 24. Rf7+ Qxf7 25. Bxf7\nKxf7 26. Qh5+ Kf8 27. Qh6+ Kf7 28. Qh7+ 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "iME7Yu4Ao_Q"
   },
+  "videoContentDetails": {
+    "duration": "PT12M17S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 e6 2. d4 d5 3. Nd2 f5 4. exf5 exf5 5. Ndf3 Nf6 6. Bg5 Be7 7. Bd3 Ne4 8. Bxe7 Qxe7 9. Ne2 Qb4+ 10. c3 Qxb2 11. O-O O-O 12. c4 dxc4 13. Bxc4+ Kh8 14. Rb1 Qa3 15. Ne5 g6 16. Rb3 Qe7 17. Nf4 Kg7 18. Rh3 Nc6 19. Nfxg6 hxg6 20. Nxg6 Qf6 21. Nxf8 Kxf8 22. Rh7 Ne7 23. Re1 Qg6 24. Rf7+ Qxf7 25. Bxf7 Kxf7 26. Qh5+ Kf8 27. Qh6+ Kf7 28. Qh7+ 1-0",
@@ -42,6 +45,23 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Jens Enevoldsen",
       "date": "1972-10-07"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:29:04.847Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Jens Enevoldsen",
+    "href": "https://www.chess.com/games/view/15750195",
+    "result": "1-0",
+    "movesCount": 28
+  },
+  "chess365": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2026-08-07T18:29:05.573Z"
+  },
+  "lichessGameId": [
+    {
+      "id": "P0xBQYDp"
     }
   ]
 }

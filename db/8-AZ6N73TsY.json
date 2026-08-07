@@ -2,7 +2,7 @@
   "_id": "8-AZ6N73TsY",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2023-11-24T17:00:05Z",
     "title": "KARPOV en su SALSA | Anatoly Karpov vs Ulf Andersson | Olimpiada 1988 Salonica | Defensa Bogoindia",
     "description": "Buenas! Hoy les traigo una partida entre las dos anacondas del ajedrez: Anatoly Karpov y Ulf Andersson. En este encuentro Karpov nos enseñara como se debe aprovechar la ventaja de espacio, para finalmente materializarla en un final de alfil contra caballo ganador. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:26 Análisis\n18:34 Conclusión\n\n#ajedrez #karpov #andersson #anatolykarpov  \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Thessaloniki ol (Men)\"]\n[Site \"Thessaloniki\"]\n[Date \"1988.??.??\"]\n[Round \"7\"]\n[White \"Karpov, Anatoly\"]\n[Black \"Andersson, Ulf\"]\n[Result \"1-0\"]\n[WhiteElo \"2725\"]\n[BlackElo \"2625\"]\n[ECO \"E11\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 O-O 6. g3 d5 7. Bg2 Nbd7 8.  O-O c6 9. Rc1 Qe7 10. Qe3 Re8 11. Nbd2 e5 12. dxe5 Nxe5 13. Qxe5 Qxe5 14. Nxe5  Rxe5 15. cxd5 Nxd5 16. e4 Nb6 17. f4 Re7 18. a4 a5 19. Nb3 f6 20. Ra3 Be6 21.  Nc5 Bf7 22. Rd3 Rae8 23. Bh3 Nc8 24. Bd7 Rd8 25. Rcd1 Nb6 26. Bg4 Rxd3 27. Rxd3  Kf8 28. Rd8+ Re8 29. Rd4 Rb8 30. Rd7 h5 31. Bh3 Ke8 32. Rc7 Na8 33. Rxb7 Rxb7  34. Nxb7 Nb6 35. Nd6+ Ke7 36. Nxf7 Nxa4 37. Nh8 Nxb2 38. e5 a4 39. Ng6+ Ke8 40.  Be6 Nd3 41. Bg8 fxe5 42. Nxe5 Nb4 43. Nc4 h4 44. Bh7 hxg3 45. hxg3 Ke7 46. Be4  Kf6 47. g4 Ke6 48. Kf2 Nd5 49. Kf3 Nb4 50. g5 c5 51. f5+ Ke7 52. Ke3 Kf8 53.  Kd2 Ke7 54. Kc3 1-0",
@@ -30,10 +30,16 @@
     },
     "videoId": "8-AZ6N73TsY"
   },
+  "videoContentDetails": {
+    "duration": "PT19M11S"
+  },
   "videoGame": [
     {
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Ulf Andersson"
     }
+  ],
+  "lichessGameId": [
+    {}
   ]
 }

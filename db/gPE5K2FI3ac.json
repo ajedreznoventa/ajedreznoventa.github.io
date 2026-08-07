@@ -2,7 +2,7 @@
   "_id": "gPE5K2FI3ac",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2023-09-15T16:00:36Z",
     "title": "DING AL OLIMPO | Ding Liren vs Ian Nepomniatchi | Campeonato Mundial Ajedrez 2023 | Ronda 6",
     "description": "Listas de Reproducción:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\nTWITTER: https://twitter.com/Ajedrez_90\n\n#DingLiren #iannepomniachtchi #campeonmundial #Fide",
@@ -29,6 +29,9 @@
       }
     },
     "videoId": "gPE5K2FI3ac"
+  },
+  "videoContentDetails": {
+    "duration": "PT24M42S"
   },
   "videoGame": []
 }

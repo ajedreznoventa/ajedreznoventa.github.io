@@ -2,7 +2,7 @@
   "_id": "Ex4EFSjOVxs",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2023-12-22T17:00:08Z",
     "title": "PACIENCIA KARPOVIANA | Anatoly Karpov vs Viktor Korchnoi | Copa del Mundo 1988 | Apertura Inglesa",
     "description": "Buenas! Hoy les traigo una partida entre dos rivales históricos: Anatoly Karpov y Viktor Korchnói. En esta ocasión se enfrentaron en el torneo de la Copa del Mundo el 1988. Este encuentro creo que es un ejemplo modelo para aprender a jugar contra el peón aislado. Karpov presionó el peón central de Korchnói, y aprovechó un tema táctico relacionado con la clavada en la diagonal blanca. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:35 Análisis\n24:58 Conclusión\n\n#ajedrez #karpov #anatolykarpov #korchnoi\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"World Cup\"]\n[Site \"Brussels\"]\n[Date \"1988.??.??\"]\n[Round \"?\"]\n[White \"Karpov, Anatoly\"]\n[Black \"Korchnoi, Viktor\"]\n[Result \"1-0\"]\n[WhiteElo \"2715\"]\n[BlackElo \"2640\"]\n[ECO \"A33\"]\n\n1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Nb3 d5 8.  cxd5 Nxd5 9. Nxd5 exd5 10. Bg2 Be6 11. O-O Rd8 12. Bg5 f6 13. Bd2 Be7 14. Bc3  O-O 15. Nd4 Nxd4 16. Qxd4 Bc5 17. Qd2 Qd6 18. b4 Bb6 19. Bd4 Bf5 20. Rac1 Be4  21. Bh3 Rfe8 22. Rfd1 Re7 23. a3 Kf8 24. Qb2 Rc7 25. Rxc7 Qxc7 26. Rd2 Rd6 27.  Bg2 Re6 28. e3 Ke7 29. h4 a6 30. Bxb6 Qxb6 31. Rd1 Qc7 32. Qd4 Qc4 33. Qa7 Qc7  34. Rd4 Kf7 35. Rxd5 Bxg2 36. Kxg2 Qc6 37. Qc5 Qxc5 38. Rxc5 Re7 39. Kf3 Ke6  40. Ke4 Kd6+ 41. Kd4 Kd7 42. g4 Re8 43. e4 b6 44. Rd5+ Ke7 45. e5 Rf8 46. Rd6  b5 47. Rxa6 fxe5+ 48. Kxe5 Rxf2 49. Ra7+ Kf8 50. h5 Rf3 51. Kd4 Rf4+ 52. Kc5  Rxg4 53. Kxb5 Rg5+ 54. Kc6 Rxh5 55. b5 Rh6+ 56. Kc7 Rh3 57. b6 Ke7 58. b7 Rc3+  59. Kb6 Rb3+ 60. Kc6 1-0",
@@ -35,10 +35,16 @@
     },
     "videoId": "Ex4EFSjOVxs"
   },
+  "videoContentDetails": {
+    "duration": "PT25M48S"
+  },
   "videoGame": [
     {
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Viktor Korchnoi"
     }
+  ],
+  "lichessGameId": [
+    {}
   ]
 }

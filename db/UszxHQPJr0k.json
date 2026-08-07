@@ -2,7 +2,7 @@
   "_id": "UszxHQPJr0k",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2024-08-02T16:00:28Z",
     "title": "JUEGO DE ESPERA | Boris Gulko vs Anatoly Karpov | Copa del Mundo 1991 Reykjavik",
     "description": "Buenas! Hoy les traigo una partida de Anatoly Karpov contra Boris Gulko, uno de los pocos grandes maestros que tiene un balance de victorias positivo frente Garry Kasparov. Como veremos, Gulko tenía un estilo de juego poco convencional, pero la profiláxis superlativa de Karpov permitió al duodécimo campeón mundial hacerse con la victoria. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:51 Análisis\n16:25 Conclusión\n\n#ajedrez #karpov #anatolykarpov #gulko\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"World Cup\"]\n[Site \"Reykjavik\"]\n[Date \"1991.??.??\"]\n[Round \"7\"]\n[White \"Gulko, Boris\"]\n[Black \"Karpov, Anatoly\"]\n[Result \"0-1\"]\n[WhiteElo \"2565\"]\n[BlackElo \"2730\"]\n[ECO \"A28\"]\n\n1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. g3 Bc5 7. Bg2 Nd4 8. Nxd4  Bxd4 9. h3 Be6 10. f4 a6 11. Qf3 h6 12. Ne2 Bc5 13. Bd2 Qe7 14. Bc3 Bd7 15. b4  Ba7 16. a4 Nh7 17. Kd2 O-O 18. g4 b5 19. axb5 axb5 20. cxb5 Bb6 21. Rhd1 Bxb5  22. Ke1 Rfe8 23. Rxa8 Rxa8 24. Ra1 Rd8 25. Kd2 c6 26. Kc2 Nf8 27. Ng3 Ne6 28.  Nf5 Qc7 29. fxe5 dxe5 30. Bf1 c5 31. bxc5 Qxc5 32. Kb2 Nf4 33. d4 exd4 34. Nxd4  Bxf1 35. Rxf1 Bc7 36. e5 Rxd4 0-1",
@@ -35,10 +35,16 @@
     },
     "videoId": "UszxHQPJr0k"
   },
+  "videoContentDetails": {
+    "duration": "PT17M9S"
+  },
   "videoGame": [
     {
       "playerWhite": "Boris Gulko",
       "playerBlack": "Anatoly Karpov"
     }
+  ],
+  "lichessGameId": [
+    {}
   ]
 }

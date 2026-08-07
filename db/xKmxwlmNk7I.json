@@ -2,7 +2,7 @@
   "_id": "xKmxwlmNk7I",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2023-02-10T17:00:44Z",
     "title": "ZUGZWANG #shorts #shortsvideo #ajedrez",
     "description": "",
@@ -34,6 +34,9 @@
       }
     },
     "videoId": "xKmxwlmNk7I"
+  },
+  "videoContentDetails": {
+    "duration": "PT1M"
   },
   "videoGame": []
 }

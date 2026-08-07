@@ -2,7 +2,7 @@
   "_id": "6ZTT5WbBRe0",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2023-06-23T16:00:04Z",
     "title": "REGLAS de ORO | Berthold Englisch vs Wilhelm Steinitz | Londres 1883",
     "description": "Buenas! Hoy les traigo la primera partida en el canal del primer campeón mundial de ajedrez: Wilhelm Steinitz. Desde un punto de vista histórico, Steinitz es considerado el padre del ajedrez moderno, ya que puso en práctica mucho de los conceptos posicionales que siguen vigentes hoy en día. En esta ocasión, Steinitz demostró con maestría la fuera de la pareja de alfiles. Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n🎓 Cursos de estrategia y aperturas:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtaOVy2TJkji89h5JNPRlRI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuGyP65oC0XC3XDixHXV73R\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmst3QUbeyBVBDWYfVXKo882\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmsuXHLoZZMxfZxRHUQyzjlJ \nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvufk7t8y8rY1yQF2jXMKLX\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtN6x14Rq_Plx7DGuysxdfP\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmsrKzSKp57up8QACd8Szxyb\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuFbXtrzdOLsV_mqaoZAIRw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHdgmdfPCoJ_ve3iaaJh53\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmsbkFOPPzDmpSJdR1mhu0-X\n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:29 Análisis\n13:36 Conclusión\n\n#ajedrez #steinitz #alfiles\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"London\"]\n[Site \"London ENG\"]\n[Date \"1883.06.06\"]\n[EventDate \"1883.04.26\"]\n[Round \"14.2\"]\n[Result \"0-1\"]\n[White \"Berthold Englisch\"]\n[Black \"Wilhelm Steinitz\"]\n[ECO \"C60\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"86\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3\nNf6 7. Nc3 O-O 8. O-O Ne7 9. Qd2 d5 10. exd5 Nexd5 11. Nxd5\nQxd5 12. Be2 Ng4 13. Bxg4 Bxg4 14. Nb3 Qxd2 15. Nxd2 Rad8\n16. c3 Rfe8 17. Nb3 b6 18. h3 Be6 19. Rfd1 c5 20. Bg5 f6\n21. Bf4 Kf7 22. f3 g5 23. Rxd8 Rxd8 24. Be3 h6 25. Re1 f5\n26. f4 Bf6 27. g3 a5 28. Nc1 a4 29. a3 Bc4 30. Kf2 gxf4\n31. Bxf4 Bg5 32. Bxg5 hxg5 33. Ke3 Kf6 34. h4 gxh4 35. gxh4\nRe8+ 36. Kf2 Rxe1 37. Kxe1 Ke5 38. Ne2 Bxe2 39. Kxe2 Kf4\n40. c4 Kg4 41. Ke3 f4+ 42. Ke4 f3 43. Ke3 Kg3 0-1",
@@ -35,6 +35,9 @@
     },
     "videoId": "6ZTT5WbBRe0"
   },
+  "videoContentDetails": {
+    "duration": "PT14M25S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Nc3 O-O 8. O-O Ne7 9. Qd2 d5 10. exd5 Nexd5 11. Nxd5 Qxd5 12. Be2 Ng4 13. Bxg4 Bxg4 14. Nb3 Qxd2 15. Nxd2 Rad8 16. c3 Rfe8 17. Nb3 b6 18. h3 Be6 19. Rfd1 c5 20. Bg5 f6 21. Bf4 Kf7 22. f3 g5 23. Rxd8 Rxd8 24. Be3 h6 25. Re1 f5 26. f4 Bf6 27. g3 a5 28. Nc1 a4 29. a3 Bc4 30. Kf2 gxf4 31. Bxf4 Bg5 32. Bxg5 hxg5 33. Ke3 Kf6 34. h4 gxh4 35. gxh4 Re8+ 36. Kf2 Rxe1 37. Kxe1 Ke5 38. Ne2 Bxe2 39. Kxe2 Kf4 40. c4 Kg4 41. Ke3 f4+ 42. Ke4 f3 43. Ke3 Kg3 0-1",
@@ -42,6 +45,20 @@
       "playerWhite": "Berthold Englisch",
       "playerBlack": "Wilhelm Steinitz",
       "date": "1883-06-06"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:42:34.865Z",
+    "playerWhite": "Berthold Englisch",
+    "playerBlack": "Wilhelm Steinitz",
+    "href": "https://www.chess.com/games/view/2567",
+    "result": "0-1",
+    "movesCount": 43,
+    "year": 1883
+  },
+  "lichessGameId": [
+    {
+      "id": "xvw40LdU"
     }
   ]
 }

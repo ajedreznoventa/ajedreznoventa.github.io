@@ -2,7 +2,7 @@
   "_id": "01hh8Hwc3Hs",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-09-12T16:00:03Z",
     "title": "JUEGO VOLATIL | Ilkka Saren vs Anatoly Karpov | Olimpiada 1972 | Defensa Siciliana Taimanov",
     "description": "¡Buenas! En este video analizamos una fascinante partida entre Anatoly Karpov e Ilkka J. Saren en la Olimpiada de ajedrez. El joven Karpov, con negras, se enfrenta al maestro finés en una Siciliana Taimanov muy aguda. Veremos cómo Saren construye una posición sólida y cómo una decisión dudosa en el medio juego cambia el rumbo del encuentro. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867\n✨ @obeduwu3465\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:22 Inicio del análisis\n04:40 Momento crítico 1\n06:50 Momento crítico 2\n12:47 Conclusión\n\n#ajedrez #karpov #anatolykarpov #siciliana #najdorf\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Qualifying Group 1\"]\n[Site \"Skopje YUG\"]\n[Date \"1972.09.25\"]\n[EventDate \"1972.09.19\"]\n[Round \"7\"]\n[Result \"0-1\"]\n[White \"Ilkka J Saren\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"B44\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"60\"]\n\n1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6\n7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bb7 12. f3\nRb8 13. Qe1 Nd7 14. Qf2 Nc5 15. Rfd1 f5 16. exf5 Rxf5 17. Nc2\nBh4 18. g3 Be7 19. b4 Nd7 20. f4 Qf8 21. b5 axb5 22. cxb5 Na5\n23. Bxb6 Nxb6 24. Qxb6 Bd8 25. Qa7 Rc8 26. Qe3 e5 27. Bg4 Nc4\n28. Qd3 Bb6+ 29. Kf1 Rxf4+ 30. gxf4 Qxf4+ 0-1",
@@ -35,6 +35,9 @@
     },
     "videoId": "01hh8Hwc3Hs"
   },
+  "videoContentDetails": {
+    "duration": "PT13M23S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bb7 12. f3 Rb8 13. Qe1 Nd7 14. Qf2 Nc5 15. Rfd1 f5 16. exf5 Rxf5 17. Nc2 Bh4 18. g3 Be7 19. b4 Nd7 20. f4 Qf8 21. b5 axb5 22. cxb5 Na5 23. Bxb6 Nxb6 24. Qxb6 Bd8 25. Qa7 Rc8 26. Qe3 e5 27. Bg4 Nc4 28. Qd3 Bb6+ 29. Kf1 Rxf4+ 30. gxf4 Qxf4+ 0-1",
@@ -42,6 +45,20 @@
       "playerWhite": "Ilkka J Saren",
       "playerBlack": "Anatoly Karpov",
       "date": "1972-09-25"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:30:19.850Z",
+    "playerWhite": "Saren Ilkka J",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/203294",
+    "result": "0-1",
+    "movesCount": 30,
+    "year": 1972
+  },
+  "lichessGameId": [
+    {
+      "id": "uhpYv8um"
     }
   ]
 }

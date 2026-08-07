@@ -2,7 +2,7 @@
   "_id": "A8ETMxseSAg",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.193Z",
+    "retrievedAt": "2026-08-07T18:24:32.980Z",
     "publishedAt": "2025-03-07T21:00:07Z",
     "title": "La Partida Inmortal Explicada en 36 Segundos #ajedrez #tutorial",
     "description": "",
@@ -29,6 +29,9 @@
       }
     },
     "videoId": "A8ETMxseSAg"
+  },
+  "videoContentDetails": {
+    "duration": "PT37S"
   },
   "videoGame": []
 }

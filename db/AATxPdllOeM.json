@@ -2,7 +2,7 @@
   "_id": "AATxPdllOeM",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2024-11-08T17:00:17Z",
     "title": "ESPADA de DAMOCLES | Anatoly Karpov vs Viswanathan Anand | Torneo Candidatos 1991 Ronda 8",
     "description": "Buenas! En este video veremos la partida decisiva entre Anatoly Karpov y Viswanathan Anand en el torneo de Candidatos de 1991. El duodécimo campeón mundial demostró su comprensión dinámica de la posición, con jugadas como Ad2 (amenazando atrapar la dama enemiga) y Cxg7, desmontando el enroque rival. ¡Espero que os guste! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:46 Análisis\n16:44 Conclusión\n\n#ajedrez #karpov #anand #anatolykarpov #viswanathananand \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Candidates Match\"]\n[Site \"Brussels BEL\"]\n[Date \"1991.08.22\"]\n[EventDate \"1991.08.11\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Viswanathan Anand\"]\n[ECO \"D45\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"63\"]\n\n1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Be2\nO-O 8.O-O dxc4 9.Bxc4 Qe7 10.a3 e5 11.h3 Bc7 12.Ba2 h6 13.Nh4\nRe8 14.Nf5 Qf8 15.Nb5 Bb8 16.Bd2 a5 17.dxe5 Bxe5 18.f4 Bb8\n19.Nc3 Rd8 20.Be1 Nh7 21.Bh4 Ndf6 22.Rad1 Rxd1 23.Rxd1 Be6\n24.Bxe6 fxe6 25.Qb3 Qe8 26.Nxg7 Qf7 27.Nxe6 Ba7 28.Bf2 Re8\n29.Nd4 Qxb3 30.Nxb3 Bxe3 31.Bxe3 Rxe3 32.Nxa5 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "AATxPdllOeM"
   },
+  "videoContentDetails": {
+    "duration": "PT17M34S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O dxc4 9. Bxc4 Qe7 10. a3 e5 11. h3 Bc7 12. Ba2 h6 13. Nh4 Re8 14. Nf5 Qf8 15. Nb5 Bb8 16. Bd2 a5 17. dxe5 Bxe5 18. f4 Bb8 19. Nc3 Rd8 20. Be1 Nh7 21. Bh4 Ndf6 22. Rad1 Rxd1 23. Rxd1 Be6 24. Bxe6 fxe6 25. Qb3 Qe8 26. Nxg7 Qf7 27. Nxe6 Ba7 28. Bf2 Re8 29. Nd4 Qxb3 30. Nxb3 Bxe3 31. Bxe3 Rxe3 32. Nxa5 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Anatoly Karpov",
       "playerBlack": "Viswanathan Anand",
       "date": "1991-08-22"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:35:19.863Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Viswanathan Anand",
+    "href": "https://www.chess.com/games/view/510511",
+    "result": "1-0",
+    "movesCount": 32,
+    "year": 1991
+  },
+  "lichessGameId": [
+    {
+      "id": "kBkNZd6f"
     }
   ]
 }

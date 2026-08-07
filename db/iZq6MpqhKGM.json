@@ -2,7 +2,7 @@
   "_id": "iZq6MpqhKGM",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.543Z",
+    "retrievedAt": "2026-08-07T18:24:33.286Z",
     "publishedAt": "2024-07-05T16:00:45Z",
     "title": "TSUNAMI de KASPAROV | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial 1990 | Ronda 20 Lyon",
     "description": "Buenas! Hoy les traigo una de las partidas más espectaculares e icónicas de Garry Kasparov. La partida en cuestión se trata de la vigésima ronda del campeonato mundial, entre Anatoly Karpov y Garry Kasparov. Este encuentro es un ejemplo modélico para aprender a lanzar un ataque con éxito contra el enroque rival. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:51 Análisis\n26:17 Material videográfico\n26:46 Conclusión\n\n#ajedrez #kasparov #garrykasparov #karpov #anatolykarpov \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Match\"]\n[Site \"Lyon FRA\"]\n[Date \"1990.12.15\"]\n[EventDate \"?\"]\n[Round \"20\"]\n[Result \"1-0\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"C92\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"81\"]\n\n1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3\nd6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2\nexd4 14.cxd4 Nb4 15.Bb1 c5 16.d5 Nd7 17.Ra3 f5 18.Rae3 Nf6\n19.Nh2 Kh8 20.b3 bxa4 21.bxa4 c4 22.Bb2 fxe4 23.Nxe4 Nfxd5\n24.Rg3 Re6 25.Ng4 Qe8 26.Nxh6 c3 27.Nf5 cxb2 28.Qg4 Bc8\n29.Qh4+ Rh6 30.Nxh6 gxh6 31.Kh2 Qe5 32.Ng5 Qf6 33.Re8 Bf5\n34.Qxh6+ Qxh6 35.Nf7+ Kh7 36.Bxf5+ Qg6 37.Bxg6+ Kg7 38.Rxa8\nBe7 39.Rb8 a5 40.Be4+ Kxf7 41.Bxd5+ 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "iZq6MpqhKGM"
   },
+  "videoContentDetails": {
+    "duration": "PT27M51S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15. Bb1 c5 16. d5 Nd7 17. Ra3 f5 18. Rae3 Nf6 19. Nh2 Kh8 20. b3 bxa4 21. bxa4 c4 22. Bb2 fxe4 23. Nxe4 Nfxd5 24. Rg3 Re6 25. Ng4 Qe8 26. Nxh6 c3 27. Nf5 cxb2 28. Qg4 Bc8 29. Qh4+ Rh6 30. Nxh6 gxh6 31. Kh2 Qe5 32. Ng5 Qf6 33. Re8 Bf5 34. Qxh6+ Qxh6 35. Nf7+ Kh7 36. Bxf5+ Qg6 37. Bxg6+ Kg7 38. Rxa8 Be7 39. Rb8 a5 40. Be4+ Kxf7 41. Bxd5+ 1-0",
@@ -42,6 +45,20 @@
       "playerWhite": "Garry Kasparov",
       "playerBlack": "Anatoly Karpov",
       "date": "1990-12-15"
+    }
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:37:19.853Z",
+    "playerWhite": "Garry Kasparov",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/491854",
+    "result": "1-0",
+    "movesCount": 41,
+    "year": 1990
+  },
+  "lichessGameId": [
+    {
+      "id": "Sg5rz3CF"
     }
   ]
 }

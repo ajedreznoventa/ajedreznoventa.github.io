@@ -2,7 +2,7 @@
   "_id": "MNVHunrbRSo",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2023-08-04T16:00:15Z",
     "title": "GANANDO al CAMPEON | Anish Giri vs Magnus Carlsen | Tata Steel Masters 2023 Defensa India de Dama",
     "description": "Buenas! Hoy les traigo una partida de Anish Giri contra Magnus Carlsen en el torneo del Tata Steel 2023. En este encuentro Giri jugó una variante ambiciosa de la defensa india de dama, consiguiendo doblegar al número uno mundial. ¡Espero que les guste el video!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:45 Análisis\n15:43 Conclusión\n\n#Ajedrez #MagnusCarlsen #Carlsen #anishgiri #tatasteelchess \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Tata Steel Masters\"]\n[Site \"Wijk aan Zee NED\"]\n[Date \"2023.01.17\"]\n[EventDate \"2023.01.13\"]\n[Round \"4\"]\n[Result \"1-0\"]\n[White \"A Giri\"]\n[Black \"M Carlsen\"]\n[ECO \"E15\"]\n[WhiteElo \"2764\"]\n[BlackElo \"2859\"]\n[PlyCount \"70\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.\ncxd5 Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qf5 Nf6 12. e4 d6 13. e5 Qd7 14. Qxd7+\nNxd7 15. exd6 Bf6 16. Re1+ Kf8 17. Nc3 Nb4 18. Ne5 Nxe5 19. Bxb7 Rd8 20.\nRd1 Nc4 21. d7 Nc2 22. Rb1 Nd4 23. b4 Rxd7 24. Bd5 Nd6 25. bxc5 bxc5 26.\nBa3 Ke7 27. Bxc5 Ne6 28. Bb4 a5 29. Bxa5 Rc8 30. Na4 Nc4 31. Rbc1 Be5 32.\nBb4+ Kf6 33. Nc5 Nxc5 34. Rxc4 Rdc7 35. Ba5 1-0",
@@ -35,6 +35,9 @@
     },
     "videoId": "MNVHunrbRSo"
   },
+  "videoContentDetails": {
+    "duration": "PT16M37S"
+  },
   "videoGame": [
     {
       "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5 Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qf5 Nf6 12. e4 d6 13. e5 Qd7 14. Qxd7+ Nxd7 15. exd6 Bf6 16. Re1+ Kf8 17. Nc3 Nb4 18. Ne5 Nxe5 19. Bxb7 Rd8 20. Rd1 Nc4 21. d7 Nc2 22. Rb1 Nd4 23. b4 Rxd7 24. Bd5 Nd6 25. bxc5 bxc5 26. Ba3 Ke7 27. Bxc5 Ne6 28. Bb4 a5 29. Bxa5 Rc8 30. Na4 Nc4 31. Rbc1 Be5 32. Bb4+ Kf6 33. Nc5 Nxc5 34. Rxc4 Rdc7 35. Ba5 1-0",
@@ -42,6 +45,15 @@
       "playerWhite": "A Giri",
       "playerBlack": "M Carlsen",
       "date": "2023-01-17"
+    }
+  ],
+  "chessCom": {
+    "reason": "NOT_FOUND",
+    "retrievedAt": "2026-08-07T18:41:49.902Z"
+  },
+  "lichessGameId": [
+    {
+      "id": "6IoT5RlD"
     }
   ]
 }

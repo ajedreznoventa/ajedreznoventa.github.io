@@ -2,7 +2,7 @@
   "_id": "yvAmWDejUyg",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T16:04:47.845Z",
+    "retrievedAt": "2026-08-07T18:24:33.508Z",
     "publishedAt": "2022-08-26T18:05:08Z",
     "title": "Española Karpoviana | Garry Kasparov vs Anatoly Karpov  | Campeonato Mundial 1985 (5)",
     "description": "Buenas! En este vídeo veremos la segunda victoria de Anatoly Karpov en el match por el título mundial celebrado el año 1985. Garry Kasparov llevaba las piezas blancas y planteó una apertura Española. Karpov estaba bien preparado y jugó la variante Zaitsev. El duodécimo campeón mundial jugó de forma modélica, socavando la estabilidad del centro de peones blanco. Espero que les guste el vídeo! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Intro \n0:25 Análisis \n13:05 Outro \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n\n➡️ Twitter: https://twitter.com/Ajedrez_90\n➡️ Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #kasparov #garrykasparov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Kasparov World Championship Match\"]\n[Site \"Moscow URS\"]\n[Date \"1985.09.14\"]\n[EventDate \"?\"]\n[Round \"5\"]\n[Result \"0-1\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"C92\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"82\"]\n\n1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3\nd6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 Qd7 13.axb5\naxb5 14.Rxa8 Bxa8 15.d5 Na5 16.Ba2 c6 17.b4 Nb7 18.c4 Rc8\n19.dxc6 Qxc6 20.c5 Nd8 21.Bb2 dxc5 22.bxc5 Qxc5 23.Bxe5 Nd7\n24.Bb2 Qb4 25.Nb3 Nc5 26.Ba1 Bxe4 27.Nfd4 Ndb7 28.Qe2 Nd6\n29.Nxc5 Qxc5 30.Qg4 Re8 31.Rd1 Bg6 32.Qf4 Qb4 33.Qc1 Be4\n34.Re1 Qa5 35.Bb3 Qa8 36.Qb2 b4 37.Re3 Bg6 38.Rxe8 Qxe8 39.Qc1\nNe4 40.Bd5 Nc5 41.Nb3 Nd3 0-1",
@@ -30,6 +30,9 @@
     },
     "videoId": "yvAmWDejUyg"
   },
+  "videoContentDetails": {
+    "duration": "PT13M34S"
+  },
   "videoGame": [
     {
       "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 Qd7 13. axb5 axb5 14. Rxa8 Bxa8 15. d5 Na5 16. Ba2 c6 17. b4 Nb7 18. c4 Rc8 19. dxc6 Qxc6 20. c5 Nd8 21. Bb2 dxc5 22. bxc5 Qxc5 23. Bxe5 Nd7 24. Bb2 Qb4 25. Nb3 Nc5 26. Ba1 Bxe4 27. Nfd4 Ndb7 28. Qe2 Nd6 29. Nxc5 Qxc5 30. Qg4 Re8 31. Rd1 Bg6 32. Qf4 Qb4 33. Qc1 Be4 34. Re1 Qa5 35. Bb3 Qa8 36. Qb2 b4 37. Re3 Bg6 38. Rxe8 Qxe8 39. Qc1 Ne4 40. Bd5 Nc5 41. Nb3 Nd3 0-1",
@@ -38,5 +41,14 @@
       "playerBlack": "Anatoly Karpov",
       "date": "1985-09-14"
     }
-  ]
+  ],
+  "chessCom": {
+    "retrievedAt": "2026-08-07T18:47:19.895Z",
+    "playerWhite": "Garry Kasparov",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/369183",
+    "result": "0-1",
+    "movesCount": 41,
+    "year": 1985
+  }
 }
