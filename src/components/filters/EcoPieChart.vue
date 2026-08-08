@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import { computed } from "vue";
+import { useOpeningsStore } from "@/stores/openingsStore";
+import { Opening } from "@/model/Opening";
 
 const props = defineProps({
   videos: {
@@ -7,6 +9,8 @@ const props = defineProps({
     default: () => []
   }
 })
+
+const openingsStore = useOpeningsStore()
 
 // Define colors for ECO volumes A through E
 const ecoCategories = [
@@ -17,17 +21,27 @@ const ecoCategories = [
   { code: 'E', label: 'E (Indian Defenses)', color: '#e74a3b' }
 ]
 
-// Compute counts for each category from videos
+// Compute counts for each category using openingsStore
 const ecoCounts = computed(() => {
   const counts: Record<string, number> = { A: 0, B: 0, C: 0, D: 0, E: 0 }
   
+  if (!props.videos) return counts
+
   props.videos.forEach((video: any) => {
-    // Extract ECO letter from opening name (e.g. "C84 - Ruy Lopez")
-    const opening = video.opening || video.game?.opening || ""
-    const firstLetter = opening.trim().charAt(0).toUpperCase()
-    if (counts[firstLetter] !== undefined) {
-      counts[firstLetter]++
-    }
+    const games = video.games || []
+    
+    // Process each game in the video
+    games.forEach((game: any, gameIdx: number) => {
+      const openings = openingsStore.getOpeningsForVideoGame(video.id, gameIdx) || []
+      const openingName = openings.map((o: Opening) => o.name)[0] || ""
+      
+      // Extract ECO letter (A, B, C, D, or E) from beginning of opening name
+      const firstLetter = openingName.trim().charAt(0).toUpperCase()
+      
+      if (counts[firstLetter] !== undefined) {
+        counts[firstLetter]++
+      }
+    })
   })
   
   return counts
@@ -82,7 +96,7 @@ const slices = computed(() => {
     <h6 class="text-center text-muted mb-3">Opening Distribution (ECO AâE)</h6>
 
     <div v-if="total === 0" class="text-center text-secondary my-4">
-      No games to display
+      No opening data available
     </div>
 
     <div v-else class="d-flex flex-column flex-xl-row align-items-center justify-content-center gap-3 w-100">
