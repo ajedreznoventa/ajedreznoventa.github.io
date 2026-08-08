@@ -8,7 +8,6 @@ import {ReplaceVideoFilterEvent} from "@/event/ReplaceVideoFilterEvent";
 import {RemoveVideoFilterEvent} from "@/event/RemovedVideoFilterEvent";
 import _ from "lodash";
 import ChessboardFilterSelector from "@/components/filters/ChessboardFilterSelector.vue";
-import AppliedVideoFilters from "@/components/filters/AppliedVideoFilters.vue";
 import {ref} from "vue";
 
 const filters = ref<Array<VideoFilter>>([])
@@ -35,6 +34,10 @@ function onRemoveFilter(event: RemoveVideoFilterEvent) {
   emits('filtersModified', new FiltersModifiedEvent(filters.value))
 }
 
+function onClearFiltersClicked() {
+  onRemoveFilter(new RemoveVideoFilterEvent(() => true))
+}
+
 function isLarge() {
   return window.innerWidth > 1000
 }
@@ -51,9 +54,9 @@ function isLarge() {
       </button>
     </div>
 
-    <div class="card-body collapse" :class="[isLarge() ? 'show' : '']" id="filtersCard">
-      <!-- Side-by-side Grid Row -->
-      <div class="row g-3">
+    <div class="card-body p-4 collapse" :class="[isLarge() ? 'show' : '']" id="filtersCard">
+      <!-- Side-by-side Grid Row with wider gap -->
+      <div class="row g-4">
         
         <!-- Left Column: Player Filters -->
         <div class="col-md-6">
@@ -112,9 +115,18 @@ function isLarge() {
         </div>
 
       </div>
+
+      <!-- Clear Filters Button Centered horizontally -->
+      <div class="row mt-4">
+        <div class="col text-center">
+          <button id="clearFilterButton" type="button" class="btn btn-primary px-4" @click="onClearFiltersClicked">
+            Clear filters
+          </button>
+        </div>
+      </div>
+
     </div>
   </div>
-  <AppliedVideoFilters :filters=filters @removeFilter="onRemoveFilter"></AppliedVideoFilters>
 </template>
 
 <style scoped>
