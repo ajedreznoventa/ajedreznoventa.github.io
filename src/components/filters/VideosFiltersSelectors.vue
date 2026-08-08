@@ -52,58 +52,66 @@ function isLarge() {
     </div>
 
     <div class="card-body collapse" :class="[isLarge() ? 'show' : '']" id="filtersCard">
-      <!-- Player Filters -->
-      <div class="card">
-        <div class="card-header" data-bs-toggle="collapse"
-             href="#playerFiltersCard" aria-expanded="false" aria-controls="playerFiltersCard">
-          Player filters
-          <button class="btn btn-light float-end p-0" type="button">
-            &#x21D5;
-          </button>
-        </div>
-        <div class="card-body collapse show" id="playerFiltersCard">
-          <nav>
-            <div class="nav nav-tabs" id="nav-tab" role="tablist">
-              <button class="nav-link active" id="nav-single-player-tab" data-bs-toggle="tab"
-                      data-bs-target="#nav-single-player" type="button" role="tab" aria-controls="nav-home"
-                      aria-selected="true">Single
-              </button>
-              <button class="nav-link" id="nav-match-tab" data-bs-toggle="tab" data-bs-target="#nav-match" type="button"
-                      role="tab" aria-controls="nav-profile" aria-selected="false">Match
+      <!-- Side-by-side Grid Row -->
+      <div class="row g-3">
+        
+        <!-- Left Column: Player Filters -->
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-header" data-bs-toggle="collapse"
+                 href="#playerFiltersCard" aria-expanded="false" aria-controls="playerFiltersCard">
+              Player filters
+              <button class="btn btn-light float-end p-0" type="button">
+                &#x21D5;
               </button>
             </div>
-          </nav>
-          <div class="tab-content ms-2 mt-1" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="nav-single-player" role="tabpanel"
-                 aria-labelledby="nav-single-player-tab">
-              <form class="row align-items-center" action="" id="playerFilterForm">
-                <PlayerFilterSelector @addFilter="onAddFilter"></PlayerFilterSelector>
-              </form>
-            </div>
-            <div class="tab-pane fade" id="nav-match" role="tabpanel" aria-labelledby="nav-match-tab">
-              <form class="row" action="" id="matchFilterForm">
-                <MatchBetweenFilterSelector @addFilter="onAddFilter"></MatchBetweenFilterSelector>
-              </form>
+            <div class="card-body collapse show" id="playerFiltersCard">
+              <nav>
+                <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                  <button class="nav-link active" id="nav-single-player-tab" data-bs-toggle="tab"
+                          data-bs-target="#nav-single-player" type="button" role="tab" aria-controls="nav-home"
+                          aria-selected="true">Single
+                  </button>
+                  <button class="nav-link" id="nav-match-tab" data-bs-toggle="tab" data-bs-target="#nav-match" type="button"
+                          role="tab" aria-controls="nav-profile" aria-selected="false">Match
+                  </button>
+                </div>
+              </nav>
+              <div class="tab-content ms-2 mt-1" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-single-player" role="tabpanel"
+                     aria-labelledby="nav-single-player-tab">
+                  <form class="row align-items-center" action="" id="playerFilterForm">
+                    <PlayerFilterSelector @addFilter="onAddFilter"></PlayerFilterSelector>
+                  </form>
+                </div>
+                <div class="tab-pane fade" id="nav-match" role="tabpanel" aria-labelledby="nav-match-tab">
+                  <form class="row" action="" id="matchFilterForm">
+                    <MatchBetweenFilterSelector @addFilter="onAddFilter"></MatchBetweenFilterSelector>
+                  </form>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
 
-      <!-- Chessboard Filter -->
-      <div class="card mt-2">
-        <div class="card-header" data-bs-toggle="collapse"
-             href="#chessboardCard" aria-expanded="false" aria-controls="chessboardCard">
-          Chessboard filter
-          <button class="btn btn-light float-end p-0" type="button">
-            &#x21D5;
-          </button>
+        <!-- Right Column: Chessboard Filter -->
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-header" data-bs-toggle="collapse"
+                 href="#chessboardCard" aria-expanded="false" aria-controls="chessboardCard">
+              Chessboard filter
+              <button class="btn btn-light float-end p-0" type="button">
+                &#x21D5;
+              </button>
+            </div>
+            <div class="card-body collapse show" id="chessboardCard">
+              <ChessboardFilterSelector :filters=filters @replaceFilter="onReplaceFilter"
+                                        @removeFilter="onRemoveFilter"></ChessboardFilterSelector>
+            </div>
+          </div>
         </div>
-        <div class="card-body collapse" id="chessboardCard">
-          <ChessboardFilterSelector :filters=filters @replaceFilter="onReplaceFilter"
-                                    @removeFilter="onRemoveFilter"></ChessboardFilterSelector>
-        </div>
-      </div>
 
+      </div>
     </div>
   </div>
   <AppliedVideoFilters :filters=filters @removeFilter="onRemoveFilter"></AppliedVideoFilters>
