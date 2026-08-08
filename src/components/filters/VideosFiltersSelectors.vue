@@ -75,7 +75,7 @@ function isLarge() {
           </div>
         </div>
 
-        <!-- RIGHT 50%: Stacked Filters (Player Filters top, Chessboard bottom) -->
+        <!-- RIGHT 50%: Stacked Filters (Player Filters top, Chessboard bottom, Clear Button) -->
         <div class="col-md-6 d-flex flex-column gap-3">
           
           <!-- Top: Player Filters -->
@@ -130,17 +130,15 @@ function isLarge() {
             </div>
           </div>
 
+          <!-- Clear Filters Button - Centered on Right Panel -->
+          <div class="d-flex justify-content-center mt-1">
+            <button id="clearFilterButton" type="button" class="btn btn-primary px-4" @click="onClearFiltersClicked">
+              Clear filters
+            </button>
+          </div>
+
         </div>
 
-      </div>
-
-      <!-- Clear Filters Button Centered -->
-      <div class="row mt-4">
-        <div class="col text-center">
-          <button id="clearFilterButton" type="button" class="btn btn-primary px-4" @click="onClearFiltersClicked">
-            Clear filters
-          </button>
-        </div>
       </div>
 
     </div>
