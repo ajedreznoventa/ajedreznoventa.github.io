@@ -55,14 +55,26 @@ videosStore.fetchVideos()
 </script>
 
 <template>
-  <div class="container">
+  <div class="container my-4">
     <Toast/>
+
+    <!-- Description Banner -->
+    <div class="card mb-4 border-0 shadow-sm bg-light">
+      <div class="card-body">
+        <p class="card-text mb-0">
+          Buenas, en esta pagina podreis encontrar todas las partidas del canal de youtube 
+          <a href="https://www.youtube.com/@ajedreznoventa" target="_blank" class="fw-bold text-decoration-none">
+            @ajedreznoventa
+          </a>. 
+          Podeis buscarlas por nombres de jugadores, o por posiciones. Saludos.
+        </p>
+      </div>
+    </div>
+
     <VideosFiltersSelectors @filtersModified="onFiltersModified"></VideosFiltersSelectors>
-    <VideoTable :videos=filteredVideos></VideoTable>
+    <VideoTable :videos="filteredVideos"></VideoTable>
     <PageFooter></PageFooter>
   </div>
-
-
 </template>
 
 <style scoped>
