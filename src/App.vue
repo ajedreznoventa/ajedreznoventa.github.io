@@ -62,12 +62,20 @@ videosStore.fetchVideos()
     <div class="card mt-2 shadow-sm border-0 bg-light">
       <div class="card-body py-2 px-3">
         <h4 class="card-title fw-bold text-primary text-center mb-1">Ajedreznoventa Library</h4>
-        <p class="card-text text-muted mb-0 small">
+        <p class="card-text text-dark mb-0 fs-6">
           Welcome! This library indexes and categorizes chess game analysis videos directly from the 
           <a href="https://www.youtube.com/@ajedreznoventa" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
             @ajedreznoventa
           </a> 
-          YouTube channel. Use the filters below to explore videos by players, head-to-head matchups, or specific chessboard positions.
+          YouTube channel. Use the filters below to explore videos by players, head-to-head matchups, or specific chessboard positions. 
+          This is a self-managed side project inspired by 
+          <a href="https://agadmator-library.github.io/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
+            agadmator-library
+          </a>. 
+          Should you find missing/invalid data, please create an issue on 
+          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
+            Github
+          </a>.
         </p>
       </div>
     </div>
