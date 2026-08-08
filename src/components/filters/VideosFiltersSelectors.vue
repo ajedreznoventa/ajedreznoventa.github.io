@@ -8,7 +8,15 @@ import {ReplaceVideoFilterEvent} from "@/event/ReplaceVideoFilterEvent";
 import {RemoveVideoFilterEvent} from "@/event/RemovedVideoFilterEvent";
 import _ from "lodash";
 import ChessboardFilterSelector from "@/components/filters/ChessboardFilterSelector.vue";
+import EcoPieChart from "./EcoPieChart.vue";
 import {ref} from "vue";
+
+const props = defineProps({
+  videos: {
+    type: Array,
+    default: () => []
+  }
+})
 
 const filters = ref<Array<VideoFilter>>([])
 
@@ -58,11 +66,11 @@ function isLarge() {
       <!-- 50/50 Grid Row -->
       <div class="row g-4">
         
-        <!-- LEFT 50%: Empty Reserved Space for Plot -->
+        <!-- LEFT 50%: Live Pie Chart -->
         <div class="col-md-6 d-flex">
-          <div class="card w-100 border-dashed bg-light">
-            <div class="card-body d-flex align-items-center justify-content-center text-muted">
-              <!-- Blank Space reserved for Plot -->
+          <div class="card w-100 border bg-light">
+            <div class="card-body d-flex align-items-center justify-content-center">
+              <EcoPieChart :videos="props.videos" />
             </div>
           </div>
         </div>
@@ -140,7 +148,4 @@ function isLarge() {
 </template>
 
 <style scoped>
-.border-dashed {
-  border: 2px dashed #dee2e6;
-}
 </style>
