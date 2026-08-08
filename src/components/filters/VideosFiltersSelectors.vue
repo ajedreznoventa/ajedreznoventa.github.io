@@ -55,12 +55,23 @@ function isLarge() {
     </div>
 
     <div class="card-body p-4 collapse" :class="[isLarge() ? 'show' : '']" id="filtersCard">
-      <!-- Side-by-side Grid Row with wider gap -->
+      <!-- 50/50 Grid Row -->
       <div class="row g-4">
         
-        <!-- Left Column: Player Filters -->
-        <div class="col-md-6">
-          <div class="card h-100">
+        <!-- LEFT 50%: Empty Reserved Space for Plot -->
+        <div class="col-md-6 d-flex">
+          <div class="card w-100 border-dashed bg-light">
+            <div class="card-body d-flex align-items-center justify-content-center text-muted">
+              <!-- Blank Space reserved for Plot -->
+            </div>
+          </div>
+        </div>
+
+        <!-- RIGHT 50%: Stacked Filters (Player Filters top, Chessboard bottom) -->
+        <div class="col-md-6 d-flex flex-column gap-3">
+          
+          <!-- Top: Player Filters -->
+          <div class="card">
             <div class="card-header" data-bs-toggle="collapse"
                  href="#playerFiltersCard" aria-expanded="false" aria-controls="playerFiltersCard">
               Player filters
@@ -95,11 +106,9 @@ function isLarge() {
               </div>
             </div>
           </div>
-        </div>
 
-        <!-- Right Column: Chessboard Filter -->
-        <div class="col-md-6">
-          <div class="card h-100">
+          <!-- Bottom: Chessboard Filter -->
+          <div class="card">
             <div class="card-header" data-bs-toggle="collapse"
                  href="#chessboardCard" aria-expanded="false" aria-controls="chessboardCard">
               Chessboard filter
@@ -112,11 +121,12 @@ function isLarge() {
                                         @removeFilter="onRemoveFilter"></ChessboardFilterSelector>
             </div>
           </div>
+
         </div>
 
       </div>
 
-      <!-- Clear Filters Button Centered horizontally -->
+      <!-- Clear Filters Button Centered -->
       <div class="row mt-4">
         <div class="col text-center">
           <button id="clearFilterButton" type="button" class="btn btn-primary px-4" @click="onClearFiltersClicked">
@@ -130,5 +140,7 @@ function isLarge() {
 </template>
 
 <style scoped>
-
+.border-dashed {
+  border: 2px dashed #dee2e6;
+}
 </style>

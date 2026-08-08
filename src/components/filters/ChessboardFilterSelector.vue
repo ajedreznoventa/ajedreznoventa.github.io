@@ -6,7 +6,6 @@ import {RemoveVideoFilterEvent} from "@/event/RemovedVideoFilterEvent";
 import {VideoFilter} from "@/model/VideoFilter";
 import {PgnFilter} from "@/filter/PgnFilter";
 import {ReplaceVideoFilterEvent} from "@/event/ReplaceVideoFilterEvent";
-import Checkbox from 'primevue/checkbox';
 
 const emits = defineEmits(['replaceFilter', 'removeFilter'])
 
@@ -14,7 +13,7 @@ const props = defineProps({
   filters: Array<VideoFilter>
 })
 
-const transpositionChecked = ref<boolean>(false)
+const transpositionChecked = ref<boolean>(true)
 
 watch(props.filters, (filters) => {
     if (game.pgn()) {
@@ -105,24 +104,26 @@ onMounted(() => {
   }
 
   board = Chessboard('boardFilter', config)
+
+  // Force chessboard.js to recalculate dimensions after rendering in DOM
+  setTimeout(() => {
+    window.dispatchEvent(new Event('resize'))
+  }, 50)
 })
 
 </script>
 
 <template>
-  <form class="form-inline" action="" id="transpositionForm">
-    <div class="form-check mb-2 mr-sm-2">
-      <label class="form-check-label" for="transpositionCheck">
-        Include transpositions
-      </label>
-      <Checkbox class="form-check-input ml-2" type="checkbox" id="transpositionCheck"  v-model="transpositionChecked" :binary="true" @change="onPgnChanged"></Checkbox>
+  <div class="d-flex flex-row align-items-center gap-3">
+    <div style="width: 350px; max-width: 100%;">
+      <div id="boardFilter" style="width: 100%;"></div>
     </div>
-  </form>
-  <div id="boardFilter" style="width: 400px">
+    <div>
+      <a class="btn btn-primary" role="button" @click="onBackOneStep">
+        Back one step
+      </a>
+    </div>
   </div>
-  <a class="btn btn-primary mt-1" role="button" @click=onBackOneStep>
-    Back one step
-  </a>
 </template>
 
 <style scoped>
