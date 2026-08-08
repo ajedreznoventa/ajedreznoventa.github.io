@@ -12,7 +12,6 @@ const props = defineProps({
 
 const openingsStore = useOpeningsStore()
 
-// Define colors and full labels for ECO volumes A through E
 const ecoCategories = [
   { code: 'A', label: 'A (Flank & Unorthodox)', color: '#4e73df' },
   { code: 'B', label: 'B (Semi-Open / Sicilian)', color: '#1cc88a' },
@@ -51,23 +50,31 @@ const total = computed(() => {
   return Object.values(ecoCounts.value).reduce((acc, curr) => acc + curr, 0)
 })
 
-// Calculate SVG pie slices path geometries (Center: 100, 100 | Radius: 95 for maximum size)
+// Calculate SVG pie slices path geometries and label positions
 const slices = computed(() => {
   if (total.value === 0) return []
 
   let accumulatedAngle = 0
   const radius = 95
+  const labelRadius = 60 // Distance from center to place the letter label
   const cx = 100
   const cy = 100
 
   return ecoCategories.map((cat) => {
     const count = ecoCounts.value[cat.code]
-    const percentage = count / total.value
-    const angle = percentage * 360
+    const rawPercentage = total.value > 0 ? (count / total.value) : 0
+    const angle = rawPercentage * 360
 
     const startAngle = accumulatedAngle
     const endAngle = accumulatedAngle + angle
     accumulatedAngle += angle
+
+    // Mid-angle for positioning text label in slice centroid
+    const midAngle = startAngle + angle / 2
+    const midRad = (midAngle - 90) * (Math.PI / 180)
+
+    const labelX = cx + labelRadius * Math.cos(midRad)
+    const labelY = cy + labelRadius * Math.sin(midRad)
 
     // Convert polar angles to x, y SVG coordinates
     const startRad = (startAngle - 90) * (Math.PI / 180)
@@ -81,33 +88,40 @@ const slices = computed(() => {
     const largeArcFlag = angle > 180 ? 1 : 0
 
     // SVG arc path
-    const pathData = percentage === 1
+    const pathData = rawPercentage === 1
       ? `M ${cx} ${cy - radius} A ${radius} ${radius} 0 1 1 ${cx - 0.01} ${cy - radius} Z`
       : `M ${cx} ${cy} L ${x1} ${y1} A ${radius} ${radius} 0 ${largeArcFlag} 1 ${x2} ${y2} Z`
 
     return {
       ...cat,
       count,
-      percentage: Math.round(percentage * 100),
-      pathData
+      percentage: Math.round(rawPercentage * 100),
+      rawPercentage,
+      pathData,
+      labelX,
+      labelY
     }
   })
 })
+
+function getPercentage(count: number): number {
+  if (total.value === 0) return 0
+  return Math.round((count / total.value) * 100)
+}
 </script>
 
 <template>
   <div class="d-flex flex-column align-items-center w-100 h-100 p-0">
     <!-- Simplified Title -->
-    <h6 class="text-center text-muted mt-1 mb-1 fw-bold">Opening Distribution</h6>
+    <h6 class="text-center text-muted mt-1 mb-2 fw-bold">Opening Distribution</h6>
 
     <div v-if="total === 0" class="text-center text-secondary my-auto">
       No opening data available
     </div>
 
-    <div v-else class="d-flex flex-column align-items-center justify-content-between w-100 h-100">
-      <!-- TOP 2/3: SVG Pie Chart (Maximized Sizing) -->
-      <div class="chart-container d-flex align-items-center justify-content-center w-100 flex-grow-1">
-        <!-- Tight viewBox (5 5 190 190) clips out all extra margin -->
+    <div v-else class="d-flex flex-column align-items-center justify-content-between w-100 flex-grow-1">
+      <!-- TOP: Maximized SVG Pie Chart with Inner Labels -->
+      <div class="chart-container d-flex align-items-center justify-content-center w-100 flex-grow-1 my-1">
         <svg viewBox="5 5 190 190" class="pie-svg">
           <g v-for="slice in slices" :key="slice.code">
             <path
@@ -119,21 +133,35 @@ const slices = computed(() => {
             >
               <title>{{ slice.label }}: {{ slice.count }} ({{ slice.percentage }}%)</title>
             </path>
+            
+            <!-- In-Slice Label Text (14px matches fs-6 in legend) -->
+            <text
+              v-if="slice.count > 0 && slice.rawPercentage > 0.03"
+              :x="slice.labelX"
+              :y="slice.labelY"
+              text-anchor="middle"
+              dominant-baseline="central"
+              class="slice-label"
+            >
+              {{ slice.code }}
+            </text>
           </g>
         </svg>
       </div>
 
-      <!-- BOTTOM 1/3: Legend -->
-      <div class="legend-container d-flex flex-column justify-content-center w-100 pt-2 border-top flex-shrink-0">
-        <div v-for="cat in ecoCategories" :key="cat.code" class="d-flex align-items-center justify-content-between mb-1 small px-3">
+      <!-- BOTTOM: Compact Legend -->
+      <div class="legend-container d-flex flex-column justify-content-end w-100 pt-2 border-top flex-shrink-0">
+        <div v-for="cat in ecoCategories" :key="cat.code" class="d-flex align-items-center justify-content-between mb-1 fs-6 px-3">
           <div class="d-flex align-items-center gap-2">
             <span
               class="d-inline-block rounded-circle"
-              :style="{ backgroundColor: cat.color, width: '10px', height: '10px', flexShrink: 0 }"
+              :style="{ backgroundColor: cat.color, width: '12px', height: '12px', flexShrink: 0 }"
             ></span>
             <span>{{ cat.label }}</span>
           </div>
-          <strong>{{ ecoCounts[cat.code] }}</strong>
+          <span class="text-nowrap ms-2">
+            {{ ecoCounts[cat.code] }} ({{ getPercentage(ecoCounts[cat.code]) }}%)
+          </span>
         </div>
       </div>
     </div>
@@ -142,20 +170,28 @@ const slices = computed(() => {
 
 <style scoped>
 .chart-container {
-  height: 66.66%;
   width: 100%;
+  min-height: 200px;
 }
 
-/* Scaled up maximum dimensions */
 .pie-svg {
   width: 100%;
   height: 100%;
-  max-height: 320px;
+  max-height: 380px;
   object-fit: contain;
 }
 
 .legend-container {
-  height: 33.33%;
+  height: auto;
+}
+
+/* Updated font-size to 14px to match Bootstrap's .fs-6 */
+.slice-label {
+  fill: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  pointer-events: none;
+  filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.4));
 }
 
 path {
