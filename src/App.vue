@@ -57,14 +57,28 @@ videosStore.fetchVideos()
 <template>
   <div class="container">
     <Toast/>
+
+    <!-- Description Header Box -->
+    <div class="card mt-2 shadow-sm border-0 bg-light">
+      <div class="card-body py-2 px-3">
+        <h4 class="card-title fw-bold text-primary text-center mb-1">Ajedreznoventa Library</h4>
+        <p class="card-text text-muted mb-0 small">
+          Welcome! This library indexes and categorizes chess game analysis videos directly from the 
+          <a href="https://www.youtube.com/@ajedreznoventa" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
+            @ajedreznoventa
+          </a> 
+          YouTube channel. Use the filters below to explore videos by players, head-to-head matchups, or specific chessboard positions.
+        </p>
+      </div>
+    </div>
+
+    <!-- Filters & Pie Chart -->
     <VideosFiltersSelectors :videos="filteredVideos" @filtersModified="onFiltersModified"></VideosFiltersSelectors>
+    
+    <!-- Videos Table -->
     <VideoTable :videos=filteredVideos></VideoTable>
+    
+    <!-- Footer -->
     <PageFooter></PageFooter>
   </div>
-
-
 </template>
-
-<style scoped>
-
-</style>
