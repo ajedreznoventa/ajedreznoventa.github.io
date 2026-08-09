@@ -1,10 +1,8 @@
-# ajedreznoventa-library.github.io
+# Ajedreznoventa Library
 
-To run local server:
-1. `npm run build`
-2. `npm run dev`
+---
 
-# Resources used
-* https://github.com/oakmac/chessboardjs/
-* https://github.com/lichess-org/chess-openings
-* https://github.com/twbs/bootstrap
+An interactive web application designed to help chess enthusiasts explore, filter, and study games (mostly from world champion Anatoly Karpov) featured on the **[Ajedreznoventa YouTube Channel](https://www.youtube.com/@ajedreznoventa/videos)**.
+
+Inspired by [agadmator's chess library](https://github.com/agadmator-library/agadmator-library.github.io), this platform adapts the interactive chessboard interface to curate and analyze games presented across the channel's video database.
+
