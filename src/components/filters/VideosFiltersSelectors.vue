@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<<script setup lang="ts">
 import PlayerFilterSelector from "@/components/filters/PlayerFilterSelector.vue";
 import {AddVideoFilterEvent} from "@/event/AddVideoFilterEvent";
 import {VideoFilter} from "@/model/VideoFilter";
@@ -125,7 +125,9 @@ function isLarge() {
               </button>
             </div>
             <div class="card-body collapse show" id="chessboardCard">
-              <ChessboardFilterSelector :filters=filters @replaceFilter="onReplaceFilter"
+              <ChessboardFilterSelector :filters="filters"
+                                        :videos="props.videos"
+                                        @replaceFilter="onReplaceFilter"
                                         @removeFilter="onRemoveFilter"></ChessboardFilterSelector>
             </div>
           </div>

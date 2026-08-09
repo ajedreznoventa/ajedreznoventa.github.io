@@ -6,16 +6,32 @@ import {RemoveVideoFilterEvent} from "@/event/RemovedVideoFilterEvent";
 import {VideoFilter} from "@/model/VideoFilter";
 import {PgnFilter} from "@/filter/PgnFilter";
 import {ReplaceVideoFilterEvent} from "@/event/ReplaceVideoFilterEvent";
+import {usePgnsStore} from "@/stores/pgnsStore";
+
+interface CandidateMove {
+  san: string;
+  count: number;
+}
 
 const emits = defineEmits(['replaceFilter', 'removeFilter'])
 
 const props = defineProps({
-  filters: Array<VideoFilter>
+  filters: Array<VideoFilter>,
+  videos: {
+    type: Array,
+    default: () => []
+  }
 })
 
+const pgnsStore = usePgnsStore()
 const transpositionChecked = ref<boolean>(true)
 const fenInput = ref<string>('')
 const fenError = ref<boolean>(false)
+const nextMoves = ref<CandidateMove[]>([])
+
+// Watch props.videos and pgnsStore state to update moves as data finishes fetching
+watch(() => props.videos, () => calculateNextMoves(), { deep: true })
+watch(() => pgnsStore.pgns.size, () => calculateNextMoves())
 
 watch(props.filters, (filters) => {
     if (game && game.pgn()) {
@@ -24,6 +40,7 @@ watch(props.filters, (filters) => {
         board.position(game.fen())
         fenInput.value = ''
         fenError.value = false
+        calculateNextMoves()
       }
     }
 })
@@ -31,11 +48,73 @@ watch(props.filters, (filters) => {
 let game: any = null
 let board: any = null
 
+function calculateNextMoves() {
+  if (!game) return
+
+  const currentHistory = game.history()
+  const currentPlyCount = currentHistory.length
+  const moveCounts: Record<string, number> = {}
+
+  const videoList = props.videos || []
+
+  videoList.forEach((video: any) => {
+    // Retrieve Pgn array from store for this video ID
+    const videoPgns = pgnsStore.getPgnsForVideo(video.id) || []
+
+    videoPgns.forEach((pgnObj: any) => {
+      // Get raw string from Pgn model instance
+      const rawPgn = typeof pgnObj === 'string' ? pgnObj : (pgnObj.pgn || pgnObj.rawPgn || '')
+      if (!rawPgn) return
+
+      try {
+        const tempGame = new Chess()
+        tempGame.loadPgn(rawPgn)
+        const gameHistory = tempGame.history()
+
+        // Check if game matches board's current move history up to current depth
+        let isMatch = true
+        for (let i = 0; i < currentPlyCount; i++) {
+          if (gameHistory[i] !== currentHistory[i]) {
+            isMatch = false
+            break
+          }
+        }
+
+        if (isMatch && gameHistory[currentPlyCount]) {
+          const nextSan = gameHistory[currentPlyCount]
+          moveCounts[nextSan] = (moveCounts[nextSan] || 0) + 1
+        }
+      } catch (e) {
+        // Ignore unparseable PGN strings
+      }
+    })
+  })
+
+  // Format into sorted candidate list
+  nextMoves.value = Object.keys(moveCounts)
+    .map(san => ({ san, count: moveCounts[san] }))
+    .sort((a, b) => b.count - a.count)
+}
+
+function playCandidateMove(san: string) {
+  try {
+    game.move(san)
+    board.position(game.fen())
+    fenInput.value = game.fen()
+    fenError.value = false
+    calculateNextMoves()
+    onPgnChanged()
+  } catch (e) {
+    console.error("Failed to play candidate move:", e)
+  }
+}
+
 function onBackOneStep() {
   game.undo()
   board.position(game.fen())
   fenInput.value = game.fen()
   fenError.value = false
+  calculateNextMoves()
   onPgnChanged()
 }
 
@@ -55,10 +134,10 @@ function onLoadFen() {
   if (!trimmedFen) return
 
   try {
-    // Attempt to load FEN into chess.js instance
     game.load(trimmedFen)
     board.position(game.fen())
     fenError.value = false
+    calculateNextMoves()
     onPgnChanged()
   } catch (e) {
     fenError.value = true
@@ -80,7 +159,6 @@ function onDragStart(source: any, piece: any) {
 
   if (game.isGameOver()) return false
 
-  // only pick up pieces for the side to move
   if ((game.turn() === 'w' && piece.search(/^b/) !== -1) ||
       (game.turn() === 'b' && piece.search(/^w/) !== -1)) {
     return false
@@ -100,10 +178,10 @@ function onDrop(source: any, target: any) {
 
     fenInput.value = game.fen()
     fenError.value = false
+    calculateNextMoves()
     onPgnChanged()
 
     setTimeout(function () {
-      // hack for wrong display of white O-O
       board.position(game.fen())
     }, 1)
   } catch (e) {
@@ -129,7 +207,8 @@ onMounted(() => {
   // @ts-ignore
   board = Chessboard('boardFilter', config)
 
-  // Force chessboard.js to recalculate dimensions after rendering in DOM
+  calculateNextMoves()
+
   setTimeout(() => {
     window.dispatchEvent(new Event('resize'))
   }, 50)
@@ -139,14 +218,46 @@ onMounted(() => {
 
 <template>
   <div class="d-flex flex-column gap-3">
-    <div class="d-flex flex-row align-items-center gap-3">
+    <div class="d-flex flex-row align-items-start gap-3">
+      <!-- Chessboard Container -->
       <div style="width: 350px; max-width: 100%;">
         <div id="boardFilter" style="width: 100%;"></div>
       </div>
-      <div>
-        <a class="btn btn-primary" role="button" @click="onBackOneStep">
+
+      <!-- Next Available Moves Column -->
+      <div class="d-flex flex-column gap-2 flex-grow-1" style="max-width: 220px;">
+        <span class="fw-bold small text-muted">Next Moves Available</span>
+        
+        <!-- Next Moves List -->
+        <div 
+          class="border rounded p-2 bg-light overflow-auto small" 
+          style="height: 290px;"
+        >
+          <div v-if="nextMoves.length === 0" class="text-muted fst-italic">
+            No database moves from this position
+          </div>
+
+          <div 
+            v-for="candidate in nextMoves" 
+            :key="candidate.san" 
+            class="d-flex flex-row justify-content-between align-items-center py-1 border-bottom border-white"
+          >
+            <a 
+              href="javascript:void(0)" 
+              class="move-btn text-decoration-none fw-bold text-primary px-2 py-1 rounded flex-grow-1"
+              @click="playCandidateMove(candidate.san)"
+            >
+              {{ candidate.san }}
+            </a>
+            <span class="text-muted ms-2 text-nowrap">
+              ({{ candidate.count }} {{ candidate.count === 1 ? 'game' : 'games' }})
+            </span>
+          </div>
+        </div>
+
+        <button class="btn btn-primary btn-sm w-100 mt-1" type="button" @click="onBackOneStep">
           Back one step
-        </a>
+        </button>
       </div>
     </div>
 
@@ -173,5 +284,7 @@ onMounted(() => {
 </template>
 
 <style scoped>
-
+.move-btn:hover {
+  background-color: #e2e8f0;
+}
 </style>
