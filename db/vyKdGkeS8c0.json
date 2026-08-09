@@ -2,7 +2,7 @@
   "_id": "vyKdGkeS8c0",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:09.952Z",
     "publishedAt": "2025-11-07T17:01:41Z",
     "title": "REY ACTIVO | Anatoly Karpov vs Heinz Wirtherson | Olimpiada 1972 | Defensa Siciliana Najdorf",
     "description": "¡Buenas! Hoy os traigo un análisis detallado de una partida entre Anatoly Karpov y Heinz Wirthensohn en la Olimpiada de Ajedrez de 1972, celebrada en Skopje. El duelo nos adentra en la defensa Siciliana, variante Najdorf, donde Karpov, con blancas, se enfrenta a un juego dinámico en el centro y flanco de dama. A lo largo de la partida veremos momentos críticos, rupturas típicas como …b5 y …d5, y cómo Karpov transforma una posición incierta en un final favorable gracias a su fino sentido estratégico. ¡Una lección magistral de paciencia y técnica del joven Tolia!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438\n✨ @irvingcastelazzo5867\n✨ @obeduwu3465\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:25 Inicio del análisis\n04:21 Momento crítico 1\n08:12 Momento crítico 2\n15:37 Momento crítico 3\n18:27 Conclusión\n\n#ajedrez #karpov #anatolykarpov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Final-A\"]\n[Site \"Skopje YUG\"]\n[Date \"1972.10.04\"]\n[EventDate \"?\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Heinz Wirthensohn\"]\n[ECO \"B93\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"87\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5\n7. Nf3 Nbd7 8. Bc4 Be7 9. a4 O-O 10. f5 b6 11. Be3 Bb7 12. Nd2\nd5 13. Nxd5 Nxd5 14. Bxd5 Bxd5 15. exd5 Bc5 16. Qe2 Qh4+\n17. g3 Qb4 18. O-O Qxb2 19. c4 f6 20. Kh1 Rfc8 21. Qd3 Bxe3\n22. Qxe3 a5 23. Rfc1 Qb4 24. Rcb1 Qc5 25. Qxc5 Rxc5 26. Kg2\nKf8 27. Kf3 Ke7 28. g4 Rh8 29. h4 Rf8 30. Ke3 h6 31. Rg1 Rcc8\n32. Rab1 Rb8 33. Ne4 Rbc8 34. Rgc1 Rfe8 35. Rb5 Red8 36. Kd3\nKf8 37. g5 hxg5 38. hxg5 Ke7 39. Rg1 Rh8 40. gxf6+ gxf6\n41. Rg7+ Kd8 42. Nd6 Rh3+ 43. Ke2 Rh2+ 44. Ke3 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bc4 Be7 9. a4 O-O 10. f5 b6 11. Be3 Bb7 12. Nd2 d5 13. Nxd5 Nxd5 14. Bxd5 Bxd5 15. exd5 Bc5 16. Qe2 Qh4+ 17. g3 Qb4 18. O-O Qxb2 19. c4 f6 20. Kh1 Rfc8 21. Qd3 Bxe3 22. Qxe3 a5 23. Rfc1 Qb4 24. Rcb1 Qc5 25. Qxc5 Rxc5 26. Kg2 Kf8 27. Kf3 Ke7 28. g4 Rh8 29. h4 Rf8 30. Ke3 h6 31. Rg1 Rcc8 32. Rab1 Rb8 33. Ne4 Rbc8 34. Rgc1 Rfe8 35. Rb5 Red8 36. Kd3 Kf8 37. g5 hxg5 38. hxg5 Ke7 39. Rg1 Rh8 40. gxf6+ gxf6 41. Rg7+ Kd8 42. Nd6 Rh3+ 43. Ke2 Rh2+ 44. Ke3 1-0",
       "fen": "2rk4/3n2R1/1p1N1p2/pR1PpP2/P1P5/4K3/7r/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Heinz Wirthensohn"
+      "playerBlack": "Heinz Wirthensohn",
+      "date": "1972-10-04"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:29:19.804Z",
+    "retrievedAt": "2026-08-09T20:27:56.717Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Heinz Wirthensohn",
     "href": "https://www.chess.com/games/view/202413",

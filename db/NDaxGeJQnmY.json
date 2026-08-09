@@ -2,7 +2,7 @@
   "_id": "NDaxGeJQnmY",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.508Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2023-09-01T16:00:30Z",
     "title": "DEFENSA PTERODACTILO | Anatoly Karpov vs Jan Timman | Memorial Euwe 1988",
     "description": "Buenas! En este vídeo veremos una partida muy interesante entre Anatoly Karpov y Jan Timman en el torneo Memorial Euwe celebrado el año 1988. Timman planteó una defensa muy agresiva, que recibe el nombre de la variante Pterodactilo de la defensa India de Rey. No obstante, Karpov dirigió el juego a un final de torre y tres peones contra torre y alfil, que ganó de forma muy instructiva. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:20 Análisis\n28:54 Conclusión\n\n#karpov #anatolykarpov #jantimman #timman #ajedrez #1988\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"2nd Euwe Memorial\"]\n[Site \"Amsterdam NED\"]\n[Date \"1988.03.14\"]\n[EventDate \"1988.03.11\"]\n[Round \"4\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Jan Timman\"]\n[ECO \"E64\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"145\"]\n\n1. c4 g6 2. d4 Nf6 3. Nf3 Bg7 4. g3 c5 5. Bg2 Qa5+ 6. Nc3 Ne4\n7. Bd2 Nxd2 8. Qxd2 cxd4 9. Nxd4 Nc6 10. e3 O-O 11. O-O Rb8\n12. Rfd1 e6 13. a3 a6 14. Rac1 Ne5 15. Ne4 Qxd2 16. Rxd2 b5\n17. cxb5 axb5 18. b3 Rb6 19. Rc7 Bb7 20. h3 Bxe4 21. Bxe4 d5\n22. Bg2 g5 23. Bf1 Rfb8 24. Rdc2 Bf8 25. Ra7 Bd6 26. Ra5 b4\n27. a4 Nd7 28. Ra7 R6b7 29. Ra6 Bf8 30. Rac6 Ra7 31. Bb5 h5\n32. Be2 g4 33. hxg4 hxg4 34. Rc7 Rxc7 35. Rxc7 Nc5 36. Bxg4 e5\n37. Nc6 Bd6 38. Ra7 Rb6 39. Nd8 Nxb3 40. Nxf7 Bf8 41. Rd7 Nc5\n42. Rxd5 b3 43. Nxe5 b2 44. Bf5 Nxa4 45. Ng4 b1=Q+ 46. Bxb1\nRxb1+ 47. Kg2 Kf7 48. f4 Nc3 49. Rd3 Ne4 50. Kf3 Rb4 51. Nf2\nNxf2 52. Kxf2 Ke6 53. Kf3 Bd6 54. g4 Ra4 55. g5 Ra3 56. Rd4\nBb8 57. Rb4 Bd6 58. Rb5 Rc3 59. f5+ Ke7 60. Rb7+ Rc7 61. Rb6\nRc5 62. Kg4 Rd5 63. Rb7+ Kf8 64. f6 Ra5 65. Rd7 Be5 66. Kf5\nBb2+ 67. Kg6 Ke8 68. Rb7 Be5 69. Re7+ Kd8 70. Kf7 Bb2 71. g6\nRa6 72. Re6 Ra7+ 73. Kg8 1-0",
@@ -38,11 +38,12 @@
       "pgn": "1. c4 g6 2. d4 Nf6 3. Nf3 Bg7 4. g3 c5 5. Bg2 Qa5+ 6. Nc3 Ne4 7. Bd2 Nxd2 8. Qxd2 cxd4 9. Nxd4 Nc6 10. e3 O-O 11. O-O Rb8 12. Rfd1 e6 13. a3 a6 14. Rac1 Ne5 15. Ne4 Qxd2 16. Rxd2 b5 17. cxb5 axb5 18. b3 Rb6 19. Rc7 Bb7 20. h3 Bxe4 21. Bxe4 d5 22. Bg2 g5 23. Bf1 Rfb8 24. Rdc2 Bf8 25. Ra7 Bd6 26. Ra5 b4 27. a4 Nd7 28. Ra7 R6b7 29. Ra6 Bf8 30. Rac6 Ra7 31. Bb5 h5 32. Be2 g4 33. hxg4 hxg4 34. Rc7 Rxc7 35. Rxc7 Nc5 36. Bxg4 e5 37. Nc6 Bd6 38. Ra7 Rb6 39. Nd8 Nxb3 40. Nxf7 Bf8 41. Rd7 Nc5 42. Rxd5 b3 43. Nxe5 b2 44. Bf5 Nxa4 45. Ng4 b1=Q+ 46. Bxb1 Rxb1+ 47. Kg2 Kf7 48. f4 Nc3 49. Rd3 Ne4 50. Kf3 Rb4 51. Nf2 Nxf2 52. Kxf2 Ke6 53. Kf3 Bd6 54. g4 Ra4 55. g5 Ra3 56. Rd4 Bb8 57. Rb4 Bd6 58. Rb5 Rc3 59. f5+ Ke7 60. Rb7+ Rc7 61. Rb6 Rc5 62. Kg4 Rd5 63. Rb7+ Kf8 64. f6 Ra5 65. Rd7 Be5 66. Kf5 Bb2+ 67. Kg6 Ke8 68. Rb7 Be5 69. Re7+ Kd8 70. Kf7 Bb2 71. g6 Ra6 72. Re6 Ra7+ 73. Kg8 1-0",
       "fen": "3k2K1/r7/4RPP1/8/8/4P3/1b6/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Jan Timman"
+      "playerBlack": "Jan Timman",
+      "date": "1988-03-14"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:41:34.892Z",
+    "retrievedAt": "2026-08-09T20:42:26.808Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Jan H Timman",
     "href": "https://www.chess.com/games/view/413394",
@@ -52,11 +53,6 @@
   },
   "chess365": {
     "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T18:41:35.446Z"
-  },
-  "lichessGameId": [
-    {
-      "id": "Cy11PvvO"
-    }
-  ]
+    "retrievedAt": "2026-08-09T20:42:27.408Z"
+  }
 }

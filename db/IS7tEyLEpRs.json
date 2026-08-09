@@ -2,7 +2,7 @@
   "_id": "IS7tEyLEpRs",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:09.952Z",
     "publishedAt": "2025-03-14T17:00:30Z",
     "title": "GENTLEMAN | Bent Larsen vs Boris Spassky | URSS contra el resto del mundo 1970 | Nimzowistch-Larsen",
     "description": "Buenas! Este video está dedicado al recién fallecido, Boris Spassky, quién fue el décimo campeón mundial, y una figura mayúscula en el ajedrez. Os comparto mi partida favorita de Spassky, donde se puede constatar su don innato por el ataque y el uso sublime de la iniciativa. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n02:23 Análisis\n17:41 Conclusión\n\n#ajedrez #spassky #borisspassky #larsen \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"USSR vs. Rest of the World\"]\n[Site \"Belgrade YUG\"]\n[Date \"1970.03.31\"]\n[EventDate \"1970.03.29\"]\n[Round \"2.1\"]\n[Result \"0-1\"]\n[White \"Bent Larsen\"]\n[Black \"Boris Spassky\"]\n[ECO \"A01\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"34\"]\n\n1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nf3 e4 5. Nd4 Bc5 6. Nxc6\ndxc6 7. e3 Bf5 8. Qc2 Qe7 9. Be2 O-O-O 10. f4 Ng4 11. g3 h5\n12. h3 h4 13. hxg4 hxg3 14. Rg1 Rh1 15. Rxh1 g2 16. Rf1 Qh4+\n17. Kd1 gxf1=Q+ 0-1",
@@ -43,11 +43,12 @@
       "pgn": "1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nf3 e4 5. Nd4 Bc5 6. Nxc6 dxc6 7. e3 Bf5 8. Qc2 Qe7 9. Be2 O-O-O 10. f4 Ng4 11. g3 h5 12. h3 h4 13. hxg4 hxg3 14. Rg1 Rh1 15. Rxh1 g2 16. Rf1 Qh4+ 17. Kd1 gxf1=Q+ 0-1",
       "fen": "2kr4/ppp2pp1/2p5/2b2b2/2P1pPPq/1P2P3/PBQPB3/RN1K1q2 w - - 0 1",
       "playerWhite": "Bent Larsen",
-      "playerBlack": "Boris Spassky"
+      "playerBlack": "Boris Spassky",
+      "date": "1970-03-31"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:33:34.925Z",
+    "retrievedAt": "2026-08-09T20:32:11.764Z",
     "playerWhite": "Bent Larsen",
     "playerBlack": "Boris V Spassky",
     "href": "https://www.chess.com/games/view/175510",

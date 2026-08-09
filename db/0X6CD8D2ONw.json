@@ -2,7 +2,7 @@
   "_id": "0X6CD8D2ONw",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.508Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2022-11-04T17:00:01Z",
     "title": "TORRES o DAMA? | Magnus Carlsen vs Anish Giri | Norway Chess 2022 | Defensa Tarrrasch",
     "description": "Buenas! En este vídeo veremos una partida actual entre Magnus Carlsen y Anish Giri celebrada en el torneo de Norway Chess el año 2022. Creo que este encuentro muestra a la perfección cómo jugar las posiciones de dama frente dos torres. Carlsen creó una iniciativa contra el monarca de Giri, hecho que impidió al jugador neerlandés poder coordinador sus dos torres. ¡Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nKarpov Kasparov Game 7 (Tarrasch defense): https://youtu.be/NSx3YgfYiLk\nKarpov Kasparov Game 9 (Tarrasch defense): https://youtu.be/9syzfjZ3L-s\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Intro \n0:18 Análisis \n13:02 Outro \n\n#ajedrez #magnuscarlsen #anishgiri #carlsen \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Norway Chess\"]\n[Site \"Stavanger NOR\"]\n[Date \"2022.06.03\"]\n[EventDate \"2022.05.31\"]\n[Round \"7\"]\n[Result \"1-0\"]\n[White \"Magnus Carlsen\"]\n[Black \"Anish Giri\"]\n[ECO \"D41\"]\n[WhiteElo \"2864\"]\n[BlackElo \"2761\"]\n[Source \"Lichess\"]\n[PlyCount \"68\"]\n\n1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. Bg5 Be7 8. e3 O-O 9. Be2 Nc6 10. Qd3 h6 11. Bh4 Be6 12. O-O Qb6 13. Bxf6 Bxf6 14. Nxd5 Bxd5 15. Qxd5 Qxb2 16. Bc4 Qxa1 17. Rxa1 Bxa1 18. g4 Rae8 19. h4 Re7 20. g5 hxg5 21. Nxg5 Bf6 22. Qf5 Bxg5 23. hxg5 Re5 24. Qf4 Rc5 25. g6 Ne5 26. gxf7+ Nxf7 27. Be6 Rh5 28. Qc7 g5 29. Qxb7 Rh6 30. Bb3 g4 31. Qxa7 Kg7 32. e4 Rh5 33. Qc7 Kf6 34. a4 1-0",
@@ -43,10 +43,17 @@
       "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. Bg5 Be7 8. e3 O-O 9. Be2 Nc6 10. Qd3 h6 11. Bh4 Be6 12. O-O Qb6 13. Bxf6 Bxf6 14. Nxd5 Bxd5 15. Qxd5 Qxb2 16. Bc4 Qxa1 17. Rxa1 Bxa1 18. g4 Rae8 19. h4 Re7 20. g5 hxg5 21. Nxg5 Bf6 22. Qf5 Bxg5 23. hxg5 Re5 24. Qf4 Rc5 25. g6 Ne5 26. gxf7+ Nxf7 27. Be6 Rh5 28. Qc7 g5 29. Qxb7 Rh6 30. Bb3 g4 31. Qxa7 Kg7 32. e4 Rh5 33. Qc7 Kf6 34. a4 1-0",
       "fen": "5r2/2Q2n2/5k2/7r/P3P1p1/1B6/5P2/6K1 b - - 0 1",
       "playerWhite": "Magnus Carlsen",
-      "playerBlack": "Anish Giri"
+      "playerBlack": "Anish Giri",
+      "date": "2022-06-03"
     }
   ],
-  "lichessGameId": [
-    {}
-  ]
+  "chessCom": {
+    "retrievedAt": "2026-08-09T20:48:11.798Z",
+    "playerWhite": "Magnus Carlsen",
+    "playerBlack": "Anish Giri",
+    "href": "https://www.chess.com/games/view/16166143",
+    "result": "1-0",
+    "movesCount": 34,
+    "year": 2022
+  }
 }

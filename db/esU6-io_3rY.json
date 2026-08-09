@@ -2,7 +2,7 @@
   "_id": "esU6-io_3rY",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2022-01-29T23:00:14Z",
     "title": "BOA GANA AL DRAGON | Anatoly Karpov vs Anthony Miles | Londres 1982 | Siciliana Variante Dragon",
     "description": "¡Buenas! En esta partida del torneo de Londres 1982, Karpov se enfrentó al especialista Anthony Miles en la variante Dragón de la defensa Siciliana. Con la precisa jugada Cd5, el campeón mundial guió la partida hacia un final favorable, neutralizando el potencial ofensivo de su rival. Más tarde, un brillante sacrificio de calidad despertó toda la fuerza del alfil de casillas blancas y del peón pasado en la columna a. Una lección magistral de cómo transformar una posición compleja en una victoria posicional y elegante.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #miles #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Phillips & Drew Kings\"]\n[Site \"London ENG\"]\n[Date \"1982.04.25\"]\n[EventDate \"1982.04.15\"]\n[Round \"9\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Anthony Miles\"]\n[ECO \"B76\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"75\"]\n\n1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6\n9.g4 Be6 10.O-O-O Nxd4 11.Bxd4 Qa5 12.a3 Rab8 13.h4 Rfc8 14.Nd5\nQxd2+ 15.Rxd2 Bxd5 16.exd5 a6 17.Be2 Nd7 18.f4 Nc5\n19.Rh3 Rc7 20.Re3 b5 21.Bxg7 Kxg7 22.Rd4 a5 23.b4 Na4 24.bxa5\nNc3 25.Bf1 Kf8 26.Kb2 Rbc8 27.Kb3 Rc5 28.a6\nNxd5 29.Rxd5 Rxd5 30.Rc3 Rd8 31.Rc7 Rd1 32.Bxb5 e5 33.a7 exf4 34.Rb7 Rb1+\n35.Ka4 Rxb5 36.Rxb5 f3 37.Rb8 f2 38.Rxd8+ 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. g4 Be6 10. O-O-O Nxd4 11. Bxd4 Qa5 12. a3 Rab8 13. h4 Rfc8 14. Nd5 Qxd2+ 15. Rxd2 Bxd5 16. exd5 a6 17. Be2 Nd7 18. f4 Nc5 19. Rh3 Rc7 20. Re3 b5 21. Bxg7 Kxg7 22. Rd4 a5 23. b4 Na4 24. bxa5 Nc3 25. Bf1 Kf8 26. Kb2 Rbc8 27. Kb3 Rc5 28. a6 Nxd5 29. Rxd5 Rxd5 30. Rc3 Rd8 31. Rc7 Rd1 32. Bxb5 e5 33. a7 exf4 34. Rb7 Rb1+ 35. Ka4 Rxb5 36. Rxb5 f3 37. Rb8 f2 38. Rxd8+ 1-0",
       "fen": "3R1k2/P4p1p/3p2p1/8/K5PP/P7/2P2p2/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Anthony Miles"
+      "playerBlack": "Anthony Miles",
+      "date": "1982-04-25"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T19:09:03.321Z",
+    "retrievedAt": "2026-08-09T20:53:11.927Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Anthony J Miles",
     "href": "https://www.chess.com/games/view/326550",

@@ -2,7 +2,7 @@
   "_id": "3ylTr9KF5Bg",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2022-01-16T19:00:01Z",
     "title": "Torre en Septima Omnipotente | Karpov vs Korchnoi | Campeonato Mundial Merano 1981 | Ronda 18",
     "description": "¡Buenas! En la última victoria del match Merano 1981, Karpov demostró su estilo preciso y posicional frente a Korchnói. Con maniobras de torre y avances estratégicos de peones e6 y f6, debilitó la séptima fila negra y controló ambos flancos. La combinación de presión sobre los peones débiles y la creación de peones pasados permitió al campeón forzar la rendición de su rival. Una partida ejemplar que coronó a Karpov como campeón mundial por tercera vez consecutiva.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #korchnoi #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Korchnoi World Championship Match\"]\n[Site \"Merano ITA\"]\n[Date \"1981.11.18\"]\n[EventDate \"?\"]\n[Round \"18\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Viktor Korchnoi\"]\n[ECO \"C80\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"82\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5\n7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6\n12. cxd4 Ncxd4 13. a4 Be7 14. Nxd4 Nxd4 15. Ne4 Ne6 16. Be3\nO-O 17. f4 Qxd1 18. Rfxd1 Rfb8 19. Rd7 Bf8 20. f5 Nd8 21. a5\nNc6 22. e6 fxe6 23. f6 Ne5 24. Rxc7 Rc8 25. Rac1 Rxc7 26. Rxc7\nRd8 27. h3 h6 28. Ra7 Nc4 29. Bb6 Rb8 30. Bc5 Bxc5+ 31. Nxc5\ngxf6 32. b4 Rd8 33. Rxa6 Kf7 34. Ra7+ Kg6 35. Rd7 Re8 36. a6\nRa8 37. Rb7 Kf5 38. Rxb5 Ke5 39. Rb7 Kd5 40. Rf7 f5 41. Rf6 e5\n1-0",
@@ -38,11 +38,12 @@
       "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Be7 14. Nxd4 Nxd4 15. Ne4 Ne6 16. Be3 O-O 17. f4 Qxd1 18. Rfxd1 Rfb8 19. Rd7 Bf8 20. f5 Nd8 21. a5 Nc6 22. e6 fxe6 23. f6 Ne5 24. Rxc7 Rc8 25. Rac1 Rxc7 26. Rxc7 Rd8 27. h3 h6 28. Ra7 Nc4 29. Bb6 Rb8 30. Bc5 Bxc5+ 31. Nxc5 gxf6 32. b4 Rd8 33. Rxa6 Kf7 34. Ra7+ Kg6 35. Rd7 Re8 36. a6 Ra8 37. Rb7 Kf5 38. Rxb5 Ke5 39. Rb7 Kd5 40. Rf7 f5 41. Rf6 e5 1-0",
       "fen": "r7/8/P4R1p/2Nkpp2/1Pn5/7P/6P1/6K1 w - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Viktor Korchnoi"
+      "playerBlack": "Viktor Korchnoi",
+      "date": "1981-11-18"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T19:09:18.309Z",
+    "retrievedAt": "2026-08-09T20:53:27.000Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Viktor Korchnoi",
     "href": "https://www.chess.com/games/view/15750661",
@@ -51,6 +52,6 @@
   },
   "chess365": {
     "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T19:09:18.875Z"
+    "retrievedAt": "2026-08-09T20:53:27.776Z"
   }
 }

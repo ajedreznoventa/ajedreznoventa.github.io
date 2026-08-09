@@ -2,7 +2,7 @@
   "_id": "u98iTQgMEag",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:10.206Z",
     "publishedAt": "2025-01-17T17:01:09Z",
     "title": "JUEGO HETERODOXO | Viktor Korchnoi vs Anatoly Karpov | Torneo de Moscu 1971 | Apertura Inglesa",
     "description": "Buenas! En este video os traigo una partida entre dos sospechosos habituales en este canal de Youtube. Karpov planteó una defensa Grünfeld donde Korchnói supo sacar beneficio de una imprecisión de su rival en la apertura. Sin embargo, Karpov supo navegar mejor las complicaciones del medio juego, y acabó ganando la contienda. Espero que os guste el video! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:52 Análisis\n20:06 Conclusión\n\n#ajedrez #karpov #korchnoi #anatolykarpov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Moscow\"]\n[Site \"Moscow URS\"]\n[Date \"1971.12.13\"]\n[EventDate \"1971.11.24\"]\n[Round \"14\"]\n[Result \"0-1\"]\n[White \"Viktor Korchnoi\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A30\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"76\"]\n\n1. c4 c5 2. Nf3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 g6 6. d4 Bg7\n7. e4 Nc7 8. d5 Nb5 9. O-O O-O 10. Qc2 Na6 11. Bf4 Bg4\n12. Nbd2 Nd4 13. Nxd4 cxd4 14. Nf3 Qb6 15. Ne5 Bxe5 16. Bxe5\nf6 17. Bf4 Rac8 18. Qa4 g5 19. Bc1 Be2 20. Re1 d3 21. Bf1 Bxf1\n22. Rxf1 Rc2 23. Be3 Nc5 24. Qd4 e5 25. dxe6 Qxe6 26. Rac1 Rc8\n27. b4 Nxe4 28. Rxc2 dxc2 29. Rc1 b6 30. f3 Nd6 31. Qd3 Rc6\n32. a4 Qc4 33. Qd2 Nf7 34. f4 g4 35. b5 Rc8 36. Qd7 h5 37. Kf2\nQc3 38. Qf5 Re8 0-1",
@@ -43,11 +43,12 @@
       "pgn": "1. c4 c5 2. Nf3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 g6 6. d4 Bg7 7. e4 Nc7 8. d5 Nb5 9. O-O O-O 10. Qc2 Na6 11. Bf4 Bg4 12. Nbd2 Nd4 13. Nxd4 cxd4 14. Nf3 Qb6 15. Ne5 Bxe5 16. Bxe5 f6 17. Bf4 Rac8 18. Qa4 g5 19. Bc1 Be2 20. Re1 d3 21. Bf1 Bxf1 22. Rxf1 Rc2 23. Be3 Nc5 24. Qd4 e5 25. dxe6 Qxe6 26. Rac1 Rc8 27. b4 Nxe4 28. Rxc2 dxc2 29. Rc1 b6 30. f3 Nd6 31. Qd3 Rc6 32. a4 Qc4 33. Qd2 Nf7 34. f4 g4 35. b5 Rc8 36. Qd7 h5 37. Kf2 Qc3 38. Qf5 Re8 0-1",
       "fen": "4r1k1/p4n2/1p3p2/1P3Q1p/P4Pp1/2q1B1P1/2p2K1P/2R5 w - - 0 1",
       "playerWhite": "Viktor Korchnoi",
-      "playerBlack": "Anatoly Karpov"
+      "playerBlack": "Anatoly Karpov",
+      "date": "1971-12-13"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:34:19.838Z",
+    "retrievedAt": "2026-08-09T20:33:11.771Z",
     "playerWhite": "Viktor Korchnoi",
     "playerBlack": "Anatoly Karpov",
     "href": "https://www.chess.com/games/view/189453",

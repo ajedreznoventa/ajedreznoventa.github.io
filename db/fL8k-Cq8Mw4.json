@@ -2,7 +2,7 @@
   "_id": "fL8k-Cq8Mw4",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:09.952Z",
     "publishedAt": "2025-03-28T17:00:53Z",
     "title": "BATALLA CAMPAL | Anatoly Karpov vs William Hartston | Hastings 1971/72 | Defensa Siciliana",
     "description": "¡Buenas! En este video veremos una partida muy reñida entre Karpov y Hartston en el torneo de Hastings, disputado entre finales de 1971 y principios de 1972. Karpov empleó una novedad en la variante Taimanov, pero Hartston jugó muy bien el medio juego y obtuvo una ventaja considerable. Sin embargo, Karpov hizo gala de su espíritu de lucha y logró redirigir la partida hacia la victoria. ¡Espero que os guste! 😊\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:33 Análisis\n25:54 Conclusión\n\n#ajedrez #karpov #anatolykarpov #hastings \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Hastings 1971/72\"]\n[Site \"Hastings ENG\"]\n[Date \"1972.01.01\"]\n[EventDate \"1971.12.29\"]\n[Round \"4\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"William Hartston\"]\n[ECO \"B44\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"119\"]\n\n1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6\n7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bd7\n12. Rc1 Qb8 13. g4 Rc8 14. g5 Ne8 15. f4 Ra7 16. Qe1 Rb7\n17. Qh4 g6 18. Rf3 Ng7 19. Rcf1 Re8 20. Bd3 h5 21. Qf2 Nb4\n22. Bb1 Bc6 23. Rh3 Bd7 24. Qh4 Qc8 25. Rc1 Qb8 26. Rf1 Qc8\n27. Rhf3 d5 28. cxd5 exd5 29. f5 Bc5 30. Bxc5 Qxc5+ 31. Qf2\nQxf2+ 32. R3xf2 d4 33. Ne2 d3 34. fxg6 fxg6 35. Nf4 Rxe4\n36. Nxd3 Rg4+ 37. Rg2 Rxg2+ 38. Kxg2 Nxd3 39. Bxd3 Nf5\n40. Bxa6 Bc6+ 41. Kf2 Rd7 42. Rc1 Be4 43. Be2 Nd6 44. Nc4 Nxc4\n45. Rxc4 Bd5 46. Rb4 Bxa2 47. Rxb6 Kg7 48. Rb4 Bb1 49. h4 Kf7\n50. Ke3 Re7+ 51. Kd2 Ke6 52. Rb5 Be4 53. b4 Rc7 54. Ke3 Bb1\n55. Rc5 Re7 56. Bf3 Kd6+ 57. Kd4 Rf7 58. Rc6+ Kd7 59. Rf6 Re7\n60. b5 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bd7 12. Rc1 Qb8 13. g4 Rc8 14. g5 Ne8 15. f4 Ra7 16. Qe1 Rb7 17. Qh4 g6 18. Rf3 Ng7 19. Rcf1 Re8 20. Bd3 h5 21. Qf2 Nb4 22. Bb1 Bc6 23. Rh3 Bd7 24. Qh4 Qc8 25. Rc1 Qb8 26. Rf1 Qc8 27. Rhf3 d5 28. cxd5 exd5 29. f5 Bc5 30. Bxc5 Qxc5+ 31. Qf2 Qxf2+ 32. R3xf2 d4 33. Ne2 d3 34. fxg6 fxg6 35. Nf4 Rxe4 36. Nxd3 Rg4+ 37. Rg2 Rxg2+ 38. Kxg2 Nxd3 39. Bxd3 Nf5 40. Bxa6 Bc6+ 41. Kf2 Rd7 42. Rc1 Be4 43. Be2 Nd6 44. Nc4 Nxc4 45. Rxc4 Bd5 46. Rb4 Bxa2 47. Rxb6 Kg7 48. Rb4 Bb1 49. h4 Kf7 50. Ke3 Re7+ 51. Kd2 Ke6 52. Rb5 Be4 53. b4 Rc7 54. Ke3 Bb1 55. Rc5 Re7 56. Bf3 Kd6+ 57. Kd4 Rf7 58. Rc6+ Kd7 59. Rf6 Re7 60. b5 1-0",
       "fen": "8/3kr3/5Rp1/1P4Pp/3K3P/5B2/8/1b6 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "William Hartston"
+      "playerBlack": "William Hartston",
+      "date": "1972-01-01"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:33:19.853Z",
+    "retrievedAt": "2026-08-09T20:31:56.755Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "William R Hartston",
     "href": "https://www.chess.com/games/view/188115",

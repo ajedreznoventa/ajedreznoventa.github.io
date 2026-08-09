@@ -2,7 +2,7 @@
   "_id": "KSEJimCm7lQ",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.508Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2023-05-12T16:00:13Z",
     "title": "AVANCE DISRUPTIVO | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial 1987 Sevilla | Ronda 2",
     "description": "Buenas! Con este vídeo empezamos la serie de partidas entre Anatoly Karpov y Garry Kasparov en el match por el título mundial de ajedrez celebrado el año 1987 en la ciudad española de Sevilla. En esta ocasión Kasparov quiso sorprender a Karpov, con la apertura Inglesa, pero fue el propio Karpov quién introdujo una novedad que hoy forma parte de la teoria de esa apertura. Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:37 Análisis\n16:40 Conclusión\n\n#ajedrez #karpov #anatolykarpov #kasparov #garrykasparov #sevilla \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Match\"]\n[Site \"Seville ESP\"]\n[Date \"1987.10.14\"]\n[EventDate \"?\"]\n[Round \"2\"]\n[Result \"0-1\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A29\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"64\"]\n\n1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ng5\nBxc3 8.bxc3 Re8 9.f3 e3 10.d3 d5 11.Qb3 Na5 12.Qa3 c6 13.cxd5\ncxd5 14.f4 Nc6 15.Rb1 Qc7 16.Bb2 Bg4 17.c4 dxc4 18.Bxf6 gxf6\n19.Ne4 Kg7 20.dxc4 Rad8 21.Rb3 Nd4 22.Rxe3 Qxc4 23.Kh1 Nf5\n24.Rd3 Bxe2 25.Rxd8 Rxd8 26.Re1 Re8 27.Qa5 b5 28.Nd2 Qd3\n29.Nb3 Bf3 30.Bxf3 Qxf3+ 31.Kg1 Rxe1+ 32.Qxe1 Ne3 0-1",
@@ -43,11 +43,12 @@
       "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8. bxc3 Re8 9. f3 e3 10. d3 d5 11. Qb3 Na5 12. Qa3 c6 13. cxd5 cxd5 14. f4 Nc6 15. Rb1 Qc7 16. Bb2 Bg4 17. c4 dxc4 18. Bxf6 gxf6 19. Ne4 Kg7 20. dxc4 Rad8 21. Rb3 Nd4 22. Rxe3 Qxc4 23. Kh1 Nf5 24. Rd3 Bxe2 25. Rxd8 Rxd8 26. Re1 Re8 27. Qa5 b5 28. Nd2 Qd3 29. Nb3 Bf3 30. Bxf3 Qxf3+ 31. Kg1 Rxe1+ 32. Qxe1 Ne3 0-1",
       "fen": "8/p4pkp/5p2/1p6/5P2/1N2nqP1/P6P/4Q1K1 w - - 0 1",
       "playerWhite": "Garry Kasparov",
-      "playerBlack": "Anatoly Karpov"
+      "playerBlack": "Anatoly Karpov",
+      "date": "1987-10-14"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:43:19.950Z",
+    "retrievedAt": "2026-08-09T20:44:26.769Z",
     "playerWhite": "Garry Kasparov",
     "playerBlack": "Anatoly Karpov",
     "href": "https://www.chess.com/games/view/407078",

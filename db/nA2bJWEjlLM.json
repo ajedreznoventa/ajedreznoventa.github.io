@@ -2,7 +2,7 @@
   "_id": "nA2bJWEjlLM",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.508Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2023-03-31T16:00:38Z",
     "title": "NERVIOS de ACERO | Andrei Sokolov vs Anatoly Karpov | Torneo de Candidatos 1987 Linares | Ronda 12",
     "description": "Buenas! Con este vídeo cerramos la miniserie de partidas entre Karpov y Sokolov en el torneo de Candidatos celebrado el año 1987. Karpov neutralizó con nervios de acero la iniciativa de las blancas, y posteriormente atacó el rey de las blancas, ganando así el encuentro. En consecuencia, Karpov se enfrentaría ese mismo año contra Garry Kasparov, en su cuarto match por el título mundial de ajedrez. ¡Espero que les haya gustado el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n🎓 Cursos de estrategia:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtaOVy2TJkji89h5JNPRlRI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuGyP65oC0XC3XDixHXV73R\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmst3QUbeyBVBDWYfVXKo882 \n\n⭐️ Si te gustaría apoyar al canal de forma económica (desde solo 1€ al mes) y poder ver así los vídeos por adelantado, puedes visitar el siguiente enlace donde explico todos los detalles:\nhttps://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\n🔒 Aquí puedes encontrar la lista de reproducción exclusiva para los miembros del canal:\nhttps://www.youtube.com/playlist?list=UUMO-CFLy8KSKEVFhwj3R4wOwA\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:24 Análisis\n16:44 Conclusión\n\n#ajedrez #karpov #anatolykarpov #sokolov \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Karpov - Sokolov Candidates Final\"]\n[Site \"Linares ESP\"]\n[Date \"1987.03.26\"]\n[EventDate \"1987.02.24\"]\n[Round \"11\"]\n[Result \"0-1\"]\n[White \"Andrei Sokolov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"B10\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"50\"]\n\n1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nf3\nNxc3 7. bxc3 g6 8. h4 Bg7 9. h5 Nc6 10. Rb1 Qc7 11. Ba3 Bf5\n12. Rb5 a6 13. Rc5 Qd7 14. Qb3 O-O 15. hxg6 hxg6 16. Bc4 Bf6\n17. d4 b5 18. Bd5 Na5 19. Qd1 Nb7 20. Ne5 Bxe5 21. dxe5 Nxc5\n22. Qd4 Nd3+ 23. Kf1 Qa7 24. Bxe7 Qxd4 25. cxd4 Nf4 0-1",
@@ -43,11 +43,12 @@
       "pgn": "1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nxc3 7. bxc3 g6 8. h4 Bg7 9. h5 Nc6 10. Rb1 Qc7 11. Ba3 Bf5 12. Rb5 a6 13. Rc5 Qd7 14. Qb3 O-O 15. hxg6 hxg6 16. Bc4 Bf6 17. d4 b5 18. Bd5 Na5 19. Qd1 Nb7 20. Ne5 Bxe5 21. dxe5 Nxc5 22. Qd4 Nd3+ 23. Kf1 Qa7 24. Bxe7 Qxd4 25. cxd4 Nf4 0-1",
       "fen": "r4rk1/4Bp2/p5p1/1p1BPb2/3P1n2/8/P4PP1/5K1R w - - 0 1",
       "playerWhite": "Andrei Sokolov",
-      "playerBlack": "Anatoly Karpov"
+      "playerBlack": "Anatoly Karpov",
+      "date": "1987-03-26"
     }
   ],
   "chessCom": {
     "reason": "AMBIGUOUS",
-    "retrievedAt": "2026-08-07T18:43:49.910Z"
+    "retrievedAt": "2026-08-09T20:45:11.870Z"
   }
 }

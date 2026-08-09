@@ -2,7 +2,7 @@
   "_id": "mj5szBPgy-c",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2021-08-04T11:29:22Z",
     "title": "Apisonamiento Posicional | So vs Caruana | Grand Chess Tour Superbet Chess Classic Romania 2021",
     "description": "¡Buenas! En el Grand Chess Tour de Rumanía, Wesley So y Fabiano Caruana protagonizaron una partida muy tensa desde la apertura inglesa. Wesley sacrificó un peón a cambio de una ventaja posicional duradera, que transformó en un final de “caballo bueno contra alfil malo”. Poco a poco fue incrementando la presión hasta materializar su ventaja con precisión técnica. Una auténtica lección estratégica frente a uno de los mejores jugadores del mundo.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #wesleyso #fabianocaruana #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"GCT Bucharest Classic\"]\n[Site \"Bucharest ROU\"]\n[Date \"2021.06.08\"]\n[EventDate \"2021.06.05\"]\n[Round \"4\"]\n[Result \"1-0\"]\n[White \"Wesley So\"]\n[Black \"Fabiano Caruana\"]\n[ECO \"A20\"]\n[WhiteElo \"2770\"]\n[BlackElo \"2820\"]\n[PlyCount \"103\"]\n\n1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. d3 c6 5. Nf3 d6 6. O-O O-O\n7. Nc3 a5 8. d4 exd4 9. Nxd4 a4 10. Rb1 Re8 11. e3 Qa5 12. Bd2\nBg4 13. f3 Bh5 14. Ne4 Qd8 15. Nxc5 dxc5 16. Ne2 Qd3 17. Nf4\nQxc4 18. b3 axb3 19. axb3 Qb5 20. e4 Bg6 21. Bc3 Na6 22. h4 h5\n23. Qc1 Kh7 24. Rd1 Rad8 25. Qb2 c4 26. Bxf6 gxf6 27. Qxf6\nRxd1+ 28. Rxd1 Qc5+ 29. Kh2 Qe7 30. Qxe7 Rxe7 31. bxc4 Kg7\n32. Bh3 Nc5 33. Rd6 f6 34. Ne6+ Nxe6 35. Bxe6 Be8 36. c5 Bf7\n37. Bc8 Re5 38. Bxb7 Rxc5 39. Rxc6 Rb5 40. Ba6 Rb2+ 41. Kg1\nBe8 42. Rc5 Kh6 43. Kf1 Bd7 44. Be2 Be8 45. Kf2 Rb3 46. Rd5\nRa3 47. Bd3 Kg7 48. Ke3 Rb3 49. Kf4 Rb4 50. Rc5 Bf7 51. Rc7\nKg6 52. g4 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. d3 c6 5. Nf3 d6 6. O-O O-O 7. Nc3 a5 8. d4 exd4 9. Nxd4 a4 10. Rb1 Re8 11. e3 Qa5 12. Bd2 Bg4 13. f3 Bh5 14. Ne4 Qd8 15. Nxc5 dxc5 16. Ne2 Qd3 17. Nf4 Qxc4 18. b3 axb3 19. axb3 Qb5 20. e4 Bg6 21. Bc3 Na6 22. h4 h5 23. Qc1 Kh7 24. Rd1 Rad8 25. Qb2 c4 26. Bxf6 gxf6 27. Qxf6 Rxd1+ 28. Rxd1 Qc5+ 29. Kh2 Qe7 30. Qxe7 Rxe7 31. bxc4 Kg7 32. Bh3 Nc5 33. Rd6 f6 34. Ne6+ Nxe6 35. Bxe6 Be8 36. c5 Bf7 37. Bc8 Re5 38. Bxb7 Rxc5 39. Rxc6 Rb5 40. Ba6 Rb2+ 41. Kg1 Be8 42. Rc5 Kh6 43. Kf1 Bd7 44. Be2 Be8 45. Kf2 Rb3 46. Rd5 Ra3 47. Bd3 Kg7 48. Ke3 Rb3 49. Kf4 Rb4 50. Rc5 Bf7 51. Rc7 Kg6 52. g4 1-0",
       "fen": "8/2R2b2/5pk1/7p/1r2PKPP/3B1P2/8/8 b - - 0 1",
       "playerWhite": "Wesley So",
-      "playerBlack": "Fabiano Caruana"
+      "playerBlack": "Fabiano Caruana",
+      "date": "2021-06-08"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T19:11:48.276Z",
+    "retrievedAt": "2026-08-09T20:56:26.990Z",
     "playerWhite": "Wesley So",
     "playerBlack": "Fabiano Caruana",
     "href": "https://www.chess.com/games/view/16058894",

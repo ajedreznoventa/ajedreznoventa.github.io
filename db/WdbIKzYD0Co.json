@@ -2,7 +2,7 @@
   "_id": "WdbIKzYD0Co",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.286Z",
+    "retrievedAt": "2026-08-09T20:23:10.206Z",
     "publishedAt": "2024-05-10T16:00:33Z",
     "title": "TORMENTA EN AJEDREZ | Anatoly Karpov vs Jan Timman | Final Torneo Candidatos 1990 | Kuala Lumpur",
     "description": "Buenas! En este vídeo veremos una partida de la final del torneo de Candidatos, entre Anatoly Karpov y Jan Timman. El encuentro fue sin duda una batalla feroz, donde ambos jugadores tuvieron posibilidades de ganar. Karpov jugó muy bien la apertura, luego Timman consiguió la ventaja, y finalmente el duodécimo campeón condujo la partida hacia un final ganador. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:22 Análisis \n22:46 Conclusión\n\n#ajedrez #karpov #anatolykarpov #timman #candidatos #grunfeld \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Candidates Final\"]\n[Site \"Kuala Lumpur MAS\"]\n[Date \"1990.03.13\"]\n[EventDate \"1990.03.08\"]\n[Round \"4\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Jan Timman\"]\n[ECO \"D79\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"149\"]\n\n1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5\n7. Ne5 O-O 8. Nc3 e6 9. O-O Nfd7 10. f4 Nc6 11. Be3 f6 12. Nd3\nNb6 13. b3 Qe7 14. a4 Bd7 15. Bc1 Rfd8 16. e3 Be8 17. Ba3 Qf7\n18. Rc1 Bf8 19. Bxf8 Qxf8 20. g4 Qe7 21. Qd2 Rac8 22. Ne2 Rc7\n23. Rc5 Nc8 24. f5 g5 25. Ng3 e5 26. Qc1 b6 27. Rc2 e4 28. Nf2\nNd6 29. Qd2 Rdc8 30. Rfc1 a5 31. Bf1 Nb4 32. Rc3 Qd7 33. Nd1\nRc6 34. Rxc6 Rxc6 35. Rxc6 Qxc6 36. Nc3 Kf8 37. Kf2 Ke7\n38. Ke1 Kf8 39. Kd1 Qc8 40. Ke1 Kg7 41. Na2 Nxa2 42. Qxa2 Qc7\n43. Kf2 Kf8 44. Qb2 Ke7 45. Be2 Kd8 46. Ke1 Kc8 47. Kd2 Kb7\n48. Qc1 Qe7 49. Ke1 Bd7 50. Kf2 Ne8 51. Qh1 Qb4 52. h4 Qxb3\n53. hxg5 fxg5 54. Qxh7 Qxa4 55. Qe7 Qc6 56. Qxg5 a4 57. Qe7\nQd6 58. Qxd6 Nxd6 59. Bd1 Bb5 60. Ne2 a3 61. Nc1 Kc7 62. Kg3\nNc4 63. Be2 Be8 64. Kf4 Nb2 65. Kg5 Nd3 66. Nb3 a2 67. Na1 b5\n68. Bd1 b4 69. Bb3 Nc1 70. Bxd5 Kd6 71. Bc4 Bb5 72. Bg8 Ke7\n73. Kh6 Kf8 74. Be6 Bd7 75. g5 1-0",
@@ -43,12 +43,13 @@
       "pgn": "1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. Ne5 O-O 8. Nc3 e6 9. O-O Nfd7 10. f4 Nc6 11. Be3 f6 12. Nd3 Nb6 13. b3 Qe7 14. a4 Bd7 15. Bc1 Rfd8 16. e3 Be8 17. Ba3 Qf7 18. Rc1 Bf8 19. Bxf8 Qxf8 20. g4 Qe7 21. Qd2 Rac8 22. Ne2 Rc7 23. Rc5 Nc8 24. f5 g5 25. Ng3 e5 26. Qc1 b6 27. Rc2 e4 28. Nf2 Nd6 29. Qd2 Rdc8 30. Rfc1 a5 31. Bf1 Nb4 32. Rc3 Qd7 33. Nd1 Rc6 34. Rxc6 Rxc6 35. Rxc6 Qxc6 36. Nc3 Kf8 37. Kf2 Ke7 38. Ke1 Kf8 39. Kd1 Qc8 40. Ke1 Kg7 41. Na2 Nxa2 42. Qxa2 Qc7 43. Kf2 Kf8 44. Qb2 Ke7 45. Be2 Kd8 46. Ke1 Kc8 47. Kd2 Kb7 48. Qc1 Qe7 49. Ke1 Bd7 50. Kf2 Ne8 51. Qh1 Qb4 52. h4 Qxb3 53. hxg5 fxg5 54. Qxh7 Qxa4 55. Qe7 Qc6 56. Qxg5 a4 57. Qe7 Qd6 58. Qxd6 Nxd6 59. Bd1 Bb5 60. Ne2 a3 61. Nc1 Kc7 62. Kg3 Nc4 63. Be2 Be8 64. Kf4 Nb2 65. Kg5 Nd3 66. Nb3 a2 67. Na1 b5 68. Bd1 b4 69. Bb3 Nc1 70. Bxd5 Kd6 71. Bc4 Bb5 72. Bg8 Ke7 73. Kh6 Kf8 74. Be6 Bd7 75. g5 1-0",
       "fen": "5k2/3b4/4B2K/5PP1/1p1Pp3/4P3/p7/N1n5 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Jan Timman"
+      "playerBlack": "Jan Timman",
+      "date": "1990-03-13"
     }
   ],
   "chessCom": {
     "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T18:38:19.919Z"
+    "retrievedAt": "2026-08-09T20:37:41.852Z"
   },
   "lichessGameId": [
     {

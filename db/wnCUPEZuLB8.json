@@ -2,7 +2,7 @@
   "_id": "wnCUPEZuLB8",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.286Z",
+    "retrievedAt": "2026-08-09T20:23:10.206Z",
     "publishedAt": "2024-06-21T16:01:02Z",
     "title": "PEON ASTRONOMICO | Anatoly Karpov vs Garry Kasparov | Campeonato Mundial 1990 | Lyon Ronda 17",
     "description": "Buenas! Hoy les traigo una partida memorable entre Anatoly Karpov y Garry Kasparov en el match por el título mundial de ajedrez el año 1990. Este encuentro es un ejemplo modelo para jugar contra la temida defensa Grünfeld. Karpov consiguió defender su centro de peones, y finalmente avanzar el peón en la columna d, la pesadilla de cualquier jugador de la defensa Grünfeld. Espero que les guste el vídeo! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867  \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:45 Análisis\n23:57 Material videográfico\n24:32 Conclusión\n\n#ajedrez #karpov #kasparov #garrykasparov #anatolykarpov \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Match\"]\n[Site \"Lyon FRA\"]\n[Date \"1990.12.05\"]\n[EventDate \"?\"]\n[Round \"17\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Garry Kasparov\"]\n[ECO \"D85\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"79\"]\n\n1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7\n7.Be3 c5 8.Qd2 O-O 9.Nf3 Bg4 10.Ng5 cxd4 11.cxd4 Nc6 12.h3 Bd7\n13.Rb1 Rc8 14.Nf3 Na5 15.Bd3 Be6 16.O-O Bc4 17.Rfd1 b5 18.Bg5\na6 19.Rbc1 Bxd3 20.Rxc8 Qxc8 21.Qxd3 Re8 22.Rc1 Qb7 23.d5 Nc4\n24.Nd2 Nxd2 25.Bxd2 Rc8 26.Rc6 Be5 27.Bc3 Bb8 28.Qd4 f6 29.Ba5\nBd6 30.Qc3 Re8 31.a3 Kg7 32.g3 Be5 33.Qc5 h5 34.Bc7 Ba1 35.Bf4\nQd7 36.Rc7 Qd8 37.d6 g5 38.d7 Rf8 39.Bd2 Be5 40.Rb7 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Qd2 O-O 9. Nf3 Bg4 10. Ng5 cxd4 11. cxd4 Nc6 12. h3 Bd7 13. Rb1 Rc8 14. Nf3 Na5 15. Bd3 Be6 16. O-O Bc4 17. Rfd1 b5 18. Bg5 a6 19. Rbc1 Bxd3 20. Rxc8 Qxc8 21. Qxd3 Re8 22. Rc1 Qb7 23. d5 Nc4 24. Nd2 Nxd2 25. Bxd2 Rc8 26. Rc6 Be5 27. Bc3 Bb8 28. Qd4 f6 29. Ba5 Bd6 30. Qc3 Re8 31. a3 Kg7 32. g3 Be5 33. Qc5 h5 34. Bc7 Ba1 35. Bf4 Qd7 36. Rc7 Qd8 37. d6 g5 38. d7 Rf8 39. Bd2 Be5 40. Rb7 1-0",
       "fen": "3q1r2/1R1Pp1k1/p4p2/1pQ1b1pp/4P3/P5PP/3B1P2/6K1 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Garry Kasparov"
+      "playerBlack": "Garry Kasparov",
+      "date": "1990-12-05"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:37:34.911Z",
+    "retrievedAt": "2026-08-09T20:36:56.782Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Garry Kasparov",
     "href": "https://www.chess.com/games/view/491841",

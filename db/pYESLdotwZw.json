@@ -2,7 +2,7 @@
   "_id": "pYESLdotwZw",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2021-04-13T11:24:14Z",
     "title": "AGENTE HOSTIL | Jan Timman vs Anatoly Karpov | Montreal 1979",
     "description": "¡Buenas! En el Torneo de Montreal 1979, Anatoly Karpov sorprendió con un juego mucho más agresivo de lo habitual frente a Jan Timman. Con negras, el campeón mundial lanzó un ataque demoledor contra el enroque blanco, culminado por un brillante sacrificio de caballo en h2. La partida es un ejemplo magistral de cómo la actividad de las piezas puede compensar una estructura de peones peor. Una joya táctica que muestra el lado más ofensivo de Karpov.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Montreal\"]\n[Site \"Montreal CAN\"]\n[Date \"1979.04.25\"]\n[EventDate \"1979.04.11\"]\n[Round \"11\"]\n[Result \"0-1\"]\n[White \"Jan Timman\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A28\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"62\"]\n\n1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4\nO-O 7. Nxc6 bxc6 8. Be2 d5 9. O-O Bd6 10. b3 Qe7 11. Bb2 dxc4\n12. bxc4 Rb8 13. Qc1 Ng4 14. g3 Re8 15. Nd1 Nxh2 16. c5 Nxf1\n17. cxd6 Nxg3 18. fxg3 Qxd6 19. Kf2 Qh6 20. Bd4 Qh2+ 21. Ke1\nQxg3+ 22. Kd2 Qg2 23. Nb2 Ba6 24. Nd3 Bxd3 25. Kxd3 Rbd8\n26. Bf1 Qe4+ 27. Kc3 c5 28. Bxc5 Qc6 29. Kb3 Rb8+ 30. Ka3 Re5\n31. Bb4 Qb6 0-1",
@@ -43,11 +43,12 @@
       "pgn": "1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Nxc6 bxc6 8. Be2 d5 9. O-O Bd6 10. b3 Qe7 11. Bb2 dxc4 12. bxc4 Rb8 13. Qc1 Ng4 14. g3 Re8 15. Nd1 Nxh2 16. c5 Nxf1 17. cxd6 Nxg3 18. fxg3 Qxd6 19. Kf2 Qh6 20. Bd4 Qh2+ 21. Ke1 Qxg3+ 22. Kd2 Qg2 23. Nb2 Ba6 24. Nd3 Bxd3 25. Kxd3 Rbd8 26. Bf1 Qe4+ 27. Kc3 c5 28. Bxc5 Qc6 29. Kb3 Rb8+ 30. Ka3 Re5 31. Bb4 Qb6 0-1",
       "fen": "1r4k1/p1p2ppp/1q6/4r3/1B6/K3P3/P7/R1Q2B2 w - - 0 1",
       "playerWhite": "Jan Timman",
-      "playerBlack": "Anatoly Karpov"
+      "playerBlack": "Anatoly Karpov",
+      "date": "1979-04-25"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T19:12:48.310Z",
+    "retrievedAt": "2026-08-09T20:57:26.991Z",
     "playerWhite": "Jan H Timman",
     "playerBlack": "Anatoly Karpov",
     "href": "https://www.chess.com/games/view/291104",

@@ -2,7 +2,7 @@
   "_id": "IuT-lzaINQM",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2021-09-01T11:30:03Z",
     "title": "PELIGROS DE LA PASIVIDAD | Anatoly Karpov vs Zoltan Ribli | Amsterdam IBM 1980",
     "description": "¡Buenas! En esta partida de 1980 en Ámsterdam, Anatoly Karpov enfrentó a Zoltan Ribli en una Apertura Inglesa simétrica. Karpov supo aprovechar la pasividad de las piezas negras para ganar espacio, crear peones pasados y dominar estratégicamente el tablero. Con maniobras precisas y control de las columnas abiertas, transformó su ventaja posicional en una victoria decisiva. Un excelente ejemplo de cómo castigar el juego pasivo y maximizar la coordinación de piezas.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Amsterdam IBM\"]\n[Site \"Amsterdam NED\"]\n[Date \"1980.07.12\"]\n[EventDate \"1980.06.27\"]\n[Round \"13\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Zoltan Ribli\"]\n[ECO \"A35\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"69\"]\n\n1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6\n7. O-O Bg7 8. Nxd5 Qxd5 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6\n12. Nxc6 Bxc6 13. Bxc6 Qxc6 14. Rc1 Qe6 15. Rxc5 Qxa2 16. Rb5\nb6 17. Qa1 Qxa1 18. Rxa1 Rfb8 19. Ra6 Kf8 20. Rb4 Be5 21. Rba4\nb5 22. Ra2 Rb7 23. b3 Bb8 24. Bc5 Ke8 25. d4 Kd7 26. e4 e6\n27. b4 Kc8 28. d5 exd5 29. exd5 Rd7 30. d6 Rd8 31. Kg2 Kd7\n32. Re2 Kc8 33. Re7 Rd7 34. Ra2 a5 35. Rc2 1-0",
@@ -38,11 +38,12 @@
       "pgn": "1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. O-O Bg7 8. Nxd5 Qxd5 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6 12. Nxc6 Bxc6 13. Bxc6 Qxc6 14. Rc1 Qe6 15. Rxc5 Qxa2 16. Rb5 b6 17. Qa1 Qxa1 18. Rxa1 Rfb8 19. Ra6 Kf8 20. Rb4 Be5 21. Rba4 b5 22. Ra2 Rb7 23. b3 Bb8 24. Bc5 Ke8 25. d4 Kd7 26. e4 e6 27. b4 Kc8 28. d5 exd5 29. exd5 Rd7 30. d6 Rd8 31. Kg2 Kd7 32. Re2 Kc8 33. Re7 Rd7 34. Ra2 a5 35. Rc2 1-0",
       "fen": "rbk5/3rRp1p/3P2p1/ppB5/1P6/6P1/2R2PKP/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Zoltan Ribli"
+      "playerBlack": "Zoltan Ribli",
+      "date": "1980-07-12"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T19:11:33.319Z",
+    "retrievedAt": "2026-08-09T20:55:56.968Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Zoltan Ribli",
     "href": "https://www.chess.com/games/view/299215",

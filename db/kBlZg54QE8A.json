@@ -2,7 +2,7 @@
   "_id": "kBlZg54QE8A",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.286Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2023-12-29T17:00:37Z",
     "title": "ASEDIO a LENINGRADO | Anatoly Karpov vs Artur Yusupov | Torneo Linares 1989 | Defensa Holandesa",
     "description": "Buenas! En esta ocasión les comparto una partida entre Anatoly Karpov y Artur Yusupov en el famoso torneo de Linares celebrado el año 1989. Este encuentro fue ciertamente inédito, ya que Karpov jugó de forma muy incisiva contra la defensa -también inédita- Holandesa de su rival. Las blancas consiguieron quedarse con una ventaja ganadora en prácticamente la apertura. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:21 Análisis\n21:16 Conclusión\n\n#ajedrez #karpov #anatolykarpov #yusupov #linares\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Linares 7th\"]\n[Site \"Linares\"]\n[Date \"1989.??.??\"]\n[Round \"?\"]\n[White \"Karpov, Anatoly\"]\n[Black \"Jussupow, Artur\"]\n[Result \"1-0\"]\n[WhiteElo \"2750\"]\n[BlackElo \"2610\"]\n[ECO \"A88\"]\n\n1. c4 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nc3 d6 6. Nf3 O-O 7. O-O c6 8. b3 Qc7  9. Ba3 a5 10. Rc1 Na6 11. Qd2 Bd7 12. Rfe1 Nb4 13. Bb2 e5 14. a3 Na6 15. dxe5  dxe5 16. Nb5 cxb5 17. cxb5 Nc5 18. Bxe5 Qb6 19. Bxf6 Bxf6 20. Qd5+ Ne6 21. Qxd7  Rad8 22. Rc6 Rxd7 23. Rxb6 Nc5 24. b4 axb4 25. axb4 Ne4 26. e3 Kf7 27. h4 Rb8  28. Rc1 Ke7 29. Nd4 Kf7 30. Bxe4 fxe4 31. Ne6 Bd8 32. Ng5+ Bxg5 33. hxg5 Re8  34. Rc4 Kg7 35. Kg2 Rf7 36. Rd6 h6 37. gxh6+ Kxh6 38. b6 Re5 39. Rc7 Rf8 40.  Rxb7 Ref5 41. Rd2 Rb5 42. Rd4 1-0",
@@ -43,10 +43,22 @@
       "pgn": "1. c4 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nc3 d6 6. Nf3 O-O 7. O-O c6 8. b3 Qc7 9. Ba3 a5 10. Rc1 Na6 11. Qd2 Bd7 12. Rfe1 Nb4 13. Bb2 e5 14. a3 Na6 15. dxe5 dxe5 16. Nb5 cxb5 17. cxb5 Nc5 18. Bxe5 Qb6 19. Bxf6 Bxf6 20. Qd5+ Ne6 21. Qxd7 Rad8 22. Rc6 Rxd7 23. Rxb6 Nc5 24. b4 axb4 25. axb4 Ne4 26. e3 Kf7 27. h4 Rb8 28. Rc1 Ke7 29. Nd4 Kf7 30. Bxe4 fxe4 31. Ne6 Bd8 32. Ng5+ Bxg5 33. hxg5 Re8 34. Rc4 Kg7 35. Kg2 Rf7 36. Rd6 h6 37. gxh6+ Kxh6 38. b6 Re5 39. Rc7 Rf8 40. Rxb7 Ref5 41. Rd2 Rb5 42. Rd4 1-0",
       "fen": "5r2/1R6/1P4pk/1r6/1P1Rp3/4P1P1/5PK1/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Artur Jussupow"
+      "playerBlack": "Artur Jussupow",
+      "date": "1989-??-??"
     }
   ],
+  "chessCom": {
+    "retrievedAt": "2026-08-09T20:40:11.789Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Artur Yusupov",
+    "href": "https://www.chess.com/games/view/455700",
+    "result": "1-0",
+    "movesCount": 42,
+    "year": 1989
+  },
   "lichessGameId": [
-    {}
+    {
+      "id": "qp0UK3WZ"
+    }
   ]
 }

@@ -2,7 +2,7 @@
   "_id": "PzpibXHXz2c",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2021-10-27T11:30:10Z",
     "title": "Casillas Clave en la India de Rey | Anatoly Karpov vs Miguel A. Quinteros | Olimpiada Malta 1980",
     "description": "¡Buenas! En esta partida de la Olimpiada de Malta 1980, Karpov enfrentó a Miguel Ángel Quinteros y demostró su dominio estratégico en la Defensa India de Rey. Con un magistral control de las casillas centrales y maniobras precisas, Karpov convirtió un punto débil en d6 en una amenaza decisiva. La excelente coordinación de piezas y el avance del peón pasado en el flanco de dama dejaron a Quinteros sin contrajuego. Una lección clara sobre cómo manejar posiciones tipo Maróczy con precisión posicional.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Malta ol (Men)\"]\n[Site \"La Valetta\"]\n[Date \"1980.11.??\"]\n[Round \"?\"]\n[White \"Karpov, Anatoly\"]\n[Black \"Quinteros, Miguel Angel\"]\n[Result \"1-0\"]\n[WhiteElo \"2725\"]\n[BlackElo \"2515\"]\n[ECO \"E92\"]\n\n1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Qe7 8. dxe5  dxe5 9. O-O c6 10. Qc2 Bg4 11. Rfd1 Na6 12. Rd2 Bxf3 13. Bxf3 Nc5 14. Rad1 Ne6  15. g3 Rfd8 16. Rxd8+ Nxd8 17. Rd2 Ne6 18. Qd1 Bf8 19. Bg2 Qe8 20. Bh3 Bb4 21.  f3 Qe7 22. Kg2 Bc5 23. Bxc5 Nxc5 24. b4 Ne6 25. Bxe6 Qxe6 26. c5 Qc4 27. Qb3  Qxb3 28. axb3 Kf8 29. b5 Ke7 30. Ra2 Ne8 31. b6 a6 32. Nb1 Ng7 33. Nd2 Ne6 34.  b4 Rd8 35. Nc4 Rd4 36. Nd6 Rxb4 37. Nxb7 Rb5 38. h4 h5 39. Kf2 Kd7 40. Nd6 Rxc5  41. Rb2 1-0",
@@ -43,10 +43,17 @@
       "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Qe7 8. dxe5 dxe5 9. O-O c6 10. Qc2 Bg4 11. Rfd1 Na6 12. Rd2 Bxf3 13. Bxf3 Nc5 14. Rad1 Ne6 15. g3 Rfd8 16. Rxd8+ Nxd8 17. Rd2 Ne6 18. Qd1 Bf8 19. Bg2 Qe8 20. Bh3 Bb4 21. f3 Qe7 22. Kg2 Bc5 23. Bxc5 Nxc5 24. b4 Ne6 25. Bxe6 Qxe6 26. c5 Qc4 27. Qb3 Qxb3 28. axb3 Kf8 29. b5 Ke7 30. Ra2 Ne8 31. b6 a6 32. Nb1 Ng7 33. Nd2 Ne6 34. b4 Rd8 35. Nc4 Rd4 36. Nd6 Rxb4 37. Nxb7 Rb5 38. h4 h5 39. Kf2 Kd7 40. Nd6 Rxc5 41. Rb2 1-0",
       "fen": "8/3k1p2/pPpNn1p1/2r1p2p/4P2P/5PP1/1R3K2/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Miguel Angel Quinteros"
+      "playerBlack": "Miguel Angel Quinteros",
+      "date": "1980-11-??"
     }
   ],
-  "lichessGameId": [
-    {}
-  ]
+  "chessCom": {
+    "retrievedAt": "2026-08-09T20:54:41.921Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Miguel A Quinteros",
+    "href": "https://www.chess.com/games/view/303938",
+    "result": "1-0",
+    "movesCount": 41,
+    "year": 1980
+  }
 }

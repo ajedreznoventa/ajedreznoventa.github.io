@@ -2,7 +2,7 @@
   "_id": "fRyYh2h5tLU",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.508Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2022-12-16T17:00:32Z",
     "title": "POMPA y CIRCUNSTANCIA | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial Ajedrez 1986 Ronda 18",
     "description": "Buenas! Esta partida es una de las partidas más caóticas (y por ende, entretenida) del tercer match por el título mundial de ajedrez. Kasparov llevaba las piezas blancas, y logró una ventaja notable en la apertura. No obstante, Karpov se defendió con uñas y dientes y finalmente Kasparov cometió un error que le costó la partida. ¡Espero que les guste el vídeo! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nKarpov Kasparov 1986 Ronda 5: https://youtu.be/YfGSqKxL6gw\nKarpov Kasparov 1984: https://youtu.be/xnhlEtaGzTw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n0:00 Intro \n0:41 Análisis \n23:51 Outro \n\n#ajedrez #kasparov  #karpov #anatolykarpov #garrykasparov\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Rematch\"]\n[Site \"London ENG / Leningrad URS\"]\n[Date \"1986.09.19\"]\n[EventDate \"?\"]\n[Round \"18\"]\n[Result \"0-1\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"E12\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"116\"]\n\n1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Bg5 Bb7 6.e3 h6 7.Bh4\nBxc3+ 8.bxc3 d6 9.Nd2 g5 10.Bg3 Qe7 11.a4 a5 12.h4 Rg8 13.hxg5\nhxg5 14.Qb3 Na6 15.Rb1 Kf8 16.Qd1 Bc6 17.Rh2 Kg7 18.c5 bxc5\n19.Bb5 Nb8 20.dxc5 d5 21.Be5 Kf8 22.Rh6 Ne8 23.Qh5 f6 24.Rh7\nNg7 25.Qf3 Kf7 26.Qh5+ Kf8 27.Qf3 Kf7 28.Rh6 Ne8 29.e4 g4\n30.Qf4 Bxb5 31.Rxb5 Nd7 32.Bxc7 Nxc5 33.Qe3 Nxe4 34.Nxe4 dxe4\n35.Bxa5 f5 36.Bb4 Qd7 37.Qd4 Ra7 38.Rh7+ Ng7 39.a5 Kg6 40.Qxd7\nRxd7 41.Rh4 Rgd8 42.c4 Rd1+ 43.Ke2 Rc1 44.a6 Rc2+ 45.Ke1 Ra2\n46.Rb6 Rd3 47.c5 Ra1+ 48.Ke2 Ra2+ 49.Ke1 g3 50.fxg3 Rxg3\n51.Kf1 Rgxg2 52.Be1 Rgc2 53.c6 Ra1 54.Rh3 f4 55.Rb4 Kf5\n56.Rb5+ e5 57.Ra5 Rd1 58.a7 e3 {59.Rf3 Nh5 60.a8=Q Ng3+\n61.Rxg3 Rf2+ 62.Kg1 Rxe1#} 0-1",
@@ -43,15 +43,17 @@
       "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 Bxc3+ 8. bxc3 d6 9. Nd2 g5 10. Bg3 Qe7 11. a4 a5 12. h4 Rg8 13. hxg5 hxg5 14. Qb3 Na6 15. Rb1 Kf8 16. Qd1 Bc6 17. Rh2 Kg7 18. c5 bxc5 19. Bb5 Nb8 20. dxc5 d5 21. Be5 Kf8 22. Rh6 Ne8 23. Qh5 f6 24. Rh7 Ng7 25. Qf3 Kf7 26. Qh5+ Kf8 27. Qf3 Kf7 28. Rh6 Ne8 29. e4 g4 30. Qf4 Bxb5 31. Rxb5 Nd7 32. Bxc7 Nxc5 33. Qe3 Nxe4 34. Nxe4 dxe4 35. Bxa5 f5 36. Bb4 Qd7 37. Qd4 Ra7 38. Rh7+ Ng7 39. a5 Kg6 40. Qxd7 Rxd7 41. Rh4 Rgd8 42. c4 Rd1+ 43. Ke2 Rc1 44. a6 Rc2+ 45. Ke1 Ra2 46. Rb6 Rd3 47. c5 Ra1+ 48. Ke2 Ra2+ 49. Ke1 g3 50. fxg3 Rxg3 51. Kf1 Rgxg2 52. Be1 Rgc2 53. c6 Ra1 54. Rh3 f4 55. Rb4 Kf5 56. Rb5+ e5 57. Ra5 Rd1 58. a7 e3 0-1",
       "fen": "8/P5n1/2P5/R3pk2/5p2/4p2R/2r5/3rBK2 w - - 0 1",
       "playerWhite": "Garry Kasparov",
-      "playerBlack": "Anatoly Karpov"
+      "playerBlack": "Anatoly Karpov",
+      "date": "1986-09-19"
     }
   ],
   "chessCom": {
-    "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T18:45:34.877Z"
-  },
-  "chess365": {
-    "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T18:45:35.248Z"
+    "retrievedAt": "2026-08-09T20:47:11.809Z",
+    "playerWhite": "Garry Kasparov",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/384859",
+    "result": "0-1",
+    "movesCount": 58,
+    "year": 1986
   }
 }

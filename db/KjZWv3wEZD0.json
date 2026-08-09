@@ -2,7 +2,7 @@
   "_id": "KjZWv3wEZD0",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:09.952Z",
     "publishedAt": "2025-10-24T16:00:42Z",
     "title": "ATAQUE VELOZ | Anatoly Karpov vs Dan Uddenfeldt | Olimpiada 1972 | Defensa Siciliana Najdorf",
     "description": "¡Buenas! En esta nueva entrega os traigo el análisis de una instructiva partida entre el joven Anatoly Karpov y el maestro sueco Dan Uddenfeldt, disputada en la Olimpiada de Ajedrez de 1972 en Skopie. Se trata de una Siciliana Najdorf en la que Karpov, con blancas, despliega una paciente estrategia posicional para luego lanzar la ruptura temática f5, iniciando un ataque imparable contra el rey rival. Una lección magistral de cómo combinar desarrollo armonioso, control central y ataque directo al monarca. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867\n✨ @obeduwu3465\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:29 Inicio del análisis\n02:30 Momento crítico 1\n03:57 Momento crítico 2\n06:47 Momento crítico 3\n14:54 Conclusión\n\n#ajedrez #karpov #anatolykarpov #siciliana #najdorf #ataque\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Final-A\"]\n[Site \"Skopje YUG\"]\n[Date \"1972.10.03\"]\n[EventDate \"?\"]\n[Round \"7\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Dan Uddenfeldt\"]\n[ECO \"B93\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"53\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7\n7. Bd3 e6 8. O-O Be7 9. Nf3 Nbd7 10. Qe1 Nc5 11. e5 Nfd7\n12. Qg3 g6 13. Be3 b5 14. Bd4 Nxd3 15. cxd3 d5 16. Rac1 Qb7\n17. f5 gxf5 18. Qg7 Rf8 19. Ng5 Bxg5 20. Qxg5 Qb8 21. Ne2 Bb7\n22. Nf4 Qd8 23. Qh5 Ke7 24. Qxh7 Ke8 25. Nh5 Qg5 26. Rc7 Rb8\n27. Ng7+ 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e6 8. O-O Be7 9. Nf3 Nbd7 10. Qe1 Nc5 11. e5 Nfd7 12. Qg3 g6 13. Be3 b5 14. Bd4 Nxd3 15. cxd3 d5 16. Rac1 Qb7 17. f5 gxf5 18. Qg7 Rf8 19. Ng5 Bxg5 20. Qxg5 Qb8 21. Ne2 Bb7 22. Nf4 Qd8 23. Qh5 Ke7 24. Qxh7 Ke8 25. Nh5 Qg5 26. Rc7 Rb8 27. Ng7+ 1-0",
       "fen": "1r2kr2/1bRn1pNQ/p3p3/1p1pPpq1/3B4/3P4/PP4PP/5RK1 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Dan Uddenfeldt"
+      "playerBlack": "Dan Uddenfeldt",
+      "date": "1972-10-03"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:29:34.838Z",
+    "retrievedAt": "2026-08-09T20:28:11.838Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Dan Uddenfeldt",
     "href": "https://www.chess.com/games/view/15750193",

@@ -2,7 +2,7 @@
   "_id": "i6BxAqa3Gng",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.286Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2023-11-10T17:00:39Z",
     "title": "EL TIGRE PETROSIAN | Milko Bobotsov vs Tigran Petrosian | 1968 | Defensa Gambito de Dama",
     "description": "Buenas! Hoy les traigo la primera partida en este canal del campeón mundial, Tigran Petrosian. Esta partida es un ejemplo modelo de como jugar con las piezas negras la estructura de peones Carlsbad. Petrosian demostró como las piezas negras pueden crear un ataque fulminante, digno del tigre de hierro. Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:45 Análisis\n16:57 Conclusión\n\n#ajedrez #petrosian #carlsbad #tigranpetrosian\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Chess Olympiad Final-A\"]\n[Site \"Lugano SUI\"]\n[Date \"1968.10.26\"]\n[EventDate \"?\"]\n[Round \"2\"]\n[Result \"0-1\"]\n[White \"Milko Bobotsov\"]\n[Black \"Tigran Vartanovich Petrosian\"]\n[ECO \"D35\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"82\"]\n\n1.d4 Nf6 2.c4\ne6 3.Nf3 d5 4.cxd5 exd5 5.Nc3 c6 6.Bg5 Be7 7.Qc2 g6 8.e3 Bf5\n9.Bd3 Bxd3 10.Qxd3 Nbd7 11.Bh6 Ng4 12.Bf4 O-O 13.O-O Re8 14.h3\nNgf6 15.Ne5 Nb6 16.Bg5 Ne4 17.Bxe7 Qxe7 18.Qc2 Nd6 19.Na4 Nbc4 20.Nxc4 Nxc4\n21.Nc5 Nd6 22.Rac1 Qg5 23.Qd1 h5 24.Kh1 Re7 25.Nd3 Ne4 26.Nc5\nNd6 27.Nd3 Qf5 28.Ne5 f6 29.Nf3 Rg7 30.Nh2 Re8 31.Kg1 Ne4\n32.Qf3 Qe6 33.Rfd1 g5 34.Qxh5 f5 35.Re1 g4 36.hxg4 fxg4 37.f3 gxf3 \n 38.Nxf3 Rh7 39.Qe5 Qc8 40.Qf4 Rf8 41.Qe5 Rf5 0-1",
@@ -43,11 +43,12 @@
       "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. cxd5 exd5 5. Nc3 c6 6. Bg5 Be7 7. Qc2 g6 8. e3 Bf5 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. Bh6 Ng4 12. Bf4 O-O 13. O-O Re8 14. h3 Ngf6 15. Ne5 Nb6 16. Bg5 Ne4 17. Bxe7 Qxe7 18. Qc2 Nd6 19. Na4 Nbc4 20. Nxc4 Nxc4 21. Nc5 Nd6 22. Rac1 Qg5 23. Qd1 h5 24. Kh1 Re7 25. Nd3 Ne4 26. Nc5 Nd6 27. Nd3 Qf5 28. Ne5 f6 29. Nf3 Rg7 30. Nh2 Re8 31. Kg1 Ne4 32. Qf3 Qe6 33. Rfd1 g5 34. Qxh5 f5 35. Re1 g4 36. hxg4 fxg4 37. f3 gxf3 38. Nxf3 Rh7 39. Qe5 Qc8 40. Qf4 Rf8 41. Qe5 Rf5 0-1",
       "fen": "2q3k1/pp5r/2p5/3pQr2/3Pn3/4PN2/PP4P1/2R1R1K1 w - - 0 1",
       "playerWhite": "Milko Bobotsov",
-      "playerBlack": "Tigran Vartanovich Petrosian"
+      "playerBlack": "Tigran Vartanovich Petrosian",
+      "date": "1968-10-26"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:40:49.901Z",
+    "retrievedAt": "2026-08-09T20:41:11.885Z",
     "playerWhite": "Milko G Bobotsov",
     "playerBlack": "Tigran Petrosian",
     "href": "https://www.chess.com/games/view/158031",

@@ -2,7 +2,7 @@
   "_id": "9HFG8chnqkA",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:09.952Z",
     "publishedAt": "2025-08-01T16:00:18Z",
     "title": "ATAQUE FULMINANTE | Anatoly Karpov vs Richard Markland | Torneo de Estudiantes por Equipos 1972",
     "description": "¡Buenas! En este video analizamos una brillante partida del joven Anatoly Karpov contra Markland, jugada en Graz, 1972. Un ataque clásico con enroques opuestos en la Siciliana, donde Karpov abre la columna h con gran precisión.¿Funcionaba el sacrificio en c3? ¿Podían las negras contraatacar? Lo exploramos todo con detalle. ¡Espero que os guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨ @Lucia-co9ke\n✨ @salmantinoymanacori5438  \n✨ @irvingcastelazzo5867\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:21 Inicio del análisis\n05:53 Momento crítico\n15:27 Conclusión\n\n#ajedrez #karpov #anatolykarpov #siciliana\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"W-ch Student Team Final-A\"]\n[Site \"Graz AUT\"]\n[Date \"1972.07.28\"]\n[EventDate \"?\"]\n[Round \"8\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Peter Richard Markland\"]\n[ECO \"B61\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"59\"]\n\n1. Nf3 c5 2. e4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5\nBd7 7. Qd2 Rc8 8. O-O-O Nxd4 9. Qxd4 Qa5 10. Bd2 a6 11. f3 Qc5\n12. Qd3 g6 13. g4 Bg7 14. h4 h6 15. Kb1 Be6 16. Be3 Qa5\n17. Bd4 O-O 18. Qd2 Nd7 19. Nd5 Qd8 20. Bxg7 Kxg7 21. Ne3 Ne5\n22. Be2 f6 23. f4 Nc4 24. Bxc4 Bxc4 25. g5 hxg5 26. hxg5 fxg5\n27. Qc3+ e5 28. Nxc4 b5 29. fxe5 Rxc4 30. Qh3 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. Nf3 c5 2. e4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8. O-O-O Nxd4 9. Qxd4 Qa5 10. Bd2 a6 11. f3 Qc5 12. Qd3 g6 13. g4 Bg7 14. h4 h6 15. Kb1 Be6 16. Be3 Qa5 17. Bd4 O-O 18. Qd2 Nd7 19. Nd5 Qd8 20. Bxg7 Kxg7 21. Ne3 Ne5 22. Be2 f6 23. f4 Nc4 24. Bxc4 Bxc4 25. g5 hxg5 26. hxg5 fxg5 27. Qc3+ e5 28. Nxc4 b5 29. fxe5 Rxc4 30. Qh3 1-0",
       "fen": "3q1r2/6k1/p2p2p1/1p2P1p1/2r1P3/7Q/PPP5/1K1R3R b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Peter Richard Markland"
+      "playerBlack": "Peter Richard Markland",
+      "date": "1972-07-28"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:31:04.828Z",
+    "retrievedAt": "2026-08-09T20:29:41.713Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Markland Peter R",
     "href": "https://www.chess.com/games/view/197411",

@@ -2,7 +2,7 @@
   "_id": "S0vohqbeuYw",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:33.286Z",
+    "retrievedAt": "2026-08-09T20:23:10.206Z",
     "publishedAt": "2024-04-12T16:00:21Z",
     "title": "PRODIGIO NORDICO | Magnus Carlsen vs John Nunn | Jovenes vs Experiencia 2006 | Siciliana Najdorf",
     "description": "Buenas! En este vídeo veremos una partida posicional muy didáctica del campeón mundial Magnus Carlsen en la variante Najdorf de la defensa Siciliana. He elegido esta partida porque guarda similitud con un encuentro precedente donde Anatoly Karpov también jugaba con las piezas blancas. Espero que les guste la partida! \n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:49 Análisis\n21:26 Conclusión\n\n#ajedrez #carlsen #magnuscarlsen #najdorf #siciliana\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Youth - Experience\"]\n[Site \"Amsterdam NED\"]\n[Date \"2006.08.26\"]\n[EventDate \"2006.08.19\"]\n[Round \"7\"]\n[Result \"1-0\"]\n[White \"Magnus Carlsen\"]\n[Black \"John Nunn\"]\n[ECO \"B90\"]\n[WhiteElo \"2675\"]\n[BlackElo \"2617\"]\n[PlyCount \"89\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e5\n7. Nf3 Be7 8. Bc4 O-O 9. O-O Be6 10. Bb3 Nc6 11. Qe2 Na5\n12. Rfd1 Nxb3 13. cxb3 Qe8 14. Ne1 h6 15. Nc2 Qd7 16. Nb4 Rfc8\n17. f3 Bd8 18. Rd3 a5 19. Nbd5 Nxd5 20. Nxd5 a4 21. bxa4 Rxa4\n22. b3 Ra6 23. Rad1 Ra5 24. Nb6 Bxb6 25. Bxb6 Ra6 26. Rxd6 Qe7\n27. Qb2 Qg5 28. a4 h5 29. a5 h4 30. b4 Raa8 31. Qd2 Qxd2\n32. R1xd2 Rc4 33. Bc5 Rc8 34. Rb6 Rc7 35. Kf2 Kh7 36. Bd6 Rd7\n37. Ke3 f6 38. Bxe5 fxe5 39. Rxe6 Rxd2 40. Kxd2 Rxb4 41. Rxe5\nRb2+ 42. Kc3 Rxg2 43. Rh5+ Kg6 44. Rxh4 Ra2 45. Kb4 1-0",
@@ -43,11 +43,12 @@
       "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4 O-O 9. O-O Be6 10. Bb3 Nc6 11. Qe2 Na5 12. Rfd1 Nxb3 13. cxb3 Qe8 14. Ne1 h6 15. Nc2 Qd7 16. Nb4 Rfc8 17. f3 Bd8 18. Rd3 a5 19. Nbd5 Nxd5 20. Nxd5 a4 21. bxa4 Rxa4 22. b3 Ra6 23. Rad1 Ra5 24. Nb6 Bxb6 25. Bxb6 Ra6 26. Rxd6 Qe7 27. Qb2 Qg5 28. a4 h5 29. a5 h4 30. b4 Raa8 31. Qd2 Qxd2 32. R1xd2 Rc4 33. Bc5 Rc8 34. Rb6 Rc7 35. Kf2 Kh7 36. Bd6 Rd7 37. Ke3 f6 38. Bxe5 fxe5 39. Rxe6 Rxd2 40. Kxd2 Rxb4 41. Rxe5 Rb2+ 42. Kc3 Rxg2 43. Rh5+ Kg6 44. Rxh4 Ra2 45. Kb4 1-0",
       "fen": "8/1p4p1/6k1/P7/1K2P2R/5P2/r6P/8 b - - 0 1",
       "playerWhite": "Magnus Carlsen",
-      "playerBlack": "John Nunn"
+      "playerBlack": "John Nunn",
+      "date": "2006-08-26"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:38:49.925Z",
+    "retrievedAt": "2026-08-09T20:38:11.776Z",
     "playerWhite": "Magnus Carlsen",
     "playerBlack": "John D M Nunn",
     "href": "https://www.chess.com/games/view/1368496",

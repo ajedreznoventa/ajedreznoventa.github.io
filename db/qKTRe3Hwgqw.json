@@ -2,7 +2,7 @@
   "_id": "qKTRe3Hwgqw",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T22:04:57.418Z",
+    "retrievedAt": "2026-08-09T20:23:10.434Z",
     "publishedAt": "2023-08-18T16:00:47Z",
     "title": "VICTORIA IN EXTREMIS | Garry Kasparov vs Anatoly Karpov | Campeonato Mundial 1987 Sevilla | Ronda 24",
     "description": "Buenas! Hoy les traigo una de las partidas más importantes en la carrera de Garry Kasparov. El trigésimo campeón mundial tenía que ganar si o si esta última partida del match para mantener su título de campeón mundial. El encuentro es un clásico del ajedrez, y muy interesante desde un punto de vista posicional. Kasparov logró ganar a Karpov, y con ello mantener su corona. Espero que les guste el vídeo!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmttGqrasJG2XYG1QFa1GWSd\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Twitter: https://twitter.com/Ajedrez_90\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción\n00:50 Análisis\n26:36 Material videográfico\n27:16 Conclusión\n\n#ajedrez #karpov #anatolykarpov #kasparov #garrykasparov #sevilla \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Kasparov - Karpov World Championship Match\"]\n[Site \"Seville ESP\"]\n[Date \"1987.12.18\"]\n[EventDate \"?\"]\n[Round \"24\"]\n[Result \"1-0\"]\n[White \"Garry Kasparov\"]\n[Black \"Anatoly Karpov\"]\n[ECO \"A13\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"126\"]\n\n1.c4 e6 2.Nf3 Nf6 3.g3 d5 4.b3 Be7 5.Bg2 O-O 6.O-O b6 7.Bb2 Bb7 8.e3\nNbd7 9.Nc3 Ne4 10.Ne2 a5 11.d3 Bf6 12.Qc2 Bxb2 13.Qxb2 Nd6 14.cxd5 Bxd5 15.d4 c5\n16.Rfd1 Rc8 17.Nf4 Bxf3 18.Bxf3 Qe7 19.Rac1 Rfd8 20.dxc5 Nxc5 21.b4 axb4 22.Qxb4 Qa7 23.a3\nNf5 24.Rb1 Rxd1+ 25.Rxd1 Qc7 26.Nd3 h6 27.Rc1 Ne7 28.Qb5 Nf5 29.a4 Nd6 30.Qb1 Qa7\n31.Ne5 Nxa4 32.Rxc8+ Nxc8 33.Qd1 Ne7 34.Qd8+ Kh7 35.Nxf7 Ng6 36.Qe8 Qe7 37.Qxa4 Qxf7 38.Be4\nKg8 39.Qb5 Nf8 40.Qxb6 Qf6 41.Qb5 Qe7 42.Kg2 g6 43.Qa5 Qg7 44.Qc5 Qf7 45.h4 h5\n46.Qc6 Qe7 47.Bd3 Qf7 48.Qd6 Kg7 49.e4 Kg8 50.Bc4 Kg7 51.Qe5+ Kg8 52.Qd6 Kg7 53.Bb5\nKg8 54.Bc6 Qa7 55.Qb4 Qc7 56.Qb7 Qd8 57.e5 Qa5 58.Be8 Qc5 59.Qf7+ Kh8 60.Ba4 Qd5+\n61.Kh2 Qc5 62.Bb3 Qc8 63.Bd1 Qc5 64.Kg2 1-0",
@@ -43,20 +43,17 @@
       "pgn": "1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. b3 Be7 5. Bg2 O-O 6. O-O b6 7. Bb2 Bb7 8. e3 Nbd7 9. Nc3 Ne4 10. Ne2 a5 11. d3 Bf6 12. Qc2 Bxb2 13. Qxb2 Nd6 14. cxd5 Bxd5 15. d4 c5 16. Rfd1 Rc8 17. Nf4 Bxf3 18. Bxf3 Qe7 19. Rac1 Rfd8 20. dxc5 Nxc5 21. b4 axb4 22. Qxb4 Qa7 23. a3 Nf5 24. Rb1 Rxd1+ 25. Rxd1 Qc7 26. Nd3 h6 27. Rc1 Ne7 28. Qb5 Nf5 29. a4 Nd6 30. Qb1 Qa7 31. Ne5 Nxa4 32. Rxc8+ Nxc8 33. Qd1 Ne7 34. Qd8+ Kh7 35. Nxf7 Ng6 36. Qe8 Qe7 37. Qxa4 Qxf7 38. Be4 Kg8 39. Qb5 Nf8 40. Qxb6 Qf6 41. Qb5 Qe7 42. Kg2 g6 43. Qa5 Qg7 44. Qc5 Qf7 45. h4 h5 46. Qc6 Qe7 47. Bd3 Qf7 48. Qd6 Kg7 49. e4 Kg8 50. Bc4 Kg7 51. Qe5+ Kg8 52. Qd6 Kg7 53. Bb5 Kg8 54. Bc6 Qa7 55. Qb4 Qc7 56. Qb7 Qd8 57. e5 Qa5 58. Be8 Qc5 59. Qf7+ Kh8 60. Ba4 Qd5+ 61. Kh2 Qc5 62. Bb3 Qc8 63. Bd1 Qc5 64. Kg2 1-0",
       "fen": "5n1k/5Q2/4p1p1/2q1P2p/7P/6P1/5PK1/3B4 b - - 0 1",
       "playerWhite": "Garry Kasparov",
-      "playerBlack": "Anatoly Karpov"
+      "playerBlack": "Anatoly Karpov",
+      "date": "1987-12-18"
     }
   ],
   "chessCom": {
-    "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T22:04:58.443Z"
-  },
-  "chess365": {
-    "reason": "NOT_FOUND",
-    "retrievedAt": "2026-08-07T22:04:58.957Z"
-  },
-  "lichessGameId": [
-    {
-      "id": "cn2UFDwr"
-    }
-  ]
+    "retrievedAt": "2026-08-09T20:42:41.823Z",
+    "playerWhite": "Garry Kasparov",
+    "playerBlack": "Anatoly Karpov",
+    "href": "https://www.chess.com/games/view/407089",
+    "result": "1-0",
+    "movesCount": 64,
+    "year": 1987
+  }
 }

@@ -22,9 +22,12 @@ enum PgnSource {
 }
 
 /**
- * Directly extracts [Date "YYYY.MM.DD"] header from raw PGN string
+ * Directly extracts [Date "YYYY.MM.DD"] header from raw PGN text block
  */
 function extractHeaderDate(pgnString: string): string | undefined {
+    if (!pgnString) return undefined;
+    
+    // Matches [Date "1973.02.26"] or similar tags across whitespace
     const match = pgnString.match(/\[Date\s+"([^"]+)"\]/i);
     if (match && match[1]) {
         return normalizePgnDate(match[1]);
@@ -33,7 +36,7 @@ function extractHeaderDate(pgnString: string): string | undefined {
 }
 
 /**
- * Normalizes PGN date string (e.g., "1972.09.25" -> "1972-09-25")
+ * Normalizes PGN date string (e.g., "1973.02.26" -> "1973-02-26")
  */
 function normalizePgnDate(pgnDateInput?: DateValue | string): string | undefined {
     if (!pgnDateInput) {
@@ -73,46 +76,42 @@ function translateMonth(month: string) {
     return _.padStart(`${months.get(month)}`, 2, '0')
 }
 
-function extractDateFromDescription(id: string, linesAbove: string): string | undefined {
-    linesAbove = linesAbove.split('\n')
+function extractDateFromDescription(id: string, textToScan: string): string | undefined {
+    // Priority 1: Check if there's an explicit [Date "YYYY.MM.DD"] tag anywhere in the block
+    const headerDate = extractHeaderDate(textToScan);
+    if (headerDate) {
+        return headerDate;
+    }
+
+    const cleanText = textToScan.split('\n')
         .filter(line => !line.match(/game\s+of\s+the\s+day/i))
-        .join('\n')
+        .join('\n');
 
-    const yyyyMMddRegex = /\s((1[4-9]\d\d)|(20\d\d))[.-](\d|0\d|1[0-2])[.-]([0-2]\d|3[01]|\d)/g
-    let date = (linesAbove.match(yyyyMMddRegex) || [])
-        .map(matched => _.trim(matched))
-        .map(matched => matched.replaceAll(".", "-"))
-        .map(matched => {
-            let split = matched.split("-");
-            return `${split[0]}-${_.padStart(split[1], 2, '0')}-${_.padStart(split[2], 2, '0')}`
-        })[0]
-
-    if (!date) {
-        const ddMMyyyyRegex = /\s(\d|[0-2]\d|3[01])[.-](\d|0\d|1[0-2])[.-]((1[4-9]\d\d)|(20\d\d))/g
-        date = (linesAbove.match(ddMMyyyyRegex) || [])
-            .map(matched => _.trim(matched))
-            .map(matched => matched.replaceAll(".", "-"))
-            .map(matched => {
-                let split = matched.split("-");
-                return `${split[2]}-${_.padStart(split[1], 2, '0')}-${_.padStart(split[0], 2, '0')}`
-            })[0]
+    // Priority 2: Full YYYY-MM-DD or YYYY.MM.DD regex pattern
+    const yyyyMMddRegex = /\b((?:1[4-9]|20)\d\d)[.-](0?[1-9]|1[0-2])[.-](0?[1-9]|[12]\d|3[01])\b/g;
+    const yyyyMatches = [...cleanText.matchAll(yyyyMMddRegex)];
+    if (yyyyMatches.length > 0) {
+        const [, year, month, day] = yyyyMatches[0];
+        return `${year}-${_.padStart(month, 2, '0')}-${_.padStart(day, 2, '0')}`;
     }
 
-    if (!date) {
-        const monthddyyyyRegex = /\s(Jan|Feb|Mar|Apr|Jul|Aug|Sept|Sep|Oct|Nov|Dec)[.-](\d|0\d|1[0-2])[.-]((1[4-9]\d\d)|(20\d\d))/g
-        date = (linesAbove.match(monthddyyyyRegex) || [])
-            .map(matched => _.trim(matched))
-            .map(matched => matched
-                .replaceAll(/(Jan|Feb|Mar|Apr|Jul|Aug|Sept|Sep|Oct|Nov|Dec)/g, month => translateMonth(month))
-            )
-            .map(matched => matched.replaceAll(".", "-"))
-            .map(matched => {
-                let split = matched.split("-");
-                return `${split[2]}-${_.padStart(split[0], 2, '0')}-${_.padStart(split[1], 2, '0')}`
-            })[0]
+    // Priority 3: DD-MM-YYYY format
+    const ddMMyyyyRegex = /\b(0?[1-9]|[12]\d|3[01])[.-](0?[1-9]|1[0-2])[.-]((?:1[4-9]|20)\d\d)\b/g;
+    const ddMatches = [...cleanText.matchAll(ddMMyyyyRegex)];
+    if (ddMatches.length > 0) {
+        const [, day, month, year] = ddMatches[0];
+        return `${year}-${_.padStart(month, 2, '0')}-${_.padStart(day, 2, '0')}`;
     }
 
-    return date
+    // Priority 4: Month DD, YYYY format
+    const monthddyyyyRegex = /\b(Jan|Feb|Mar|Apr|Jul|Aug|Sept|Sep|Oct|Nov|Dec)[.-](0?[1-9]|[12]\d|3[01])[.-]((?:1[4-9]|20)\d\d)\b/gi;
+    const monthMatches = [...cleanText.matchAll(monthddyyyyRegex)];
+    if (monthMatches.length > 0) {
+        const [, month, day, year] = monthMatches[0];
+        return `${year}-${translateMonth(_.capitalize(month))}-${_.padStart(day, 2, '0')}`;
+    }
+
+    return undefined;
 }
 
 async function extractGames(description: string, id: string): Promise<DescriptionGame[]> {
@@ -147,9 +146,8 @@ async function extractGames(description: string, id: string): Promise<Descriptio
 
             players = extractPlayersFromDescription(id, linesAbove)
             
-            // PRIORITY: 1. Manual Override -> 2. PGN Tag Date -> 3. Description Regex Fallback
-            const pgnDate = pgnExtractionResult.date;
-            const date = dateOverrides[id] || pgnDate || extractDateFromDescription(id, linesAbove);
+            // PRIORITY: 1. Manual Override -> 2. Extracted PGN Date -> 3. Fallback Description Regex
+            const date = dateOverrides[id] || pgnExtractionResult.date || extractDateFromDescription(id, description);
 
             let game: any = {}
             game.pgn = pgnExtractionResult.pgn
@@ -225,7 +223,6 @@ function getPgns(id: string, description: string): PgnExtraction[] {
         const descriptionLines = description.split("\n");
         const resultArray: PgnExtraction[] = [];
 
-        // 1. Locate starting line where move notation begins (e.g. "1.e4" or "1. e4")
         for (let i = 0; i < descriptionLines.length; i++) {
             const line = descriptionLines[i];
             
@@ -234,7 +231,7 @@ function getPgns(id: string, description: string): PgnExtraction[] {
                 let pgnAccumulator = line;
                 let currentLineIdx = i;
 
-                // Look ahead for preceding headers (e.g. [Event ...]) on earlier lines
+                // Look ahead for preceding headers (e.g. [Event ...], [Date ...]) on earlier lines
                 let headerBlock = "";
                 let headerStartIdx = i;
                 while (headerStartIdx > 0 && descriptionLines[headerStartIdx - 1].trim().startsWith("[")) {
@@ -244,11 +241,9 @@ function getPgns(id: string, description: string): PgnExtraction[] {
                     headerBlock = descriptionLines.slice(headerStartIdx, i).join("\n") + "\n\n";
                 }
 
-                // 2. Accumulate lines continuously until moves end
                 let bestParseResult: KokopuParseResult | undefined = undefined;
                 let fullPgnString = headerBlock + pgnAccumulator;
 
-                // Try parsing current line and incrementally gather subsequent lines
                 while (currentLineIdx < descriptionLines.length) {
                     const candidatePgn = cleanPgn(fullPgnString);
                     const parsed = parseUsingKokopu(candidatePgn);
@@ -256,13 +251,10 @@ function getPgns(id: string, description: string): PgnExtraction[] {
                         bestParseResult = parsed;
                     }
 
-                    // Move to next line
                     currentLineIdx++;
                     if (currentLineIdx < descriptionLines.length) {
                         const nextLine = descriptionLines[currentLineIdx].trim();
-                        // Stop accumulating if we hit a blank line or a new header tag block
                         if (nextLine === "" || nextLine.startsWith("[")) {
-                            // If we already parsed a valid game, stop here
                             if (bestParseResult) break;
                         }
                         fullPgnString += " " + nextLine;
@@ -270,7 +262,9 @@ function getPgns(id: string, description: string): PgnExtraction[] {
                 }
 
                 if (bestParseResult) {
+                    // Extract exact date tag directly from raw accumulated PGN string first
                     const rawHeaderDate = extractHeaderDate(fullPgnString);
+
                     resultArray.push({
                         source: PgnSource.LINE,
                         pgn: bestParseResult.pgn,
@@ -279,7 +273,6 @@ function getPgns(id: string, description: string): PgnExtraction[] {
                         lineIdx: headerStartIdx < i ? headerStartIdx : i
                     });
 
-                    // Advance loop index beyond processed moves
                     i = currentLineIdx - 1;
                 }
             }

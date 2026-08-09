@@ -2,7 +2,7 @@
   "_id": "kZrwoTiCdCs",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T19:08:17.762Z",
+    "retrievedAt": "2026-08-09T20:23:10.642Z",
     "publishedAt": "2022-02-12T21:00:08Z",
     "title": "ALPHAZERO KARPOVIANO | Anatoly Karpov vs Mark Taimanov | Moscu 1972 | Siciliana Kan",
     "description": "¡Buenas! En esta partida jugada en Moscú 1972, Karpov se enfrentó a Mark Taimanov en la variante Kan de la defensa Siciliana. Tras una apertura equilibrada, el campeón mundial demostró cómo transformar la ventaja de “caballo bueno contra alfil malo” en un ataque demoledor en el flanco de rey. Con maniobras que recuerdan al estilo de AlphaZero, Karpov lanzó un avance de peones preciso y coordinó dama, caballo y torre para acorralar al rey negro. Una lección magistral de ataque posicional con un desenlace espectacular.\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n#ajedrez #karpov #anatolykarpov #taimanov #facelessyoutube \n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"URS-chT\"]\n[Site \"Moscow\"]\n[Date \"1972.??.??\"]\n[Round \"?\"]\n[White \"Karpov, Anatoly\"]\n[Black \"Taimanov, Mark E\"]\n[Result \"1-0\"]\n[WhiteElo \"2630\"]\n[BlackElo \"2590\"]\n[ECO \"B42\"]\n\n1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Bb6 7. O-O Ne7 8.  Qe2 Nbc6 9. Be3 Ne5 10. c4 Bxe3 11. Qxe3 Qc7 12. c5 Nxd3 13. Qxd3 b6 14. cxb6  Qxb6 15. N1d2 d5 16. e5 Bd7 17. Rfc1 O-O 18. Qd4 Qb8 19. Nf3 Nc6 20. Qe3 Rc8  21. Rc5 a5 22. Rac1 a4 23. Nbd4 Na5 24. Rxc8+ Bxc8 25. b3 Bd7 26. h4 h6 27. g4  Qb7 28. h5 Nc6 29. g5 Nxd4 30. Nxd4 hxg5 31. Qxg5 Kh7 32. Rc3 Qb4 33. Rg3 Rg8  34. Nf3 axb3 35. axb3 Qxb3 36. Qc1 Qa2 37. Ng5+ Kh8 38. Nxf7+ Kh7 39. Qg5 Qb1+  40. Kh2 1-0",
@@ -43,10 +43,17 @@
       "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Bb6 7. O-O Ne7 8. Qe2 Nbc6 9. Be3 Ne5 10. c4 Bxe3 11. Qxe3 Qc7 12. c5 Nxd3 13. Qxd3 b6 14. cxb6 Qxb6 15. N1d2 d5 16. e5 Bd7 17. Rfc1 O-O 18. Qd4 Qb8 19. Nf3 Nc6 20. Qe3 Rc8 21. Rc5 a5 22. Rac1 a4 23. Nbd4 Na5 24. Rxc8+ Bxc8 25. b3 Bd7 26. h4 h6 27. g4 Qb7 28. h5 Nc6 29. g5 Nxd4 30. Nxd4 hxg5 31. Qxg5 Kh7 32. Rc3 Qb4 33. Rg3 Rg8 34. Nf3 axb3 35. axb3 Qxb3 36. Qc1 Qa2 37. Ng5+ Kh8 38. Nxf7+ Kh7 39. Qg5 Qb1+ 40. Kh2 1-0",
       "fen": "6r1/3b1Npk/4p3/3pP1QP/8/6R1/5P1K/1q6 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Mark E Taimanov"
+      "playerBlack": "Mark E Taimanov",
+      "date": "1972-??-??"
     }
   ],
-  "lichessGameId": [
-    {}
-  ]
+  "chessCom": {
+    "retrievedAt": "2026-08-09T20:52:56.840Z",
+    "playerWhite": "Anatoly Karpov",
+    "playerBlack": "Mark E Taimanov",
+    "href": "https://www.chess.com/games/view/199307",
+    "result": "1-0",
+    "movesCount": 40,
+    "year": 1972
+  }
 }

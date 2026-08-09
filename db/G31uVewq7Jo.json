@@ -2,7 +2,7 @@
   "_id": "G31uVewq7Jo",
   "videoSnippet": {
     "schemaVersion": 1,
-    "retrievedAt": "2026-08-07T18:24:32.980Z",
+    "retrievedAt": "2026-08-09T20:23:10.206Z",
     "publishedAt": "2025-01-31T17:00:20Z",
     "title": "CONDE ESPAÑOL | Anatoly Karpov vs Vladimir Savon | Torneo de Moscu 1971 |  Apertura Española",
     "description": "Buenas! En esta ocasión les traigo una partida aplastante de Anatoly Karpov en la variante abierta de la Apertura Española. El encuentro tuvo lugar en el torneo de Moscú en 1971, donde Karpov se enfrentó a Vladimir Savon. El mediojuego fue tenso, ya que todas las piezas seguían en el tablero, pero el joven Anatoly aprovechó un plan un tanto exótico de su rival para obtener una ventaja ganadora. ¡Espero que les guste!\n\n▶️ Listas de reproducción del canal:\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmv0mj6QfEVpfuEGmX5Aiefp\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvEFhZSuitGJw3AxQ2ox870\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuN-XZJeeyT-AjeCz2PLp1x\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmtf5WYejdpKRWGhpNoSu82t\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmuewKLFTb43n9V9YVsoFyRW\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvmMm370NHqOXrxk4l68rL1\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvQz5iA8NuPqqZq7dYrF_eI\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvz8Uk5MuG8Z5nouoaYo0Fw\nhttps://www.youtube.com/playlist?list=PL47Sp7vQLbmvHjkZjnlSa6kh7rPGjdqhD\n\n⭐️ Si estás interesado en apoyar el canal de forma económica (por solo 1€ al mes), puedes visitar el siguiente vídeo donde comento los detalles: https://www.youtube.com/channel/UC-CFLy8KSKEVFhwj3R4wOwA/join\n\nAsimismo, quiero dar las gracias a los actuales miembros del canal por apoyar el contenido del mismo:\n✨@Lucia-co9ke\n✨@salmantinoymanacori5438 \n✨@irvingcastelazzo5867 \n\nPara más información sobre el canal, podéis visitar tanto mi cuenta de Twitter como mi Newsletter, donde comento partidas de forma bimensual.\n📌 Página web: https://ajedreznoventa.com\n📌 X/Twitter: https://twitter.com/ajedreznoventa\n📌 Newsletter: https://ajedrez90.substack.com\n\n⌚️ Secciones:\n00:00 Introducción \n00:32 Análisis\n17:03 Conclusión\n\n#ajedrez #karpov #anatolykarpov #savon\n\n♟ PGN de la partida en inglés (R=Torre, N=Caballo, B=Alfil, Q=Dama,  K=Rey)\n\n[Event \"Moscow\"]\n[Site \"Moscow URS\"]\n[Date \"1971.12.18\"]\n[EventDate \"1971.11.24\"]\n[Round \"17\"]\n[Result \"1-0\"]\n[White \"Anatoly Karpov\"]\n[Black \"Vladimir Savon\"]\n[ECO \"C82\"]\n[WhiteElo \"?\"]\n[BlackElo \"?\"]\n[PlyCount \"47\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5\n7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bf5\n12. Nb3 Bg6 13. Nfd4 Bxd4 14. cxd4 a5 15. Be3 Nb4 16. Bb1 a4\n17. Nd2 a3 18. Qc1 Ra6 19. bxa3 Rc6 20. Qb2 Nc2 21. Rc1 Nxe3\n22. Rxc6 Nxf2 23. Nf1 Qd7 24. Nxe3 1-0",
@@ -38,11 +38,12 @@
       "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bf5 12. Nb3 Bg6 13. Nfd4 Bxd4 14. cxd4 a5 15. Be3 Nb4 16. Bb1 a4 17. Nd2 a3 18. Qc1 Ra6 19. bxa3 Rc6 20. Qb2 Nc2 21. Rc1 Nxe3 22. Rxc6 Nxf2 23. Nf1 Qd7 24. Nxe3 1-0",
       "fen": "5rk1/2pq1ppp/2R3b1/1p1pP3/3P4/P3N3/PQ3nPP/RB4K1 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Vladimir Savon"
+      "playerBlack": "Vladimir Savon",
+      "date": "1971-12-18"
     }
   ],
   "chessCom": {
-    "retrievedAt": "2026-08-07T18:34:04.970Z",
+    "retrievedAt": "2026-08-09T20:32:56.741Z",
     "playerWhite": "Anatoly Karpov",
     "playerBlack": "Vladimir A Savon",
     "href": "https://www.chess.com/games/view/189448",
