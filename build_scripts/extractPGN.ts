@@ -222,56 +222,70 @@ function getPgns(id: string, description: string): PgnExtraction[] {
             date: extractHeaderDate(rawOverride) || kokopuParse.date
         }]
     } else {
-        // Updated Regex to include full PGN headers down to moves
-        const pgnRegex = /(\[Event[\s\S]*?\]\s*\n\n|PGN:\s*)?11?\.(?!\.)(?! Ian).+\n/mg
-        
-        // Secondary check for raw blocks containing [Event ...] tags
-        let matchArray = description.match(pgnRegex)
+        const descriptionLines = description.split("\n");
+        const resultArray: PgnExtraction[] = [];
 
-        // If the main move-based regex didn't capture headers, capture the entire PGN block directly
-        let rawHeaderMatch = description.match(/\[Event[\s\S]*?\n\s*1\..*/g);
-        let pgnToProcess = rawHeaderMatch && rawHeaderMatch.length > 0 ? rawHeaderMatch : matchArray;
+        // 1. Locate starting line where move notation begins (e.g. "1.e4" or "1. e4")
+        for (let i = 0; i < descriptionLines.length; i++) {
+            const line = descriptionLines[i];
+            
+            // Check if line contains move 1 notation
+            if (/11?\.(?!\.)(?! Ian)/.test(line)) {
+                let pgnAccumulator = line;
+                let currentLineIdx = i;
 
-        const resultArray: PgnExtraction[] = []
-        if (pgnToProcess != null) {
-            pgnToProcess
-                .filter(pgn => pgn !== undefined && pgn !== null)
-                .forEach(pgn => {
-                    // Extract exact date tag directly from raw text before Kokopu cleans it
-                    const rawHeaderDate = extractHeaderDate(pgn);
+                // Look ahead for preceding headers (e.g. [Event ...]) on earlier lines
+                let headerBlock = "";
+                let headerStartIdx = i;
+                while (headerStartIdx > 0 && descriptionLines[headerStartIdx - 1].trim().startsWith("[")) {
+                    headerStartIdx--;
+                }
+                if (headerStartIdx < i) {
+                    headerBlock = descriptionLines.slice(headerStartIdx, i).join("\n") + "\n\n";
+                }
 
-                    const fixedPgn = cleanPgn(pgn)
-                    let parsedGame = parseUsingKokopu(fixedPgn);
-                    if (parsedGame) {
-                        let descriptionLines = description.split("\n");
-                        let line = descriptionLines.find(l => l.indexOf(_.trim(pgn)) >= 0);
-                        let initialLineIndex = line ? descriptionLines.indexOf(line) : undefined;
+                // 2. Accumulate lines continuously until moves end
+                let bestParseResult: KokopuParseResult | undefined = undefined;
+                let fullPgnString = headerBlock + pgnAccumulator;
 
-                        if (line && initialLineIndex && initialLineIndex >= 0) {
-                            let lineIndex = initialLineIndex
-                            let previousPgn = pgn
-                            while (lineIndex < descriptionLines.length - 1) {
-                                previousPgn = cleanPgn(previousPgn + " " + descriptionLines[++lineIndex])
-                                let tmpParsed = parseUsingKokopu(previousPgn)
-                                if (!tmpParsed) {
-                                    break
-                                } else {
-                                    parsedGame = tmpParsed
-                                }
-                            }
-                        }
-
-                        resultArray.push({
-                            source: PgnSource.LINE,
-                            pgn: parsedGame.pgn,
-                            fen: parsedGame.fen,
-                            date: rawHeaderDate || parsedGame.date,
-                            lineIdx: initialLineIndex
-                        })
+                // Try parsing current line and incrementally gather subsequent lines
+                while (currentLineIdx < descriptionLines.length) {
+                    const candidatePgn = cleanPgn(fullPgnString);
+                    const parsed = parseUsingKokopu(candidatePgn);
+                    if (parsed) {
+                        bestParseResult = parsed;
                     }
-                })
+
+                    // Move to next line
+                    currentLineIdx++;
+                    if (currentLineIdx < descriptionLines.length) {
+                        const nextLine = descriptionLines[currentLineIdx].trim();
+                        // Stop accumulating if we hit a blank line or a new header tag block
+                        if (nextLine === "" || nextLine.startsWith("[")) {
+                            // If we already parsed a valid game, stop here
+                            if (bestParseResult) break;
+                        }
+                        fullPgnString += " " + nextLine;
+                    }
+                }
+
+                if (bestParseResult) {
+                    const rawHeaderDate = extractHeaderDate(fullPgnString);
+                    resultArray.push({
+                        source: PgnSource.LINE,
+                        pgn: bestParseResult.pgn,
+                        fen: bestParseResult.fen,
+                        date: rawHeaderDate || bestParseResult.date,
+                        lineIdx: headerStartIdx < i ? headerStartIdx : i
+                    });
+
+                    // Advance loop index beyond processed moves
+                    i = currentLineIdx - 1;
+                }
+            }
         }
-        return resultArray
+
+        return resultArray;
     }
 }
 

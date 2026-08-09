@@ -57,12 +57,20 @@ function updateFenInput() {
   }
 }
 
+function normalizeFen(fen: string): string {
+  // Normalize FEN by using only position, active color, castling rights, and en passant target
+  return fen.split(' ').slice(0, 4).join(' ')
+}
+
 function calculateNextMoves() {
   if (!game) return
 
   const currentHistory = game.history()
   const currentPlyCount = currentHistory.length
-  const moveCounts: Record<string, number> = {}
+  const currentBoardFen = normalizeFen(game.fen())
+  
+  // Track set of unique Video IDs for each next candidate move
+  const moveVideoSets: Record<string, Set<string>> = {}
 
   const videoList = props.videos || []
 
@@ -76,19 +84,47 @@ function calculateNextMoves() {
       try {
         const tempGame = new Chess()
         tempGame.loadPgn(rawPgn)
-        const gameHistory = tempGame.history()
 
-        let isMatch = true
-        for (let i = 0; i < currentPlyCount; i++) {
-          if (gameHistory[i] !== currentHistory[i]) {
-            isMatch = false
-            break
+        if (transpositionChecked.value) {
+          // Transposition Logic: Step through the moves to match board FEN
+          const moves = tempGame.history()
+          const runner = new Chess()
+          
+          if (normalizeFen(runner.fen()) === currentBoardFen) {
+            if (moves.length > 0) {
+              const nextSan = moves[0]
+              if (!moveVideoSets[nextSan]) moveVideoSets[nextSan] = new Set()
+              moveVideoSets[nextSan].add(video.id)
+            }
+          } else {
+            for (let i = 0; i < moves.length; i++) {
+              runner.move(moves[i])
+              if (normalizeFen(runner.fen()) === currentBoardFen) {
+                if (i + 1 < moves.length) {
+                  const nextSan = moves[i + 1]
+                  if (!moveVideoSets[nextSan]) moveVideoSets[nextSan] = new Set()
+                  moveVideoSets[nextSan].add(video.id)
+                }
+                break
+              }
+            }
           }
-        }
+        } else {
+          // Strict Move Order Logic: Match exact move sequence ply by ply
+          const gameHistory = tempGame.history()
+          let isMatch = true
+          for (let i = 0; i < currentPlyCount; i++) {
+            if (gameHistory[i] !== currentHistory[i]) {
+              isMatch = false
+              break
+            }
+          }
 
-        if (isMatch && gameHistory[currentPlyCount]) {
-          const nextSan = gameHistory[currentPlyCount]
-          moveCounts[nextSan] = (moveCounts[nextSan] || 0) + 1
+          if (isMatch && gameHistory[currentPlyCount]) {
+            const nextSan = gameHistory[currentPlyCount]
+            if (!moveVideoSets[nextSan]) moveVideoSets[nextSan] = new Set()
+            moveVideoSets[nextSan].add(video.id)
+          }
         }
       } catch (e) {
         // Ignore unparseable PGN strings
@@ -96,8 +132,8 @@ function calculateNextMoves() {
     })
   })
 
-  nextMoves.value = Object.keys(moveCounts)
-    .map(san => ({ san, count: moveCounts[san] }))
+  nextMoves.value = Object.keys(moveVideoSets)
+    .map(san => ({ san, count: moveVideoSets[san].size }))
     .sort((a, b) => b.count - a.count)
 }
 
@@ -252,7 +288,7 @@ onMounted(() => {
               {{ candidate.san }}
             </a>
             <span class="text-muted ms-2 text-nowrap">
-              ({{ candidate.count }} {{ candidate.count === 1 ? 'game' : 'games' }})
+              ({{ candidate.count }} {{ candidate.count === 1 ? 'video' : 'videos' }})
             </span>
           </div>
         </div>

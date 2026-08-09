@@ -40,11 +40,10 @@
   },
   "videoGame": [
     {
-      "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 *",
-      "fen": "rnbqkb1r/1p3ppp/p2ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R w KQkq - 0 1",
+      "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Qc7 8. O-O Nc6 9. Kh1 Bd7 10. a4 Be7 11. Nb3 O-O 12. Be3 Nb4 13. a5 Bc6 14. Bb6 Qb8 15. Qd2 d5 16. e5 Nd7 17. Bd4 b5 18. Bg4 g6 19. Rae1 Rc8 20. f5 gxf5 21. Bxf5 Nf8 22. Qh6 Ng6 23. Bxg6 hxg6 24. Re3 Bf8 25. Qh4 Bg7 26. Rh3 Be8 27. Qh7+ Kf8 28. Qxg6 f6 29. Rxf6+ 1-0",
+      "fen": "rqr1bk2/6b1/p3pRQ1/Pp1pP3/1n1B4/1NN4R/1PP3PP/7K b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Eldis Cobo Arteaga",
-      "date": "1972-09-21"
+      "playerBlack": "Eldis Cobo Arteaga"
     }
   ],
   "chessCom": {

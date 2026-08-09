@@ -40,6 +40,10 @@ const props = defineProps({
 const videosRows = computed(() => props.videos.map(v => new VideoRow(v)))
 const expandedRows = ref([]);
 
+const totalGamesCount = computed(() => {
+  return props.videos.reduce((acc, v) => acc + (v.games?.length || 0), 0)
+})
+
 const publishedVisible = ref(window.innerWidth > 1000)
 const titleVisible = ref(true)
 const whiteVisible = ref(true)
@@ -89,9 +93,9 @@ function getOpeningForGame(video: Video, game: Game): string {
       <template #header>
         <div class="row">
           <span>
-          <span style="width:auto">{{ videosRows.length }} videos found</span>
+          <span style="width:auto">{{ videosRows.length }} videos found ({{ totalGamesCount }} games)</span>
           <span style="float:right" data-bs-toggle="collapse"
-                href="#tableProperties" aria-expanded="false" aria-controls="tableProperties">☰</span>
+                href="#tableProperties" aria-expanded="false" aria-controls="tableProperties">â°</span>
           </span>
         </div>
         <div class="row collapse hide mt-2" id="tableProperties">

@@ -40,11 +40,10 @@
   },
   "videoGame": [
     {
-      "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3 d5 *",
-      "fen": "rn1qk2r/p3bppp/bpp1pn2/3p4/2PP4/1PB2NP1/P3PPBP/RN1QK2R w KQkq - 0 1",
+      "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Nf6 13. e4 b5 14. Re1 dxe4 15. Rc1 Rc8 16. c5 Nd5 17. Rxe4 f5 18. Rxe6 Nxc3 19. Rxc3 Qxd4 20. Rc1 Bxc5 21. Qe2 Bb6 22. Nf3 Qg4 23. Rd1 f4 24. h3 b4 25. hxg4 Bxe2 26. Rxe2 fxg3 27. Kf1 Bxf2 28. g5 Rc7 29. Re4 c5 30. Ke2 g6 31. Rd6 Kg7 32. Rde6 Rff7 33. Kd3 Rfd7+ 34. Kc4 Rf7 35. Re8 Rfd7 36. Bh3 Rf7 37. Be6 Rf8 38. Bd5 Rxe8 39. Rxe8 h6 40. Re2 hxg5 41. Nxg5 Rd7 42. Nh3 Bd4 43. Rg2 Be5 44. Ng5 1-0",
+      "fen": "8/p2r2k1/6p1/2pBb1N1/1pK5/1P4p1/P5R1/8 b - - 0 1",
       "playerWhite": "Anatoly Karpov",
-      "playerBlack": "Lajos Portisch",
-      "date": "1989-06-09"
+      "playerBlack": "Lajos Portisch"
     }
   ],
   "chessCom": {
