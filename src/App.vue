@@ -66,7 +66,7 @@ videosStore.fetchVideos()
             agadmator-library
           </a>. 
           Should you find missing/invalid data, please create an issue on 
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
+          <a href="https://github.com/ajedreznoventa/ajedreznoventa.github.io/issues" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
             Github
           </a>.
         </p>
