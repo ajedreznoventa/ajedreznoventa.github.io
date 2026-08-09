@@ -1,4 +1,4 @@
-# agadmator-library
+# ajedreznoventa-library
 
 A Vue 3 + TypeScript web application that catalogs chess videos from the ajedreznoventa YouTube channel. The project includes automated data collection via YouTube API and a searchable/filterable video library interface.
 
