@@ -1,4 +1,4 @@
-<<script setup lang="ts">
+<script setup lang="ts">
 import PlayerFilterSelector from "@/components/filters/PlayerFilterSelector.vue";
 import {AddVideoFilterEvent} from "@/event/AddVideoFilterEvent";
 import {VideoFilter} from "@/model/VideoFilter";
@@ -54,13 +54,17 @@ function isLarge() {
 
 <template>
   <div class="card mt-2">
-    <div class="card-header">
-      Filters
-      <button class="btn btn-light float-end p-0" type="button" data-bs-toggle="collapse"
-              href="#filtersCard" aria-expanded="false" aria-controls="filtersCard">
-        &#x21D5;
-      </button>
-    </div>
+    <!-- Main Filters Header (Slightly darker grey & Collapsible arrow kept) -->
+    <a class="card-header fw-bold text-decoration-none text-dark d-flex justify-content-between align-items-center" 
+       style="background-color: #e2e3e5;"
+       data-bs-toggle="collapse" 
+       href="#filtersCard" 
+       role="button" 
+       aria-expanded="true" 
+       aria-controls="filtersCard">
+      <span>Filters</span>
+      <span class="btn btn-sm py-0 px-1">&#x21D5;</span>
+    </a>
 
     <div class="card-body p-4 collapse" :class="[isLarge() ? 'show' : '']" id="filtersCard">
       <!-- 50/50 Grid Row -->
@@ -75,19 +79,15 @@ function isLarge() {
           </div>
         </div>
 
-        <!-- RIGHT 50%: Stacked Filters (Player Filters top, Chessboard bottom, Clear Button) -->
+        <!-- RIGHT 50%: Stacked Filters -->
         <div class="col-md-6 d-flex flex-column gap-3">
           
-          <!-- Top: Player Filters -->
+          <!-- Top: Player Filters (Locked open, no collapse button) -->
           <div class="card">
-            <div class="card-header" data-bs-toggle="collapse"
-                 href="#playerFiltersCard" aria-expanded="false" aria-controls="playerFiltersCard">
+            <div class="card-header fw-bold">
               Player filters
-              <button class="btn btn-light float-end p-0" type="button">
-                &#x21D5;
-              </button>
             </div>
-            <div class="card-body collapse show" id="playerFiltersCard">
+            <div class="card-body show" id="playerFiltersCard">
               <nav>
                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
                   <button class="nav-link active" id="nav-single-player-tab" data-bs-toggle="tab"
@@ -115,16 +115,12 @@ function isLarge() {
             </div>
           </div>
 
-          <!-- Bottom: Chessboard Filter -->
+          <!-- Bottom: Chessboard Filter (Locked open, no collapse button) -->
           <div class="card">
-            <div class="card-header" data-bs-toggle="collapse"
-                 href="#chessboardCard" aria-expanded="false" aria-controls="chessboardCard">
+            <div class="card-header fw-bold">
               Chessboard filter
-              <button class="btn btn-light float-end p-0" type="button">
-                &#x21D5;
-              </button>
             </div>
-            <div class="card-body collapse show" id="chessboardCard">
+            <div class="card-body show" id="chessboardCard">
               <ChessboardFilterSelector :filters="filters"
                                         :videos="props.videos"
                                         @replaceFilter="onReplaceFilter"
@@ -132,7 +128,7 @@ function isLarge() {
             </div>
           </div>
 
-          <!-- Clear Filters Button - Centered on Right Panel -->
+          <!-- Clear Filters Button -->
           <div class="d-flex justify-content-center mt-1">
             <button id="clearFilterButton" type="button" class="btn btn-primary px-4" @click="onClearFiltersClicked">
               Clear filters
