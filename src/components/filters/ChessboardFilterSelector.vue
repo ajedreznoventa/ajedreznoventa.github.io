@@ -48,6 +48,15 @@ watch(props.filters, (filters) => {
 let game: any = null
 let board: any = null
 
+function updateFenInput() {
+  // Keep input clear if at starting position so placeholder stays visible
+  if (game.history().length === 0) {
+    fenInput.value = ''
+  } else {
+    fenInput.value = game.fen()
+  }
+}
+
 function calculateNextMoves() {
   if (!game) return
 
@@ -58,11 +67,9 @@ function calculateNextMoves() {
   const videoList = props.videos || []
 
   videoList.forEach((video: any) => {
-    // Retrieve Pgn array from store for this video ID
     const videoPgns = pgnsStore.getPgnsForVideo(video.id) || []
 
     videoPgns.forEach((pgnObj: any) => {
-      // Get raw string from Pgn model instance
       const rawPgn = typeof pgnObj === 'string' ? pgnObj : (pgnObj.pgn || pgnObj.rawPgn || '')
       if (!rawPgn) return
 
@@ -71,7 +78,6 @@ function calculateNextMoves() {
         tempGame.loadPgn(rawPgn)
         const gameHistory = tempGame.history()
 
-        // Check if game matches board's current move history up to current depth
         let isMatch = true
         for (let i = 0; i < currentPlyCount; i++) {
           if (gameHistory[i] !== currentHistory[i]) {
@@ -90,7 +96,6 @@ function calculateNextMoves() {
     })
   })
 
-  // Format into sorted candidate list
   nextMoves.value = Object.keys(moveCounts)
     .map(san => ({ san, count: moveCounts[san] }))
     .sort((a, b) => b.count - a.count)
@@ -100,7 +105,7 @@ function playCandidateMove(san: string) {
   try {
     game.move(san)
     board.position(game.fen())
-    fenInput.value = game.fen()
+    updateFenInput()
     fenError.value = false
     calculateNextMoves()
     onPgnChanged()
@@ -112,7 +117,7 @@ function playCandidateMove(san: string) {
 function onBackOneStep() {
   game.undo()
   board.position(game.fen())
-  fenInput.value = game.fen()
+  updateFenInput()
   fenError.value = false
   calculateNextMoves()
   onPgnChanged()
@@ -176,7 +181,7 @@ function onDrop(source: any, target: any) {
       promotion: 'q'
     })
 
-    fenInput.value = game.fen()
+    updateFenInput()
     fenError.value = false
     calculateNextMoves()
     onPgnChanged()
@@ -218,20 +223,17 @@ onMounted(() => {
 
 <template>
   <div class="d-flex flex-column gap-3">
+    <!-- Board & Move List Row -->
     <div class="d-flex flex-row align-items-start gap-3">
       <!-- Chessboard Container -->
       <div style="width: 350px; max-width: 100%;">
         <div id="boardFilter" style="width: 100%;"></div>
       </div>
 
-      <!-- Next Available Moves Column -->
-      <div class="d-flex flex-column gap-2 flex-grow-1" style="max-width: 220px;">
-        <span class="fw-bold small text-muted">Next Moves Available</span>
-        
-        <!-- Next Moves List -->
+      <!-- Moves Column matching 350px board height -->
+      <div class="flex-grow-1" style="max-width: 220px; height: 350px;">
         <div 
-          class="border rounded p-2 bg-light overflow-auto small" 
-          style="height: 290px;"
+          class="border rounded p-2 bg-light overflow-auto small w-100 h-100"
         >
           <div v-if="nextMoves.length === 0" class="text-muted fst-italic">
             No database moves from this position
@@ -254,30 +256,36 @@ onMounted(() => {
             </span>
           </div>
         </div>
-
-        <button class="btn btn-primary btn-sm w-100 mt-1" type="button" @click="onBackOneStep">
-          Back one step
-        </button>
       </div>
     </div>
 
-    <!-- FEN Input Section -->
-    <div class="w-100" style="max-width: 350px;">
-      <div class="input-group input-group-sm">
-        <input
-          type="text"
-          class="form-control"
-          :class="{ 'is-invalid': fenError }"
-          v-model="fenInput"
-          placeholder="Paste FEN position..."
-          @keyup.enter="onLoadFen"
-        />
-        <button class="btn btn-outline-primary" type="button" @click="onLoadFen">
-          Load FEN
-        </button>
+    <!-- FEN Input & 'Back One Move' Control Row (Y-axis aligned) -->
+    <div class="d-flex flex-row gap-3">
+      <!-- Load FEN Input -->
+      <div style="width: 350px; max-width: 100%;">
+        <div class="input-group input-group-sm">
+          <input
+            type="text"
+            class="form-control"
+            :class="{ 'is-invalid': fenError }"
+            v-model="fenInput"
+            placeholder="Paste FEN position..."
+            @keyup.enter="onLoadFen"
+          />
+          <button class="btn btn-outline-primary" type="button" @click="onLoadFen">
+            Load FEN
+          </button>
+        </div>
+        <div v-if="fenError" class="text-danger small mt-1">
+          Invalid FEN position
+        </div>
       </div>
-      <div v-if="fenError" class="text-danger small mt-1">
-        Invalid FEN position
+
+      <!-- Back One Move Button (X-axis aligned with Moves Column) -->
+      <div class="flex-grow-1" style="max-width: 220px;">
+        <button class="btn btn-primary btn-sm w-100" type="button" @click="onBackOneStep">
+          Back one move
+        </button>
       </div>
     </div>
   </div>
