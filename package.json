@@ -1,5 +1,5 @@
 {
-  "name": "agadmator-database.github.io",
+  "name": "ajedreznoventa-library.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "build_scripts/loadNewMovies.ts",
@@ -19,8 +19,8 @@
     "removeVideo": "tsc --project ./tsconfig.generate.json && node build_scripts/nodeActions/removeVideo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mateusz Dziurdziak",
-  "license": "Apache-2.0",
+  "author": "ajedreznoventa",
+  "license": "MIT",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",

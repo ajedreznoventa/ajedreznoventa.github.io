@@ -57,8 +57,8 @@ videosStore.fetchVideos()
           </a> 
           YouTube channel. Use the filters below to explore videos by players, head-to-head matchups, or specific chessboard positions. 
           This is a self-managed side project inspired by 
-          <a href="https://agadmator-library.github.io/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
-            agadmator-library
+          <a href="https://ajedreznoventa-library.github.io/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">
+            ajedreznoventa-library
           </a>. 
           Should you find missing/invalid data, please create an issue on 
           <a href="https://github.com/" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">

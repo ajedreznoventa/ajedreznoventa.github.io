@@ -1,4 +1,4 @@
-# agadmator-library.github.io
+# ajedreznoventa-library.github.io
 
 To run local server:
 1. `npm run build`

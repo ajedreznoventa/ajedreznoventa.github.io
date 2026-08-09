@@ -1,6 +1,6 @@
 # agadmator-library
 
-A Vue 3 + TypeScript web application that catalogs chess videos from the agadmator YouTube channel. The project includes automated data collection via YouTube API, chess game analysis using Stockfish, and a searchable/filterable video library interface.
+A Vue 3 + TypeScript web application that catalogs chess videos from the ajedreznoventa YouTube channel. The project includes automated data collection via YouTube API and a searchable/filterable video library interface.
 
 ## Build, Test, and Lint
 
