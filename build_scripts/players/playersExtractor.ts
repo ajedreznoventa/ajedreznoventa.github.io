@@ -78,16 +78,12 @@ function extractPlayers(id: string, description: string, pgn: string | undefined
                 .replaceAll(/\d{3,4}/g, "") // date
                 .replaceAll(/\d-\d/g, "") // result
                 .replaceAll("1//2", "")
-                .replaceAll("#agadmator ", "")
                 .replaceAll(/https?:\S+/g, "") // urls
                 .replaceAll("Live Chess (Chess.com) ", "")
-                .replaceAll(". Partida Fnal. Got Talent España", "")
                 .replaceAll(/Game \d+: /g, "")
                 .replaceAll(/Round\s+\d+/g, "")
                 .replaceAll("\r", "")
                 .replaceAll("vs. ", "vs ")
-                .replaceAll("vsWei", "vs Wei")
-                .replaceAll("vsMagnus", "vs Magnus")
             )
             .filter(value => /.+( - |\svs\s|\sVS\s).+/.test(value))
             .filter(value => value.length < 70)
