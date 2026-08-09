@@ -14,22 +14,28 @@ const props = defineProps({
 })
 
 const transpositionChecked = ref<boolean>(true)
+const fenInput = ref<string>('')
+const fenError = ref<boolean>(false)
 
 watch(props.filters, (filters) => {
-    if (game.pgn()) {
+    if (game && game.pgn()) {
       if (!filters.find((vf: VideoFilter) => vf instanceof PgnFilter)) {
         game.reset()
         board.position(game.fen())
+        fenInput.value = ''
+        fenError.value = false
       }
     }
 })
 
-let game = null
-let board = null
+let game: any = null
+let board: any = null
 
 function onBackOneStep() {
   game.undo()
   board.position(game.fen())
+  fenInput.value = game.fen()
+  fenError.value = false
   onPgnChanged()
 }
 
@@ -44,7 +50,22 @@ function onPgnChanged() {
   }
 }
 
-function onDragStart(source, piece) {
+function onLoadFen() {
+  const trimmedFen = fenInput.value.trim()
+  if (!trimmedFen) return
+
+  try {
+    // Attempt to load FEN into chess.js instance
+    game.load(trimmedFen)
+    board.position(game.fen())
+    fenError.value = false
+    onPgnChanged()
+  } catch (e) {
+    fenError.value = true
+  }
+}
+
+function onDragStart(source: any, piece: any) {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop
   let scrollLeft = window.pageXOffset || document.documentElement.scrollLeft
 
@@ -66,7 +87,7 @@ function onDragStart(source, piece) {
   }
 }
 
-function onDrop(source, target) {
+function onDrop(source: any, target: any) {
   window.onscroll = function () {
   }
 
@@ -77,6 +98,8 @@ function onDrop(source, target) {
       promotion: 'q'
     })
 
+    fenInput.value = game.fen()
+    fenError.value = false
     onPgnChanged()
 
     setTimeout(function () {
@@ -103,6 +126,7 @@ onMounted(() => {
     }
   }
 
+  // @ts-ignore
   board = Chessboard('boardFilter', config)
 
   // Force chessboard.js to recalculate dimensions after rendering in DOM
@@ -114,14 +138,36 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="d-flex flex-row align-items-center gap-3">
-    <div style="width: 350px; max-width: 100%;">
-      <div id="boardFilter" style="width: 100%;"></div>
+  <div class="d-flex flex-column gap-3">
+    <div class="d-flex flex-row align-items-center gap-3">
+      <div style="width: 350px; max-width: 100%;">
+        <div id="boardFilter" style="width: 100%;"></div>
+      </div>
+      <div>
+        <a class="btn btn-primary" role="button" @click="onBackOneStep">
+          Back one step
+        </a>
+      </div>
     </div>
-    <div>
-      <a class="btn btn-primary" role="button" @click="onBackOneStep">
-        Back one step
-      </a>
+
+    <!-- FEN Input Section -->
+    <div class="w-100" style="max-width: 350px;">
+      <div class="input-group input-group-sm">
+        <input
+          type="text"
+          class="form-control"
+          :class="{ 'is-invalid': fenError }"
+          v-model="fenInput"
+          placeholder="Paste FEN position..."
+          @keyup.enter="onLoadFen"
+        />
+        <button class="btn btn-outline-primary" type="button" @click="onLoadFen">
+          Load FEN
+        </button>
+      </div>
+      <div v-if="fenError" class="text-danger small mt-1">
+        Invalid FEN position
+      </div>
     </div>
   </div>
 </template>
