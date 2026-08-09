@@ -295,4 +295,29 @@ onMounted(() => {
 .move-btn:hover {
   background-color: #e2e8f0;
 }
+
+/* Mobile-only responsive styles (< 768px) */
+@media (max-width: 767.98px) {
+  /* Stack board and moves list vertically */
+  .d-flex.flex-row.align-items-start.gap-3 {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+
+  /* Allow board to expand to full mobile screen width */
+  div[style*="width: 350px"] {
+    width: 100% !important;
+  }
+
+  /* Expand moves list panel to full width */
+  .flex-grow-1[style*="max-width: 220px"] {
+    max-width: 100% !important;
+    height: 200px !important;
+  }
+
+  /* Stack lower controls row vertically */
+  .d-flex.flex-row.gap-3:last-child {
+    flex-direction: column !important;
+  }
+}
 </style>
