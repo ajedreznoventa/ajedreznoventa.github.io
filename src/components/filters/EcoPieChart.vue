@@ -112,9 +112,6 @@ function getPercentage(count: number): number {
 
 <template>
   <div class="d-flex flex-column align-items-center w-100 h-100 p-0">
-    <!-- Simplified Title -->
-    <h6 class="text-center text-muted mt-1 mb-2 fw-bold">Opening Distribution</h6>
-
     <div v-if="total === 0" class="text-center text-secondary my-auto">
       No opening data available
     </div>
@@ -134,7 +131,7 @@ function getPercentage(count: number): number {
               <title>{{ slice.label }}: {{ slice.count }} ({{ slice.percentage }}%)</title>
             </path>
             
-            <!-- In-Slice Label Text (14px matches fs-6 in legend) -->
+            <!-- In-Slice Label Text -->
             <text
               v-if="slice.count > 0 && slice.rawPercentage > 0.03"
               :x="slice.labelX"
@@ -185,7 +182,6 @@ function getPercentage(count: number): number {
   height: auto;
 }
 
-/* Updated font-size to 14px to match Bootstrap's .fs-6 */
 .slice-label {
   fill: #ffffff;
   font-size: 14px;

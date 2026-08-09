@@ -46,10 +46,15 @@ videosStore.fetchVideos()
   <div class="container">
     <Toast/>
 
-    <!-- Description Header Box -->
-    <div class="card mt-2 shadow-sm border-0 bg-light">
-      <div class="card-body py-2 px-3">
-        <h4 class="card-title fw-bold text-primary text-center mb-1">Ajedreznoventa Library</h4>
+    <!-- Description Card with Header -->
+    <div class="card mt-2 shadow-sm border-0">
+      <!-- Header: Off-black background, off-white text -->
+      <div class="card-header py-2 text-center" style="background-color: #212529; color: #f8f9fa;">
+        <h4 class="fw-bold mb-0">Ajedreznoventa Library</h4>
+      </div>
+
+      <!-- Body: Welcome Message -->
+      <div class="card-body py-2 px-3 bg-light">
         <p class="card-text text-dark mb-0 fs-6">
           Welcome! This library indexes and categorizes chess game analysis videos directly from the 
           <a href="https://www.youtube.com/@ajedreznoventa" target="_blank" rel="noopener noreferrer" class="fw-bold text-decoration-none">

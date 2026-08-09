@@ -54,7 +54,7 @@ function isLarge() {
 
 <template>
   <div class="card mt-2">
-    <!-- Main Filters Header (Slightly darker grey & Collapsible arrow kept) -->
+    <!-- Main Filters Header (Darker Grey for clear hierarchy) -->
     <a class="card-header fw-bold text-decoration-none text-dark d-flex justify-content-between align-items-center" 
        style="background-color: #e2e3e5;"
        data-bs-toggle="collapse" 
@@ -70,10 +70,13 @@ function isLarge() {
       <!-- 50/50 Grid Row -->
       <div class="row g-4">
         
-        <!-- LEFT 50%: Live Pie Chart -->
+        <!-- LEFT 50%: Live Pie Chart with Standardized Header -->
         <div class="col-md-6 d-flex">
-          <div class="card w-100 border bg-light">
-            <div class="card-body d-flex align-items-center justify-content-center">
+          <div class="card w-100 border">
+            <div class="card-header fw-bold">
+              Chess openings available
+            </div>
+            <div class="card-body d-flex align-items-center justify-content-center bg-light">
               <EcoPieChart :videos="props.videos" />
             </div>
           </div>
@@ -82,7 +85,7 @@ function isLarge() {
         <!-- RIGHT 50%: Stacked Filters -->
         <div class="col-md-6 d-flex flex-column gap-3">
           
-          <!-- Top: Player Filters (Locked open, no collapse button) -->
+          <!-- Top: Player Filters -->
           <div class="card">
             <div class="card-header fw-bold">
               Player filters
@@ -115,7 +118,7 @@ function isLarge() {
             </div>
           </div>
 
-          <!-- Bottom: Chessboard Filter (Locked open, no collapse button) -->
+          <!-- Bottom: Chessboard Filter -->
           <div class="card">
             <div class="card-header fw-bold">
               Chessboard filter
