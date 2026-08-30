@@ -1,9 +1,10 @@
 name: Load new videos
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '10 * * * *'
+    # Runs every Saturday at 00:00 CEST (Friday at 22:00 UTC)
+    - cron: '0 22 * * 5'
+  workflow_dispatch:
 
 env:
   YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
