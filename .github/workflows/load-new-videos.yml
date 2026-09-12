@@ -6,6 +6,9 @@ on:
     - cron: '0 22 * * 5'
   workflow_dispatch:
 
+permissions:
+  contents: write # Grants the write access required for git push
+
 env:
   YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 

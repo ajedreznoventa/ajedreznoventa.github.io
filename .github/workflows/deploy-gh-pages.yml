@@ -1,8 +1,8 @@
 name: Deploy GH Pages
 
 on:
-  push:
-    branches: ["main"]
+  #push:
+  #  branches: ["main"]
   workflow_dispatch:
   workflow_run:
     workflows: ["Load new videos"]
