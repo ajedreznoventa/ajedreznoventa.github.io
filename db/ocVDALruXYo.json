@@ -1,0 +1,47 @@
+{
+  "_id": "ocVDALruXYo",
+  "videoSnippet": {
+    "schemaVersion": 1,
+    "retrievedAt": "2026-11-07T16:22:53.773Z",
+    "publishedAt": "2026-11-06T00:02:25Z",
+    "title": "⚙️ https://ajedreznoventa.github.io/",
+    "description": "",
+    "thumbnail": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ocVDALruXYo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ocVDALruXYo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ocVDALruXYo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ocVDALruXYo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ocVDALruXYo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      "shortsAspectRatio": {
+        "url": "https://i.ytimg.com/vi/ocVDALruXYo/sardefault.jpg",
+        "width": 818,
+        "height": 1454
+      }
+    },
+    "videoId": "ocVDALruXYo"
+  },
+  "videoContentDetails": {
+    "duration": "PT38S"
+  },
+  "videoGame": []
+}
